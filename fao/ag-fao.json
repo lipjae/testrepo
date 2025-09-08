@@ -1,0 +1,7653 @@
+[
+  {
+    "agCode": 11101,
+    "agName": "쌀",
+    "faoCode": "0027",
+    "faoName": "Rice",
+    "faoKName": "쌀"
+  },
+  {
+    "agCode": 11101,
+    "agName": "쌀",
+    "faoCode": "0028",
+    "faoName": "Husked rice",
+    "faoKName": "현미"
+  },
+  {
+    "agCode": 11101,
+    "agName": "쌀",
+    "faoCode": "0029",
+    "faoName": "Rice, milled (husked)",
+    "faoKName": "백미(husked)"
+  },
+  {
+    "agCode": 11101,
+    "agName": "쌀",
+    "faoCode": "0031",
+    "faoName": "Rice, milled",
+    "faoKName": "백미"
+  },
+  {
+    "agCode": 11101,
+    "agName": "쌀",
+    "faoCode": "0032",
+    "faoName": "Rice, broken",
+    "faoKName": "쇄미"
+  },
+  {
+    "agCode": 11101,
+    "agName": "쌀",
+    "faoCode": "0038",
+    "faoName": "Flour of rice",
+    "faoKName": "쌀가루"
+  },
+  {
+    "agCode": 11101,
+    "agName": "쌀",
+    "faoCode": "0113",
+    "faoName": "Cereal preparations",
+    "faoKName": "곡류조제품"
+  },
+  {
+    "agCode": 11102,
+    "agName": "보리",
+    "faoCode": "0044",
+    "faoName": "Barley",
+    "faoKName": "보리"
+  },
+  {
+    "agCode": 11102,
+    "agName": "보리",
+    "faoCode": "0045",
+    "faoName": "Pot barley",
+    "faoKName": "보리(찧은)"
+  },
+  {
+    "agCode": 11102,
+    "agName": "보리",
+    "faoCode": "0046",
+    "faoName": "Barley, pearled",
+    "faoKName": "펄보리"
+  },
+  {
+    "agCode": 11102,
+    "agName": "보리",
+    "faoCode": "0048",
+    "faoName": "Barley flour and grits",
+    "faoKName": "보리가루와 그릿"
+  },
+  {
+    "agCode": 11102,
+    "agName": "보리",
+    "faoCode": "0049",
+    "faoName": "Malt, whether or not roasted",
+    "faoKName": "맥아(볶은 것인지에 상관없이)"
+  },
+  {
+    "agCode": 11102,
+    "agName": "보리",
+    "faoCode": "0113",
+    "faoName": "Cereal preparations",
+    "faoKName": "곡류조제품"
+  },
+  {
+    "agCode": 11103,
+    "agName": "밀",
+    "faoCode": "0015",
+    "faoName": "Wheat",
+    "faoKName": "밀"
+  },
+  {
+    "agCode": 11103,
+    "agName": "밀",
+    "faoCode": "0016",
+    "faoName": "Wheat and meslin flour",
+    "faoKName": "밀가루와 메슬린가루"
+  },
+  {
+    "agCode": 11103,
+    "agName": "밀",
+    "faoCode": "0021",
+    "faoName": "Bulgur",
+    "faoKName": "불거"
+  },
+  {
+    "agCode": 11104,
+    "agName": "호밀",
+    "faoCode": "0071",
+    "faoName": "Rye",
+    "faoKName": "호밀"
+  },
+  {
+    "agCode": 11104,
+    "agName": "호밀",
+    "faoCode": "0072",
+    "faoName": "Flour of rye",
+    "faoKName": "호밀가루"
+  },
+  {
+    "agCode": 11105,
+    "agName": "옥수수",
+    "faoCode": "0056",
+    "faoName": "Maize (corn)",
+    "faoKName": "옥수수"
+  },
+  {
+    "agCode": 11105,
+    "agName": "옥수수",
+    "faoCode": "0058",
+    "faoName": "Flour of maize",
+    "faoKName": "옥수수가루"
+  },
+  {
+    "agCode": 11105,
+    "agName": "옥수수",
+    "faoCode": "0113",
+    "faoName": "Cereal preparations",
+    "faoKName": "곡류조제품"
+  },
+  {
+    "agCode": 11106,
+    "agName": "밀리트",
+    "faoCode": "0079",
+    "faoName": "Millet",
+    "faoKName": "밀리트"
+  },
+  {
+    "agCode": 11106,
+    "agName": "밀리트",
+    "faoCode": "0092",
+    "faoName": "Quinoa",
+    "faoKName": "퀴노아"
+  },
+  {
+    "agCode": 11106,
+    "agName": "밀리트",
+    "faoCode": "0094",
+    "faoName": "Fonio",
+    "faoKName": "포니오"
+  },
+  {
+    "agCode": 11106,
+    "agName": "밀리트",
+    "faoCode": "0097",
+    "faoName": "Triticale",
+    "faoKName": "라이밀"
+  },
+  {
+    "agCode": 11107,
+    "agName": "수수",
+    "faoCode": "0083",
+    "faoName": "Sorghum",
+    "faoKName": "수수"
+  },
+  {
+    "agCode": 11108,
+    "agName": "메밀",
+    "faoCode": "0089",
+    "faoName": "Buckwheat",
+    "faoKName": "메밀"
+  },
+  {
+    "agCode": 11109,
+    "agName": "귀리",
+    "faoCode": "0075",
+    "faoName": "Oats",
+    "faoKName": "귀리"
+  },
+  {
+    "agCode": 11109,
+    "agName": "귀리",
+    "faoCode": "0076",
+    "faoName": "Oats, rolled",
+    "faoKName": "압착 귀리"
+  },
+  {
+    "agCode": 11109,
+    "agName": "귀리",
+    "faoCode": "0111",
+    "faoName": "Flour of cereals n.e.c.",
+    "faoKName": "기타 곡물가루"
+  },
+  {
+    "agCode": 11110,
+    "agName": "율무",
+    "faoCode": "0113",
+    "faoName": "Cereal preparations",
+    "faoKName": "곡류조제품"
+  },
+  {
+    "agCode": 11111,
+    "agName": "카나리시드",
+    "faoCode": "0101",
+    "faoName": "Canary seed",
+    "faoKName": "카나리시드"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0019",
+    "faoName": "Germ of wheat",
+    "faoKName": "밀의 배아"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0057",
+    "faoName": "Germ of maize",
+    "faoKName": "옥수수 배아"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0058",
+    "faoName": "Flour of maize",
+    "faoKName": "옥수수가루"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0080",
+    "faoName": "Flour of millet",
+    "faoKName": "밀리트가루"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0084",
+    "faoName": "Flour of sorghum",
+    "faoKName": "수수가루"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0090",
+    "faoName": "Flour of buckwheat",
+    "faoKName": "메밀가루"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0095",
+    "faoName": "Flour of fonio",
+    "faoKName": "포니오가루"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0098",
+    "faoName": "Flour of triticale",
+    "faoKName": "라이밀가루"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0103",
+    "faoName": "Mixed grain",
+    "faoKName": "혼합곡물"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0104",
+    "faoName": "Flour of mixed grain",
+    "faoKName": "혼합 곡물의 가루"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0108",
+    "faoName": "Cereals n.e.c.",
+    "faoKName": "기타 곡물"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0111",
+    "faoName": "Flour of cereals n.e.c.",
+    "faoKName": "기타 곡물가루"
+  },
+  {
+    "agCode": 11199,
+    "agName": "기타곡물",
+    "faoCode": "0113",
+    "faoName": "Cereal preparations",
+    "faoKName": "곡류조제품"
+  },
+  {
+    "agCode": 11201,
+    "agName": "감자",
+    "faoCode": "0116",
+    "faoName": "Potatoes",
+    "faoKName": "감자"
+  },
+  {
+    "agCode": 11201,
+    "agName": "감자",
+    "faoCode": "0117",
+    "faoName": "Flour, meal, powder, flakes, granules and pellets of potatoes",
+    "faoKName": "감자의 고운 가루ㆍ거친 가루ㆍ가루ㆍ플레이크(flake)ㆍ알갱이ㆍ펠릿(pellet)"
+  },
+  {
+    "agCode": 11201,
+    "agName": "감자",
+    "faoCode": "0118",
+    "faoName": "Potatoes, frozen",
+    "faoKName": "감자(냉동)"
+  },
+  {
+    "agCode": 11201,
+    "agName": "감자",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 11201,
+    "agName": "감자",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 11201,
+    "agName": "감자",
+    "faoCode": "0475",
+    "faoName": "Vegetables preserved (frozen)",
+    "faoKName": "보존처리된 채소(냉동)"
+  },
+  {
+    "agCode": 11202,
+    "agName": "고구마",
+    "faoCode": "0122",
+    "faoName": "Sweet potatoes",
+    "faoKName": "고구마"
+  },
+  {
+    "agCode": 11203,
+    "agName": "타피오카",
+    "faoCode": "0121",
+    "faoName": "Tapioca of potatoes",
+    "faoKName": "감자 타피오카"
+  },
+  {
+    "agCode": 11203,
+    "agName": "타피오카",
+    "faoCode": "0125",
+    "faoName": "Cassava, fresh",
+    "faoKName": "카사바(신선)"
+  },
+  {
+    "agCode": 11203,
+    "agName": "타피오카",
+    "faoCode": "0127",
+    "faoName": "Tapioca of cassava",
+    "faoKName": "카사바 타피오카"
+  },
+  {
+    "agCode": 11203,
+    "agName": "타피오카",
+    "faoCode": "0128",
+    "faoName": "Cassava, dry",
+    "faoKName": "카사바(건조)"
+  },
+  {
+    "agCode": 11250,
+    "agName": "얌",
+    "faoCode": "0137",
+    "faoName": "Yams",
+    "faoKName": "얌"
+  },
+  {
+    "agCode": 11260,
+    "agName": "토란",
+    "faoCode": "0135",
+    "faoName": "Yautia",
+    "faoKName": "아메리카토란"
+  },
+  {
+    "agCode": 11260,
+    "agName": "토란",
+    "faoCode": "0136",
+    "faoName": "Taro",
+    "faoKName": "토란"
+  },
+  {
+    "agCode": 11299,
+    "agName": "기타서류",
+    "faoCode": "0149",
+    "faoName": "Edible roots and tubers with high starch or inulin content, n.e.c., fresh",
+    "faoKName": "식용 뿌리 및 괴경"
+  },
+  {
+    "agCode": 11299,
+    "agName": "기타서류",
+    "faoCode": "0151",
+    "faoName": "Edible roots and tubers with high starch or inulin content, n.e.c., dry",
+    "faoKName": "식용 뿌리 및 괴경"
+  },
+  {
+    "agCode": 11301,
+    "agName": "대두",
+    "faoCode": "0236",
+    "faoName": "Soya beans",
+    "faoKName": "대두"
+  },
+  {
+    "agCode": 11301,
+    "agName": "대두",
+    "faoCode": "0343",
+    "faoName": "Flours and meals of oil seeds or oleaginous fruits, except those of mustard",
+    "faoKName": "채유(採油)에 적합한 종자와 과실의 고운 가루와 거친 가루(겨자의 고운 가루와 거친 가루는 제외한다)"
+  },
+  {
+    "agCode": 11311,
+    "agName": "녹두",
+    "faoCode": "0176",
+    "faoName": "Beans, dry",
+    "faoKName": "콩(건조)"
+  },
+  {
+    "agCode": 11311,
+    "agName": "녹두",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 11312,
+    "agName": "팥",
+    "faoCode": "0176",
+    "faoName": "Beans, dry",
+    "faoKName": "콩(건조)"
+  },
+  {
+    "agCode": 11312,
+    "agName": "팥",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 11313,
+    "agName": "강남콩",
+    "faoCode": "0176",
+    "faoName": "Beans, dry",
+    "faoKName": "콩(건조)"
+  },
+  {
+    "agCode": 11319,
+    "agName": "비그나파세러스콩",
+    "faoCode": "0176",
+    "faoName": "Beans, dry",
+    "faoKName": "콩(건조)"
+  },
+  {
+    "agCode": 11319,
+    "agName": "비그나파세러스콩",
+    "faoCode": "0195",
+    "faoName": "Cow peas, dry",
+    "faoKName": "동부콩(건조)"
+  },
+  {
+    "agCode": 11319,
+    "agName": "비그나파세러스콩",
+    "faoCode": "0197",
+    "faoName": "Pigeon peas, dry",
+    "faoKName": "비둘기콩(건조)"
+  },
+  {
+    "agCode": 11319,
+    "agName": "비그나파세러스콩",
+    "faoCode": "0203",
+    "faoName": "Bambara beans, dry",
+    "faoKName": "밤바라콩(건조)"
+  },
+  {
+    "agCode": 11319,
+    "agName": "비그나파세러스콩",
+    "faoCode": "0414",
+    "faoName": "Other beans, green",
+    "faoKName": "기타콩(신선)"
+  },
+  {
+    "agCode": 11319,
+    "agName": "비그나파세러스콩",
+    "faoCode": "0423",
+    "faoName": "String beans",
+    "faoKName": "스트링콩"
+  },
+  {
+    "agCode": 11319,
+    "agName": "비그나파세러스콩",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 11319,
+    "agName": "비그나파세러스콩",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 11321,
+    "agName": "완두",
+    "faoCode": "0187",
+    "faoName": "Peas, dry",
+    "faoKName": "완두콩(건조)"
+  },
+  {
+    "agCode": 11321,
+    "agName": "완두",
+    "faoCode": "0417",
+    "faoName": "Peas, green",
+    "faoKName": "완두콩(신선)"
+  },
+  {
+    "agCode": 11321,
+    "agName": "완두",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 11321,
+    "agName": "완두",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 11321,
+    "agName": "완두",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 11322,
+    "agName": "이집트콩",
+    "faoCode": "0191",
+    "faoName": "Chick peas, dry",
+    "faoKName": "이집트콩(건조)"
+  },
+  {
+    "agCode": 11323,
+    "agName": "렌즈콩",
+    "faoCode": "0201",
+    "faoName": "Lentils, dry",
+    "faoKName": "렌즈콩(건조)"
+  },
+  {
+    "agCode": 11324,
+    "agName": "잠두",
+    "faoCode": "0181",
+    "faoName": "Broad beans and horse beans, dry",
+    "faoKName": "잠두(건조)"
+  },
+  {
+    "agCode": 11399,
+    "agName": "기타콩",
+    "faoCode": "0211",
+    "faoName": "Other pulses n.e.c.",
+    "faoKName": "기타 채두류"
+  },
+  {
+    "agCode": 11399,
+    "agName": "기타콩",
+    "faoCode": "0212",
+    "faoName": "Flour of pulses",
+    "faoKName": "채두류가루"
+  },
+  {
+    "agCode": 11399,
+    "agName": "기타콩",
+    "faoCode": "0420",
+    "faoName": "Broad beans and horse beans, green",
+    "faoKName": "잠두(신선)"
+  },
+  {
+    "agCode": 11399,
+    "agName": "기타콩",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 11399,
+    "agName": "기타콩",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 11401,
+    "agName": "밀전분",
+    "faoCode": "0023",
+    "faoName": "Starch of wheat",
+    "faoKName": "밀전분"
+  },
+  {
+    "agCode": 11402,
+    "agName": "옥수수전분",
+    "faoCode": "0064",
+    "faoName": "Starch of maize",
+    "faoKName": "옥수수전분"
+  },
+  {
+    "agCode": 11403,
+    "agName": "감자전분",
+    "faoCode": "0119",
+    "faoName": "Starch of potatoes",
+    "faoKName": "감자전분"
+  },
+  {
+    "agCode": 11405,
+    "agName": "타피오카전분",
+    "faoCode": "0129",
+    "faoName": "Starch of cassava",
+    "faoKName": "카사바 전분"
+  },
+  {
+    "agCode": 11409,
+    "agName": "기타전분",
+    "faoCode": "0034",
+    "faoName": "Starch of rice",
+    "faoKName": "쌀전분"
+  },
+  {
+    "agCode": 11501,
+    "agName": "땅콩",
+    "faoCode": "0242",
+    "faoName": "Groundnuts, excluding shelled",
+    "faoKName": "땅콩(껍데기를 벗긴 것 제외)"
+  },
+  {
+    "agCode": 11501,
+    "agName": "땅콩",
+    "faoCode": "0243",
+    "faoName": "Groundnuts, shelled",
+    "faoKName": "땅콩(껍데기를 벗긴 것)"
+  },
+  {
+    "agCode": 11501,
+    "agName": "땅콩",
+    "faoCode": "0246",
+    "faoName": "Prepared groundnuts",
+    "faoKName": "땅콩(조제된)"
+  },
+  {
+    "agCode": 11501,
+    "agName": "땅콩",
+    "faoCode": "0247",
+    "faoName": "Peanut butter",
+    "faoKName": "땅콩 버터"
+  },
+  {
+    "agCode": 11502,
+    "agName": "코프라",
+    "faoCode": "0251",
+    "faoName": "Copra",
+    "faoKName": "코프라"
+  },
+  {
+    "agCode": 11503,
+    "agName": "아마인",
+    "faoCode": "0333",
+    "faoName": "Linseed",
+    "faoKName": "아마인"
+  },
+  {
+    "agCode": 11504,
+    "agName": "유채",
+    "faoCode": "0270",
+    "faoName": "Rape or colza seed",
+    "faoKName": "유채"
+  },
+  {
+    "agCode": 11505,
+    "agName": "해바라기씨",
+    "faoCode": "0267",
+    "faoName": "Sunflower seed",
+    "faoKName": "해바라기씨"
+  },
+  {
+    "agCode": 11510,
+    "agName": "파암넛",
+    "faoCode": "0254",
+    "faoName": "Oil palm fruit",
+    "faoKName": "팜넛"
+  },
+  {
+    "agCode": 11511,
+    "agName": "면실",
+    "faoCode": "0329",
+    "faoName": "Cotton seed",
+    "faoKName": "면실"
+  },
+  {
+    "agCode": 11512,
+    "agName": "피마자",
+    "faoCode": "0265",
+    "faoName": "Castor oil seeds",
+    "faoKName": "피마자"
+  },
+  {
+    "agCode": 11513,
+    "agName": "참깨",
+    "faoCode": "0289",
+    "faoName": "Sesame seed",
+    "faoKName": "참깨"
+  },
+  {
+    "agCode": 11514,
+    "agName": "겨자씨",
+    "faoCode": "0292",
+    "faoName": "Mustard seed",
+    "faoKName": "겨자씨"
+  },
+  {
+    "agCode": 11515,
+    "agName": "잇꽃씨",
+    "faoCode": "0280",
+    "faoName": "Safflower seed",
+    "faoKName": "잇꽃씨"
+  },
+  {
+    "agCode": 11516,
+    "agName": "양귀비씨",
+    "faoCode": "0296",
+    "faoName": "Poppy seed",
+    "faoKName": "양귀비씨"
+  },
+  {
+    "agCode": 11517,
+    "agName": "시어넛",
+    "faoCode": "0263",
+    "faoName": "Karite nuts (sheanuts)",
+    "faoKName": "캐리트너트(시어너트)"
+  },
+  {
+    "agCode": 11518,
+    "agName": "들깨",
+    "faoCode": "0339",
+    "faoName": "Other oil seeds, n.e.c.",
+    "faoKName": "기타 유지 종자"
+  },
+  {
+    "agCode": 11521,
+    "agName": "볶은 참깨가루",
+    "faoCode": "0235",
+    "faoName": "Prepared nuts",
+    "faoKName": "견과류(조제된)"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0275",
+    "faoName": "Tung nuts",
+    "faoKName": "유동"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0277",
+    "faoName": "Jojoba seeds",
+    "faoKName": "호호버씨"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0305",
+    "faoName": "Tallowtree seeds",
+    "faoKName": "유채씨"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0310",
+    "faoName": "Kapok fruit",
+    "faoKName": "케이폭과일"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0311",
+    "faoName": "Kapokseed in shell",
+    "faoKName": "케이폭씨(껍질 벗기지 않은 것)"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0312",
+    "faoName": "Kapokseed, shelled",
+    "faoKName": "케이폭씨(껍질 벗긴 것)"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0336",
+    "faoName": "Hempseed",
+    "faoKName": "대마"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0339",
+    "faoName": "Other oil seeds, n.e.c.",
+    "faoKName": "기타 유지 종자"
+  },
+  {
+    "agCode": 11599,
+    "agName": "기타채유종실",
+    "faoCode": "0343",
+    "faoName": "Flours and meals of oil seeds or oleaginous fruits, except those of mustard",
+    "faoKName": "채유(採油)에 적합한 종자와 과실의 고운 가루와 거친 가루(겨자의 고운 가루와 거친 가루는 제외한다)"
+  },
+  {
+    "agCode": 11601,
+    "agName": "사과",
+    "faoCode": "0515",
+    "faoName": "Apples",
+    "faoKName": "사과"
+  },
+  {
+    "agCode": 11601,
+    "agName": "사과",
+    "faoCode": "0518",
+    "faoName": "Apple juice",
+    "faoKName": "사과 주스"
+  },
+  {
+    "agCode": 11601,
+    "agName": "사과",
+    "faoCode": "0519",
+    "faoName": "Apple juice, concentrated",
+    "faoKName": "사과 주스(농축)"
+  },
+  {
+    "agCode": 11601,
+    "agName": "사과",
+    "faoCode": "0620",
+    "faoName": "Other fruit n.e.c., dried",
+    "faoKName": "기타 과실(건조)"
+  },
+  {
+    "agCode": 11601,
+    "agName": "사과",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11602,
+    "agName": "배",
+    "faoCode": "0521",
+    "faoName": "Pears",
+    "faoKName": "배"
+  },
+  {
+    "agCode": 11602,
+    "agName": "배",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11603,
+    "agName": "복숭아",
+    "faoCode": "0534",
+    "faoName": "Peaches and nectarines",
+    "faoKName": "복숭아와 넥터린"
+  },
+  {
+    "agCode": 11603,
+    "agName": "복숭아",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11604,
+    "agName": "살구",
+    "faoCode": "0526",
+    "faoName": "Apricots",
+    "faoKName": "살구"
+  },
+  {
+    "agCode": 11604,
+    "agName": "살구",
+    "faoCode": "0527",
+    "faoName": "Apricots, dried",
+    "faoKName": "살구(건조)"
+  },
+  {
+    "agCode": 11604,
+    "agName": "살구",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11605,
+    "agName": "자두",
+    "faoCode": "0536",
+    "faoName": "Plums and sloes",
+    "faoKName": "자두와 슬로"
+  },
+  {
+    "agCode": 11606,
+    "agName": "슬로우",
+    "faoCode": "0536",
+    "faoName": "Plums and sloes",
+    "faoKName": "자두와 슬로"
+  },
+  {
+    "agCode": 11607,
+    "agName": "프룬",
+    "faoCode": "0537",
+    "faoName": "Plums, dried",
+    "faoKName": "자두(건조)"
+  },
+  {
+    "agCode": 11608,
+    "agName": "버찌",
+    "faoCode": "0530",
+    "faoName": "Sour cherries",
+    "faoKName": "신 체리"
+  },
+  {
+    "agCode": 11608,
+    "agName": "버찌",
+    "faoCode": "0531",
+    "faoName": "Cherries",
+    "faoKName": "체리"
+  },
+  {
+    "agCode": 11608,
+    "agName": "버찌",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11609,
+    "agName": "마르멜로",
+    "faoCode": "0523",
+    "faoName": "Quinces",
+    "faoKName": "마르멜로"
+  },
+  {
+    "agCode": 11610,
+    "agName": "나무딸기",
+    "faoCode": "0547",
+    "faoName": "Raspberries",
+    "faoKName": "나무딸기"
+  },
+  {
+    "agCode": 11610,
+    "agName": "나무딸기",
+    "faoCode": "0558",
+    "faoName": "Other berries and fruits of the genus vaccinium n.e.c.",
+    "faoKName": "기타 박시니엄속의 베리류와 과실"
+  },
+  {
+    "agCode": 11610,
+    "agName": "나무딸기",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11611,
+    "agName": "커런트",
+    "faoCode": "0549",
+    "faoName": "Gooseberries",
+    "faoKName": "구즈베리"
+  },
+  {
+    "agCode": 11611,
+    "agName": "커런트",
+    "faoCode": "0550",
+    "faoName": "Currants",
+    "faoKName": "커런트"
+  },
+  {
+    "agCode": 11612,
+    "agName": "크렌베리",
+    "faoCode": "0552",
+    "faoName": "Blueberries",
+    "faoKName": "블루베리"
+  },
+  {
+    "agCode": 11612,
+    "agName": "크렌베리",
+    "faoCode": "0554",
+    "faoName": "Cranberries",
+    "faoKName": "크랜베리"
+  },
+  {
+    "agCode": 11612,
+    "agName": "크렌베리",
+    "faoCode": "0558",
+    "faoName": "Other berries and fruits of the genus vaccinium n.e.c.",
+    "faoKName": "기타 박시니엄속의 베리류와 과실"
+  },
+  {
+    "agCode": 11612,
+    "agName": "크렌베리",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11613,
+    "agName": "감",
+    "faoCode": "0587",
+    "faoName": "Persimmons",
+    "faoKName": "감"
+  },
+  {
+    "agCode": 11614,
+    "agName": "키위",
+    "faoCode": "0592",
+    "faoName": "Kiwi fruit",
+    "faoKName": "키위"
+  },
+  {
+    "agCode": 11615,
+    "agName": "매실",
+    "faoCode": "0541",
+    "faoName": "Other stone fruits",
+    "faoKName": "기타 핵과류"
+  },
+  {
+    "agCode": 11621,
+    "agName": "대추야자",
+    "faoCode": "0577",
+    "faoName": "Dates",
+    "faoKName": "대추야자"
+  },
+  {
+    "agCode": 11622,
+    "agName": "무화과",
+    "faoCode": "0569",
+    "faoName": "Figs",
+    "faoKName": "무화과"
+  },
+  {
+    "agCode": 11622,
+    "agName": "무화과",
+    "faoCode": "0570",
+    "faoName": "Figs, dried",
+    "faoKName": "무화과(건조)"
+  },
+  {
+    "agCode": 11623,
+    "agName": "파인애플",
+    "faoCode": "0574",
+    "faoName": "Pineapples",
+    "faoKName": "파인애플"
+  },
+  {
+    "agCode": 11623,
+    "agName": "파인애플",
+    "faoCode": "0575",
+    "faoName": "Pineapples, otherwise prepared or preserved",
+    "faoKName": "그 밖의 방법으로 조제하거나 보존처리한 파인애플"
+  },
+  {
+    "agCode": 11623,
+    "agName": "파인애플",
+    "faoCode": "0576",
+    "faoName": "Pineapple juice",
+    "faoKName": "파인애플 주스"
+  },
+  {
+    "agCode": 11623,
+    "agName": "파인애플",
+    "faoCode": "0580",
+    "faoName": "Juice of pineapples, concentrated",
+    "faoKName": "파인애플 주스(농축)"
+  },
+  {
+    "agCode": 11623,
+    "agName": "파인애플",
+    "faoCode": "0604",
+    "faoName": "Other tropical fruit, dried",
+    "faoKName": "기타 열대과일(건조)"
+  },
+  {
+    "agCode": 11623,
+    "agName": "파인애플",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 11624,
+    "agName": "애버카도우",
+    "faoCode": "0572",
+    "faoName": "Avocados",
+    "faoKName": "애버카도우"
+  },
+  {
+    "agCode": 11624,
+    "agName": "애버카도우",
+    "faoCode": "0604",
+    "faoName": "Other tropical fruit, dried",
+    "faoKName": "기타 열대과일(건조)"
+  },
+  {
+    "agCode": 11625,
+    "agName": "과아버",
+    "faoCode": "0571",
+    "faoName": "Mangoes, guavas and mangosteens",
+    "faoKName": "망고, 구아바 및 망고스틴"
+  },
+  {
+    "agCode": 11625,
+    "agName": "과아버",
+    "faoCode": "0604",
+    "faoName": "Other tropical fruit, dried",
+    "faoKName": "기타 열대과일(건조)"
+  },
+  {
+    "agCode": 11626,
+    "agName": "맹고",
+    "faoCode": "0571",
+    "faoName": "Mangoes, guavas and mangosteens",
+    "faoKName": "망고, 구아바 및 망고스틴"
+  },
+  {
+    "agCode": 11626,
+    "agName": "맹고",
+    "faoCode": "0604",
+    "faoName": "Other tropical fruit, dried",
+    "faoKName": "기타 열대과일(건조)"
+  },
+  {
+    "agCode": 11627,
+    "agName": "맹고스틴",
+    "faoCode": "0571",
+    "faoName": "Mangoes, guavas and mangosteens",
+    "faoKName": "망고, 구아바 및 망고스틴"
+  },
+  {
+    "agCode": 11627,
+    "agName": "맹고스틴",
+    "faoCode": "0604",
+    "faoName": "Other tropical fruit, dried",
+    "faoKName": "기타 열대과일(건조)"
+  },
+  {
+    "agCode": 11628,
+    "agName": "바나나",
+    "faoCode": "0486",
+    "faoName": "Bananas",
+    "faoKName": "바나나"
+  },
+  {
+    "agCode": 11628,
+    "agName": "바나나",
+    "faoCode": "0489",
+    "faoName": "Plantains and cooking bananas",
+    "faoKName": "플랜틴과 요리용 바나나"
+  },
+  {
+    "agCode": 11629,
+    "agName": "두리언",
+    "faoCode": "0603",
+    "faoName": "Other tropical fruits, n.e.c.",
+    "faoKName": "기타 열대과일"
+  },
+  {
+    "agCode": 11631,
+    "agName": "코코넛",
+    "faoCode": "0235",
+    "faoName": "Prepared nuts",
+    "faoKName": "견과류(조제된)"
+  },
+  {
+    "agCode": 11631,
+    "agName": "코코넛",
+    "faoCode": "0249",
+    "faoName": "Coconuts, in shell",
+    "faoKName": "코코넛(껍데기를 벗기지 않은 것)"
+  },
+  {
+    "agCode": 11631,
+    "agName": "코코넛",
+    "faoCode": "0250",
+    "faoName": "Coconuts, desiccated",
+    "faoKName": "코코넛(건조)"
+  },
+  {
+    "agCode": 11631,
+    "agName": "코코넛",
+    "faoCode": "0622",
+    "faoName": "Juice of fruits n.e.c.",
+    "faoKName": "기타 과실 주스"
+  },
+  {
+    "agCode": 11632,
+    "agName": "브라질넛",
+    "faoCode": "0216",
+    "faoName": "Brazil nuts, in shell",
+    "faoKName": "브라질넛(껍데기를 벗기지 않은 것)"
+  },
+  {
+    "agCode": 11632,
+    "agName": "브라질넛",
+    "faoCode": "0229",
+    "faoName": "Brazil nuts, shelled",
+    "faoKName": "브라질넛(껍데기를 벗긴 것)"
+  },
+  {
+    "agCode": 11633,
+    "agName": "캐슈넛",
+    "faoCode": "0217",
+    "faoName": "Cashew nuts, in shell",
+    "faoKName": "캐슈넛(껍데기를 벗기지 않은 것)"
+  },
+  {
+    "agCode": 11633,
+    "agName": "캐슈넛",
+    "faoCode": "0230",
+    "faoName": "Cashew nuts, shelled",
+    "faoKName": "캐슈넛(껍데기를 벗긴 것)"
+  },
+  {
+    "agCode": 11633,
+    "agName": "캐슈넛",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 11641,
+    "agName": "오렌지",
+    "faoCode": "0490",
+    "faoName": "Oranges",
+    "faoKName": "오렌지"
+  },
+  {
+    "agCode": 11641,
+    "agName": "오렌지",
+    "faoCode": "0491",
+    "faoName": "Orange juice",
+    "faoKName": "오렌지 주스"
+  },
+  {
+    "agCode": 11641,
+    "agName": "오렌지",
+    "faoCode": "0492",
+    "faoName": "Orange juice, concentrated",
+    "faoKName": "오렌지 주스(농축)"
+  },
+  {
+    "agCode": 11642,
+    "agName": "감귤",
+    "faoCode": "0495",
+    "faoName": "Tangerines, mandarins, clementines",
+    "faoKName": "귤, 만다린, 클레멘타인"
+  },
+  {
+    "agCode": 11643,
+    "agName": "맨더린류",
+    "faoCode": "0495",
+    "faoName": "Tangerines, mandarins, clementines",
+    "faoKName": "귤, 만다린, 클레멘타인"
+  },
+  {
+    "agCode": 11644,
+    "agName": "레몬",
+    "faoCode": "0497",
+    "faoName": "Lemons and limes",
+    "faoKName": "레몬과 라임"
+  },
+  {
+    "agCode": 11644,
+    "agName": "레몬",
+    "faoCode": "0498",
+    "faoName": "Juice of lemon",
+    "faoKName": "레몬 주스"
+  },
+  {
+    "agCode": 11644,
+    "agName": "레몬",
+    "faoCode": "0499",
+    "faoName": "Lemon juice, concentrated",
+    "faoKName": "레몬 주스(농축)"
+  },
+  {
+    "agCode": 11645,
+    "agName": "그레이프푸루트",
+    "faoCode": "0507",
+    "faoName": "Pomelos and grapefruits",
+    "faoKName": "포멜로와 그레이프프루트"
+  },
+  {
+    "agCode": 11645,
+    "agName": "그레이프푸루트",
+    "faoCode": "0509",
+    "faoName": "Grapefruit juice",
+    "faoKName": "그레이프푸루트 주스"
+  },
+  {
+    "agCode": 11645,
+    "agName": "그레이프푸루트",
+    "faoCode": "0510",
+    "faoName": "Grapefruit juice, concentrated",
+    "faoKName": "그레이프푸루트 주스(농축)"
+  },
+  {
+    "agCode": 11646,
+    "agName": "유자",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11649,
+    "agName": "기타감귤류",
+    "faoCode": "0496",
+    "faoName": "Juice of tangerine",
+    "faoKName": "감귤류 주스"
+  },
+  {
+    "agCode": 11649,
+    "agName": "기타감귤류",
+    "faoCode": "0512",
+    "faoName": "Other citrus fruit, n.e.c.",
+    "faoKName": "기타 감귤류"
+  },
+  {
+    "agCode": 11649,
+    "agName": "기타감귤류",
+    "faoCode": "0513",
+    "faoName": "Juice of citrus fruit n.e.c.",
+    "faoKName": "기타 감귤류 주스"
+  },
+  {
+    "agCode": 11649,
+    "agName": "기타감귤류",
+    "faoCode": "0514",
+    "faoName": "Citrus juice, concentrated n.e.c.",
+    "faoKName": "감귤류 주스(농축)"
+  },
+  {
+    "agCode": 11649,
+    "agName": "기타감귤류",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11651,
+    "agName": "포도",
+    "faoCode": "0560",
+    "faoName": "Grapes",
+    "faoKName": "포도"
+  },
+  {
+    "agCode": 11651,
+    "agName": "포도",
+    "faoCode": "0561",
+    "faoName": "Raisins",
+    "faoKName": "건포도"
+  },
+  {
+    "agCode": 11651,
+    "agName": "포도",
+    "faoCode": "0562",
+    "faoName": "Grape juice",
+    "faoKName": "포도 주스"
+  },
+  {
+    "agCode": 11651,
+    "agName": "포도",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11652,
+    "agName": "파파야",
+    "faoCode": "0600",
+    "faoName": "Papayas",
+    "faoKName": "파파야"
+  },
+  {
+    "agCode": 11653,
+    "agName": "팜하트",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11690,
+    "agName": "과실혼합물",
+    "faoCode": "0604",
+    "faoName": "Other tropical fruit, dried",
+    "faoKName": "기타 열대과일(건조)"
+  },
+  {
+    "agCode": 11690,
+    "agName": "과실혼합물",
+    "faoCode": "0620",
+    "faoName": "Other fruit n.e.c., dried",
+    "faoKName": "기타 과실(건조)"
+  },
+  {
+    "agCode": 11690,
+    "agName": "과실혼합물",
+    "faoCode": "0622",
+    "faoName": "Juice of fruits n.e.c.",
+    "faoKName": "기타 과실 주스"
+  },
+  {
+    "agCode": 11690,
+    "agName": "과실혼합물",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11691,
+    "agName": "단일과실조제품",
+    "faoCode": "0235",
+    "faoName": "Prepared nuts",
+    "faoKName": "견과류(조제된)"
+  },
+  {
+    "agCode": 11691,
+    "agName": "단일과실조제품",
+    "faoCode": "0262",
+    "faoName": "Olives preserved",
+    "faoKName": "올리브(보존처리된)"
+  },
+  {
+    "agCode": 11691,
+    "agName": "단일과실조제품",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 11691,
+    "agName": "단일과실조제품",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11691,
+    "agName": "단일과실조제품",
+    "faoCode": "0633",
+    "faoName": "Other non-alcoholic caloric beverages",
+    "faoKName": "다른 무알코올 칼로리 음료"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0235",
+    "faoName": "Prepared nuts",
+    "faoKName": "견과류(조제된)"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0466",
+    "faoName": "Other vegetable juices",
+    "faoKName": "기타 채소 주스"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0538",
+    "faoName": "Juice of plum",
+    "faoKName": "자두 주스"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0539",
+    "faoName": "Juice of plum, concentrated",
+    "faoKName": "자두 주스(농축)"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0541",
+    "faoName": "Other stone fruits",
+    "faoKName": "기타 핵과류"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0542",
+    "faoName": "Other pome fruits",
+    "faoKName": "기타 이과류"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0583",
+    "faoName": "Juice of mango",
+    "faoKName": "망고 주스"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0584",
+    "faoName": "Mango pulp",
+    "faoKName": "망고 펄프"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0591",
+    "faoName": "Cashewapple",
+    "faoKName": "캐슈애플"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0603",
+    "faoName": "Other tropical fruits, n.e.c.",
+    "faoKName": "기타 열대과일"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0604",
+    "faoName": "Other tropical fruit, dried",
+    "faoKName": "기타 열대과일(건조)"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0619",
+    "faoName": "Other fruits, n.e.c.",
+    "faoKName": "기타 과실"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0620",
+    "faoName": "Other fruit n.e.c., dried",
+    "faoKName": "기타 과실(건조)"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0622",
+    "faoName": "Juice of fruits n.e.c.",
+    "faoKName": "기타 과실 주스"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0624",
+    "faoName": "Flour of fruits",
+    "faoKName": "과실 가루"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 11699,
+    "agName": "기타과실",
+    "faoCode": "0626",
+    "faoName": "Homogenized cooked fruit, prepared",
+    "faoKName": "균질화된 과일(조제)"
+  },
+  {
+    "agCode": 11901,
+    "agName": "호프",
+    "faoCode": "0677",
+    "faoName": "Hop cones",
+    "faoKName": "호프"
+  },
+  {
+    "agCode": 11902,
+    "agName": "루플린",
+    "faoCode": "0677",
+    "faoName": "Hop cones",
+    "faoKName": "호프"
+  },
+  {
+    "agCode": 11911,
+    "agName": "로우커스트두",
+    "faoCode": "0460",
+    "faoName": "Vegetable products, fresh or dry n.e.c.",
+    "faoKName": "기타 채소 제품(신선 또는 건조)"
+  },
+  {
+    "agCode": 11911,
+    "agName": "로우커스트두",
+    "faoCode": "0461",
+    "faoName": "Locust beans (carobs)",
+    "faoKName": "로우커스트두(캐롭)"
+  },
+  {
+    "agCode": 11912,
+    "agName": "과실의 핵",
+    "faoCode": "0460",
+    "faoName": "Vegetable products, fresh or dry n.e.c.",
+    "faoKName": "기타 채소 제품(신선 또는 건조)"
+  },
+  {
+    "agCode": 11921,
+    "agName": "사탕무",
+    "faoCode": "0157",
+    "faoName": "Sugar beet",
+    "faoKName": "사탕무"
+  },
+  {
+    "agCode": 11922,
+    "agName": "사탕수수",
+    "faoCode": "0156",
+    "faoName": "Sugar cane",
+    "faoKName": "사탕수수"
+  },
+  {
+    "agCode": 11931,
+    "agName": "치커리 뿌리",
+    "faoCode": "0459",
+    "faoName": "Chicory roots",
+    "faoKName": "치커리 뿌리"
+  },
+  {
+    "agCode": 11932,
+    "agName": "구약구",
+    "faoCode": "0460",
+    "faoName": "Vegetable products, fresh or dry n.e.c.",
+    "faoKName": "기타 채소 제품(신선 또는 건조)"
+  },
+  {
+    "agCode": 11933,
+    "agName": "화분",
+    "faoCode": "0460",
+    "faoName": "Vegetable products, fresh or dry n.e.c.",
+    "faoKName": "기타 채소 제품(신선 또는 건조)"
+  },
+  {
+    "agCode": 11939,
+    "agName": "기타식물성산물",
+    "faoCode": "0460",
+    "faoName": "Vegetable products, fresh or dry n.e.c.",
+    "faoKName": "기타 채소 제품(신선 또는 건조)"
+  },
+  {
+    "agCode": 11941,
+    "agName": "마태",
+    "faoCode": "0671",
+    "faoName": "Maté leaves",
+    "faoKName": "마태"
+  },
+  {
+    "agCode": 11942,
+    "agName": "바닐라두",
+    "faoCode": "0692",
+    "faoName": "Vanilla, raw",
+    "faoKName": "바닐라(생것)"
+  },
+  {
+    "agCode": 11961,
+    "agName": "과수목종자",
+    "faoCode": "0256",
+    "faoName": "Palm kernels",
+    "faoKName": "팜핵"
+  },
+  {
+    "agCode": 11963,
+    "agName": "연초종자",
+    "faoCode": "0256",
+    "faoName": "Palm kernels",
+    "faoKName": "팜핵"
+  },
+  {
+    "agCode": 11964,
+    "agName": "인삼종자",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 11969,
+    "agName": "기타종자",
+    "faoCode": "0256",
+    "faoName": "Palm kernels",
+    "faoKName": "팜핵"
+  },
+  {
+    "agCode": 12101,
+    "agName": "배추",
+    "faoCode": "0358",
+    "faoName": "Cabbages",
+    "faoKName": "양배추"
+  },
+  {
+    "agCode": 12102,
+    "agName": "양배추",
+    "faoCode": "0358",
+    "faoName": "Cabbages",
+    "faoKName": "양배추"
+  },
+  {
+    "agCode": 12102,
+    "agName": "양배추",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12103,
+    "agName": "꽃양배추",
+    "faoCode": "0393",
+    "faoName": "Cauliflowers and broccoli",
+    "faoKName": "꽃양배추와 브로콜리"
+  },
+  {
+    "agCode": 12103,
+    "agName": "꽃양배추",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12104,
+    "agName": "방울다다기양배추",
+    "faoCode": "0358",
+    "faoName": "Cabbages",
+    "faoKName": "양배추"
+  },
+  {
+    "agCode": 12105,
+    "agName": "김치",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 12109,
+    "agName": "기타배추",
+    "faoCode": "0358",
+    "faoName": "Cabbages",
+    "faoKName": "양배추"
+  },
+  {
+    "agCode": 12111,
+    "agName": "상치",
+    "faoCode": "0372",
+    "faoName": "Lettuce and chicory",
+    "faoKName": "양상추와 치커리"
+  },
+  {
+    "agCode": 12112,
+    "agName": "결구상치",
+    "faoCode": "0372",
+    "faoName": "Lettuce and chicory",
+    "faoKName": "양상추와 치커리"
+  },
+  {
+    "agCode": 12113,
+    "agName": "시금치",
+    "faoCode": "0373",
+    "faoName": "Spinach",
+    "faoKName": "시금치"
+  },
+  {
+    "agCode": 12113,
+    "agName": "시금치",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12114,
+    "agName": "깻잎",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 12121,
+    "agName": "무",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 12121,
+    "agName": "무",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12122,
+    "agName": "순무",
+    "faoCode": "0426",
+    "faoName": "Carrots and turnips",
+    "faoKName": "당근과 순무"
+  },
+  {
+    "agCode": 12123,
+    "agName": "당근",
+    "faoCode": "0426",
+    "faoName": "Carrots and turnips",
+    "faoKName": "당근과 순무"
+  },
+  {
+    "agCode": 12123,
+    "agName": "당근",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12123,
+    "agName": "당근",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12123,
+    "agName": "당근",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 12124,
+    "agName": "고추냉이",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 12129,
+    "agName": "기타근채",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 12131,
+    "agName": "토마토",
+    "faoCode": "0388",
+    "faoName": "Tomatoes",
+    "faoKName": "토마토"
+  },
+  {
+    "agCode": 12131,
+    "agName": "토마토",
+    "faoCode": "0390",
+    "faoName": "Tomato juice",
+    "faoKName": "토마토 주스"
+  },
+  {
+    "agCode": 12131,
+    "agName": "토마토",
+    "faoCode": "0391",
+    "faoName": "Paste of tomatoes",
+    "faoKName": "토마토 페이스트"
+  },
+  {
+    "agCode": 12131,
+    "agName": "토마토",
+    "faoCode": "0392",
+    "faoName": "Tomatoes, peeled (o/t vinegar)",
+    "faoKName": "토마토(껍질을 벗긴 것)(식초처리된것 제외)"
+  },
+  {
+    "agCode": 12131,
+    "agName": "토마토",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12131,
+    "agName": "토마토",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 12132,
+    "agName": "오이",
+    "faoCode": "0397",
+    "faoName": "Cucumbers and gherkins",
+    "faoKName": "오이"
+  },
+  {
+    "agCode": 12132,
+    "agName": "오이",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12132,
+    "agName": "오이",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 12133,
+    "agName": "멜론",
+    "faoCode": "0299",
+    "faoName": "Melonseed",
+    "faoKName": "멜론 종자"
+  },
+  {
+    "agCode": 12133,
+    "agName": "멜론",
+    "faoCode": "0568",
+    "faoName": "Cantaloupes and other melons",
+    "faoKName": "칸타루페 및 기타 멜론류"
+  },
+  {
+    "agCode": 12134,
+    "agName": "호박",
+    "faoCode": "0394",
+    "faoName": "Pumpkins, squash and gourds",
+    "faoKName": "호박"
+  },
+  {
+    "agCode": 12134,
+    "agName": "호박",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12135,
+    "agName": "가지",
+    "faoCode": "0399",
+    "faoName": "Eggplants (aubergines)",
+    "faoKName": "가지"
+  },
+  {
+    "agCode": 12136,
+    "agName": "딸기",
+    "faoCode": "0544",
+    "faoName": "Strawberries",
+    "faoKName": "딸기"
+  },
+  {
+    "agCode": 12136,
+    "agName": "딸기",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 12137,
+    "agName": "수박",
+    "faoCode": "0567",
+    "faoName": "Watermelons",
+    "faoKName": "수박"
+  },
+  {
+    "agCode": 12138,
+    "agName": "파프리카",
+    "faoCode": "0401",
+    "faoName": "Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",
+    "faoKName": "고추(신선)"
+  },
+  {
+    "agCode": 12139,
+    "agName": "참외",
+    "faoCode": "0568",
+    "faoName": "Cantaloupes and other melons",
+    "faoKName": "칸타루페 및 기타 멜론류"
+  },
+  {
+    "agCode": 12141,
+    "agName": "양파",
+    "faoCode": "0402",
+    "faoName": "Onions and shallots, green",
+    "faoKName": "양파와 샬롯(신선)"
+  },
+  {
+    "agCode": 12141,
+    "agName": "양파",
+    "faoCode": "0403",
+    "faoName": "Onions and shallots, dry (excluding dehydrated)",
+    "faoKName": "양파와 샬롯(건조)"
+  },
+  {
+    "agCode": 12141,
+    "agName": "양파",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12141,
+    "agName": "양파",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12141,
+    "agName": "양파",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12142,
+    "agName": "파",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12143,
+    "agName": "쪽파",
+    "faoCode": "0402",
+    "faoName": "Onions and shallots, green",
+    "faoKName": "양파와 샬롯(신선)"
+  },
+  {
+    "agCode": 12143,
+    "agName": "쪽파",
+    "faoCode": "0403",
+    "faoName": "Onions and shallots, dry (excluding dehydrated)",
+    "faoKName": "양파와 샬롯(건조)"
+  },
+  {
+    "agCode": 12143,
+    "agName": "쪽파",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12144,
+    "agName": "마늘",
+    "faoCode": "0406",
+    "faoName": "Green garlic",
+    "faoKName": "마늘(신선)"
+  },
+  {
+    "agCode": 12144,
+    "agName": "마늘",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12144,
+    "agName": "마늘",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12144,
+    "agName": "마늘",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12144,
+    "agName": "마늘",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 12145,
+    "agName": "부추",
+    "faoCode": "0407",
+    "faoName": "Leeks and other alliaceous vegetables",
+    "faoKName": "부추 및 기타 파종류의 야채"
+  },
+  {
+    "agCode": 12146,
+    "agName": "대파",
+    "faoCode": "0407",
+    "faoName": "Leeks and other alliaceous vegetables",
+    "faoKName": "부추 및 기타 파종류의 야채"
+  },
+  {
+    "agCode": 12146,
+    "agName": "대파",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12149,
+    "agName": "기타파속채소",
+    "faoCode": "0407",
+    "faoName": "Leeks and other alliaceous vegetables",
+    "faoKName": "부추 및 기타 파종류의 야채"
+  },
+  {
+    "agCode": 12151,
+    "agName": "아스파라거스",
+    "faoCode": "0367",
+    "faoName": "Asparagus",
+    "faoKName": "아스파라거스"
+  },
+  {
+    "agCode": 12151,
+    "agName": "아스파라거스",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 12151,
+    "agName": "아스파라거스",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 12152,
+    "agName": "샐러리",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 12161,
+    "agName": "고추",
+    "faoCode": "0401",
+    "faoName": "Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",
+    "faoKName": "고추(신선)"
+  },
+  {
+    "agCode": 12161,
+    "agName": "고추",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12161,
+    "agName": "고추",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 12161,
+    "agName": "고추",
+    "faoCode": "0689",
+    "faoName": "Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",
+    "faoKName": "고추와 파프리카(건조, 생것)"
+  },
+  {
+    "agCode": 12162,
+    "agName": "생강",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 12162,
+    "agName": "생강",
+    "faoCode": "0720",
+    "faoName": "Ginger, raw",
+    "faoKName": "생강(생것)"
+  },
+  {
+    "agCode": 12171,
+    "agName": "토란줄기",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12172,
+    "agName": "연뿌리",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 12173,
+    "agName": "염교",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12174,
+    "agName": "균질화 채소",
+    "faoCode": "0476",
+    "faoName": "Homogenized vegetable preparations",
+    "faoKName": "균질화한 채소조제품"
+  },
+  {
+    "agCode": 12176,
+    "agName": "채소혼합물",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12176,
+    "agName": "채소혼합물",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12176,
+    "agName": "채소혼합물",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 12177,
+    "agName": "채소쥬스",
+    "faoCode": "0466",
+    "faoName": "Other vegetable juices",
+    "faoKName": "기타 채소 주스"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0235",
+    "faoName": "Prepared nuts",
+    "faoKName": "견과류(조제된)"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0378",
+    "faoName": "Cassava leaves",
+    "faoKName": "카사바 잎"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0430",
+    "faoName": "Okra",
+    "faoKName": "오크라"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0446",
+    "faoName": "Green corn (maize)",
+    "faoKName": "풋옥수수"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0475",
+    "faoName": "Vegetables preserved (frozen)",
+    "faoKName": "보존처리된 채소(냉동)"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 12179,
+    "agName": "기타채소",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 12181,
+    "agName": "치커리 채소",
+    "faoCode": "0372",
+    "faoName": "Lettuce and chicory",
+    "faoKName": "양상추와 치커리"
+  },
+  {
+    "agCode": 12183,
+    "agName": "후추",
+    "faoCode": "0687",
+    "faoName": "Pepper (Piper spp.), raw",
+    "faoKName": "후추(생것)"
+  },
+  {
+    "agCode": 12184,
+    "agName": "스위트콘",
+    "faoCode": "0447",
+    "faoName": "Sweet corn, frozen",
+    "faoKName": "스위트콘(냉동)"
+  },
+  {
+    "agCode": 12184,
+    "agName": "스위트콘",
+    "faoCode": "0448",
+    "faoName": "Sweet corn, prepared or preserved",
+    "faoKName": "스위트콘(조제 또는 보존처리된)"
+  },
+  {
+    "agCode": 12184,
+    "agName": "스위트콘",
+    "faoCode": "0471",
+    "faoName": "Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",
+    "faoKName": "식초 또는 아세트산으로 보존된 채소, 콩 및 감자"
+  },
+  {
+    "agCode": 12184,
+    "agName": "스위트콘",
+    "faoCode": "0475",
+    "faoName": "Vegetables preserved (frozen)",
+    "faoKName": "보존처리된 채소(냉동)"
+  },
+  {
+    "agCode": 12184,
+    "agName": "스위트콘",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 12185,
+    "agName": "올리브",
+    "faoCode": "0260",
+    "faoName": "Olives",
+    "faoKName": "올리브"
+  },
+  {
+    "agCode": 12185,
+    "agName": "올리브",
+    "faoCode": "0262",
+    "faoName": "Olives preserved",
+    "faoKName": "올리브(보존처리된)"
+  },
+  {
+    "agCode": 12185,
+    "agName": "올리브",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 12186,
+    "agName": "고구마줄기",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12188,
+    "agName": "사우어크라우트",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 12189,
+    "agName": "아티초크",
+    "faoCode": "0366",
+    "faoName": "Artichokes",
+    "faoKName": "아티초크"
+  },
+  {
+    "agCode": 12190,
+    "agName": "식용의채소,뿌리,괴경",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 12190,
+    "agName": "식용의채소,뿌리,괴경",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 12190,
+    "agName": "식용의채소,뿌리,괴경",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 12201,
+    "agName": "튜립",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12202,
+    "agName": "백합(화훼류)",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12203,
+    "agName": "다리아",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12204,
+    "agName": "히아신스",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12205,
+    "agName": "글라디올러스",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12206,
+    "agName": "치커리",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12207,
+    "agName": "아이리스",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12208,
+    "agName": "후리지아",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12209,
+    "agName": "수선",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12219,
+    "agName": "기타구근",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12221,
+    "agName": "난초",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12222,
+    "agName": "카네이션",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12223,
+    "agName": "구즈마니아",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12224,
+    "agName": "안개초",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12225,
+    "agName": "국화",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12226,
+    "agName": "선인장",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12227,
+    "agName": "양란",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12229,
+    "agName": "기타화초",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12232,
+    "agName": "장미",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12233,
+    "agName": "목단",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12234,
+    "agName": "동백",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12299,
+    "agName": "기타절화",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12301,
+    "agName": "양송이",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 12301,
+    "agName": "양송이",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 12301,
+    "agName": "양송이",
+    "faoCode": "0451",
+    "faoName": "Canned mushrooms",
+    "faoKName": "버섯(통조림)"
+  },
+  {
+    "agCode": 12301,
+    "agName": "양송이",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 12302,
+    "agName": "영지버섯",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 12302,
+    "agName": "영지버섯",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 12303,
+    "agName": "느타리버섯",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 12303,
+    "agName": "느타리버섯",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 12304,
+    "agName": "팽이버섯",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 12304,
+    "agName": "팽이버섯",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 12305,
+    "agName": "새송이버섯",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 12399,
+    "agName": "기타버섯",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 12399,
+    "agName": "기타버섯",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 12399,
+    "agName": "기타버섯",
+    "faoCode": "0451",
+    "faoName": "Canned mushrooms",
+    "faoKName": "버섯(통조림)"
+  },
+  {
+    "agCode": 12399,
+    "agName": "기타버섯",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 12399,
+    "agName": "기타버섯",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12901,
+    "agName": "과수목",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12911,
+    "agName": "뽕나무",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12991,
+    "agName": "잔디",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 12999,
+    "agName": "기타산식물",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13101,
+    "agName": "대두유",
+    "faoCode": "0237",
+    "faoName": "Soya bean oil",
+    "faoKName": "대두유"
+  },
+  {
+    "agCode": 13101,
+    "agName": "대두유",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13101,
+    "agName": "대두유",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13102,
+    "agName": "낙화생유",
+    "faoCode": "0244",
+    "faoName": "Groundnut oil",
+    "faoKName": "낙화생유"
+  },
+  {
+    "agCode": 13102,
+    "agName": "낙화생유",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13102,
+    "agName": "낙화생유",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13103,
+    "agName": "올리브유",
+    "faoCode": "0261",
+    "faoName": "Olive oil",
+    "faoKName": "올리브유"
+  },
+  {
+    "agCode": 13103,
+    "agName": "올리브유",
+    "faoCode": "0274",
+    "faoName": "Oil of olive residues",
+    "faoKName": "올리브유(분획물)"
+  },
+  {
+    "agCode": 13103,
+    "agName": "올리브유",
+    "faoCode": "0340",
+    "faoName": "Other oil of vegetable origin, crude n.e.c.",
+    "faoKName": "기타 식물성 유지"
+  },
+  {
+    "agCode": 13104,
+    "agName": "유채유",
+    "faoCode": "0271",
+    "faoName": "Rapeseed or canola oil, crude",
+    "faoKName": "유채유"
+  },
+  {
+    "agCode": 13104,
+    "agName": "유채유",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13104,
+    "agName": "유채유",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13105,
+    "agName": "겨자유",
+    "faoCode": "0293",
+    "faoName": "Mustard seed oil, crude",
+    "faoKName": "겨자유"
+  },
+  {
+    "agCode": 13110,
+    "agName": "아마인유",
+    "faoCode": "0334",
+    "faoName": "Oil of linseed",
+    "faoKName": "아마인유"
+  },
+  {
+    "agCode": 13111,
+    "agName": "옥수수유",
+    "faoCode": "0060",
+    "faoName": "Oil of maize",
+    "faoKName": "옥수수유"
+  },
+  {
+    "agCode": 13111,
+    "agName": "옥수수유",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13111,
+    "agName": "옥수수유",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13112,
+    "agName": "피마자유",
+    "faoCode": "0266",
+    "faoName": "Oil of castor beans",
+    "faoKName": "피마자유"
+  },
+  {
+    "agCode": 13113,
+    "agName": "동유",
+    "faoCode": "0276",
+    "faoName": "Oil of tung nuts",
+    "faoKName": "동유"
+  },
+  {
+    "agCode": 13114,
+    "agName": "참기름",
+    "faoCode": "0290",
+    "faoName": "Oil of sesame seed",
+    "faoKName": "참기름"
+  },
+  {
+    "agCode": 13114,
+    "agName": "참기름",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13114,
+    "agName": "참기름",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13115,
+    "agName": "호호버유",
+    "faoCode": "0278",
+    "faoName": "Jojoba oil",
+    "faoKName": "호호버유"
+  },
+  {
+    "agCode": 13116,
+    "agName": "들기름",
+    "faoCode": "0340",
+    "faoName": "Other oil of vegetable origin, crude n.e.c.",
+    "faoKName": "기타 식물성 유지"
+  },
+  {
+    "agCode": 13116,
+    "agName": "들기름",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13116,
+    "agName": "들기름",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13117,
+    "agName": "미강유",
+    "faoCode": "0036",
+    "faoName": "Oil of rice bran",
+    "faoKName": "미강유"
+  },
+  {
+    "agCode": 13118,
+    "agName": "동백유",
+    "faoCode": "0340",
+    "faoName": "Other oil of vegetable origin, crude n.e.c.",
+    "faoKName": "기타 식물성 유지"
+  },
+  {
+    "agCode": 13119,
+    "agName": "기타비휘발성유지",
+    "faoCode": "0264",
+    "faoName": "Butter of karite nuts",
+    "faoKName": "캐리트너트 버터"
+  },
+  {
+    "agCode": 13119,
+    "agName": "기타비휘발성유지",
+    "faoCode": "0297",
+    "faoName": "Oil of poppy seed",
+    "faoKName": "양귀비유"
+  },
+  {
+    "agCode": 13119,
+    "agName": "기타비휘발성유지",
+    "faoCode": "0307",
+    "faoName": "Stillingia oil",
+    "faoKName": "스틸링기아 오일"
+  },
+  {
+    "agCode": 13119,
+    "agName": "기타비휘발성유지",
+    "faoCode": "0313",
+    "faoName": "Oil of kapok",
+    "faoKName": "케이폭유"
+  },
+  {
+    "agCode": 13119,
+    "agName": "기타비휘발성유지",
+    "faoCode": "0337",
+    "faoName": "Oil of hempseed",
+    "faoKName": "대마유"
+  },
+  {
+    "agCode": 13119,
+    "agName": "기타비휘발성유지",
+    "faoCode": "0340",
+    "faoName": "Other oil of vegetable origin, crude n.e.c.",
+    "faoKName": "기타 식물성 유지"
+  },
+  {
+    "agCode": 13131,
+    "agName": "해바라기씨유",
+    "faoCode": "0268",
+    "faoName": "Sunflower-seed oil, crude",
+    "faoKName": "해바라기씨유"
+  },
+  {
+    "agCode": 13131,
+    "agName": "해바라기씨유",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13131,
+    "agName": "해바라기씨유",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13132,
+    "agName": "잇꽃유",
+    "faoCode": "0281",
+    "faoName": "Safflower-seed oil, crude",
+    "faoKName": "잇꽃유"
+  },
+  {
+    "agCode": 13133,
+    "agName": "면실유",
+    "faoCode": "0331",
+    "faoName": "Cottonseed oil",
+    "faoKName": "면실유"
+  },
+  {
+    "agCode": 13133,
+    "agName": "면실유",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13133,
+    "agName": "면실유",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13134,
+    "agName": "야자유",
+    "faoCode": "0252",
+    "faoName": "Coconut oil",
+    "faoKName": "야자유"
+  },
+  {
+    "agCode": 13134,
+    "agName": "야자유",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13134,
+    "agName": "야자유",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13141,
+    "agName": "팜유",
+    "faoCode": "0257",
+    "faoName": "Palm oil",
+    "faoKName": "팜유"
+  },
+  {
+    "agCode": 13141,
+    "agName": "팜유",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13141,
+    "agName": "팜유",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13142,
+    "agName": "팜핵유",
+    "faoCode": "0258",
+    "faoName": "Oil of palm kernel",
+    "faoKName": "팜핵유"
+  },
+  {
+    "agCode": 13143,
+    "agName": "바바수유",
+    "faoCode": "0258",
+    "faoName": "Oil of palm kernel",
+    "faoKName": "팜핵유"
+  },
+  {
+    "agCode": 13144,
+    "agName": "감귤유",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": "0264",
+    "faoName": "Butter of karite nuts",
+    "faoKName": "캐리트너트 버터"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": "0297",
+    "faoName": "Oil of poppy seed",
+    "faoKName": "양귀비유"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": "0307",
+    "faoName": "Stillingia oil",
+    "faoKName": "스틸링기아 오일"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": "0313",
+    "faoName": "Oil of kapok",
+    "faoKName": "케이폭유"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": "0337",
+    "faoName": "Oil of hempseed",
+    "faoKName": "대마유"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": "0340",
+    "faoName": "Other oil of vegetable origin, crude n.e.c.",
+    "faoKName": "기타 식물성 유지"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": "0737",
+    "faoName": "Oil of citronella",
+    "faoKName": "시트로넬라유"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13199,
+    "agName": "기타식물성유지",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 13201,
+    "agName": "마가린",
+    "faoCode": 1242,
+    "faoName": "Margarine and shortening",
+    "faoKName": "마가린과 쇼트닝"
+  },
+  {
+    "agCode": 13202,
+    "agName": "이미테이션라드",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13203,
+    "agName": "쇼트닝",
+    "faoCode": 1242,
+    "faoName": "Margarine and shortening",
+    "faoKName": "마가린과 쇼트닝"
+  },
+  {
+    "agCode": 13203,
+    "agName": "쇼트닝",
+    "faoCode": 1274,
+    "faoName": "Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",
+    "faoKName": "동물성 또는 식물성 지방 및 오일 및 분획물(수소화, 상호 에스테르화 또는 엘라이딘화를 제외한 화학적으로 변형이 된 것; 동물성 또는 식물성 지방의 비식용용 혼합물 또는 조제품)"
+  },
+  {
+    "agCode": 13209,
+    "agName": "기타유지가공품",
+    "faoCode": 1241,
+    "faoName": "Liquid margarine",
+    "faoKName": "마가린(액상)"
+  },
+  {
+    "agCode": 13209,
+    "agName": "기타유지가공품",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 13211,
+    "agName": "비식용지가공품",
+    "faoCode": 1274,
+    "faoName": "Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",
+    "faoKName": "동물성 또는 식물성 지방 및 오일 및 분획물(수소화, 상호 에스테르화 또는 엘라이딘화를 제외한 화학적으로 변형이 된 것; 동물성 또는 식물성 지방의 비식용용 혼합물 또는 조제품)"
+  },
+  {
+    "agCode": 13301,
+    "agName": "카나버왁스",
+    "faoCode": 1296,
+    "faoName": "Vegetable waxes (other than triglycerides), whether or not refined or coloured",
+    "faoKName": "식물성 왁스(트리글리세라이드는 제외)(정제했는지 또는 착색했는지에 관계없이)"
+  },
+  {
+    "agCode": 13302,
+    "agName": "팜왁스",
+    "faoCode": 1296,
+    "faoName": "Vegetable waxes (other than triglycerides), whether or not refined or coloured",
+    "faoKName": "식물성 왁스(트리글리세라이드는 제외)(정제했는지 또는 착색했는지에 관계없이)"
+  },
+  {
+    "agCode": 13303,
+    "agName": "면왁스",
+    "faoCode": 1296,
+    "faoName": "Vegetable waxes (other than triglycerides), whether or not refined or coloured",
+    "faoKName": "식물성 왁스(트리글리세라이드는 제외)(정제했는지 또는 착색했는지에 관계없이)"
+  },
+  {
+    "agCode": 13309,
+    "agName": "기타식물성납",
+    "faoCode": 1296,
+    "faoName": "Vegetable waxes (other than triglycerides), whether or not refined or coloured",
+    "faoKName": "식물성 왁스(트리글리세라이드는 제외)(정제했는지 또는 착색했는지에 관계없이)"
+  },
+  {
+    "agCode": 13399,
+    "agName": "기타납",
+    "faoCode": 1183,
+    "faoName": "Beeswax",
+    "faoKName": "밀랍"
+  },
+  {
+    "agCode": 13411,
+    "agName": "아편",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13411,
+    "agName": "아편",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13412,
+    "agName": "감초엑기스",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13412,
+    "agName": "감초엑기스",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13413,
+    "agName": "호프액즙",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13413,
+    "agName": "호프액즙",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13414,
+    "agName": "제충국액즙",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13414,
+    "agName": "제충국액즙",
+    "faoCode": "0755",
+    "faoName": "Pyrethrum extract",
+    "faoKName": "제충국액즙"
+  },
+  {
+    "agCode": 13415,
+    "agName": "추출올레오레진(캐슈넛쉘액)",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13416,
+    "agName": "알로에액즙",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13417,
+    "agName": "콜라엑스",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13419,
+    "agName": "기타식물성액즙",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13421,
+    "agName": "펙틴",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13422,
+    "agName": "추출올레진(생칠)",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13431,
+    "agName": "로우커스트점질물",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13439,
+    "agName": "기타식물성점질물",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 13439,
+    "agName": "기타식물성점질물",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13501,
+    "agName": "옥수수박",
+    "faoCode": "0059",
+    "faoName": "Bran of maize",
+    "faoKName": "옥수수겨"
+  },
+  {
+    "agCode": 13501,
+    "agName": "옥수수박",
+    "faoCode": "0061",
+    "faoName": "Cake of maize",
+    "faoKName": "옥수수박"
+  },
+  {
+    "agCode": 13502,
+    "agName": "미강",
+    "faoCode": "0035",
+    "faoName": "Bran of rice",
+    "faoKName": "미강"
+  },
+  {
+    "agCode": 13503,
+    "agName": "밀기울",
+    "faoCode": "0017",
+    "faoName": "Bran of wheat",
+    "faoKName": "밀기울"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0073",
+    "faoName": "Bran of rye",
+    "faoKName": "호밀겨"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0077",
+    "faoName": "Bran of oats",
+    "faoKName": "귀리겨"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0081",
+    "faoName": "Bran of millet",
+    "faoKName": "밀리트겨"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0085",
+    "faoName": "Bran of sorghum",
+    "faoKName": "수수겨"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0091",
+    "faoName": "Bran of buckwheat",
+    "faoKName": "메밀겨"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0096",
+    "faoName": "Bran of fonio",
+    "faoKName": "포니오겨"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0099",
+    "faoName": "Bran of triticale",
+    "faoKName": "라이밀가루"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0105",
+    "faoName": "Bran of mixed grain",
+    "faoKName": "혼합 곡물의 겨"
+  },
+  {
+    "agCode": 13509,
+    "agName": "기타곡물박",
+    "faoCode": "0112",
+    "faoName": "Bran of cereals n.e.c.",
+    "faoKName": "기타 곡물겨"
+  },
+  {
+    "agCode": 13511,
+    "agName": "대두박",
+    "faoCode": "0238",
+    "faoName": "Cake of  soya beans",
+    "faoKName": "대두박"
+  },
+  {
+    "agCode": 13512,
+    "agName": "낙화생박",
+    "faoCode": "0245",
+    "faoName": "Cake of groundnuts",
+    "faoKName": "낙화생박"
+  },
+  {
+    "agCode": 13521,
+    "agName": "면실유박",
+    "faoCode": "0332",
+    "faoName": "Cake of cottonseed",
+    "faoKName": "면실유박"
+  },
+  {
+    "agCode": 13522,
+    "agName": "아마인박",
+    "faoCode": "0335",
+    "faoName": "Cake of  linseed",
+    "faoKName": "아마인박"
+  },
+  {
+    "agCode": 13523,
+    "agName": "해바라기박",
+    "faoCode": "0269",
+    "faoName": "Cake of sunflower seed",
+    "faoKName": "해바라기박"
+  },
+  {
+    "agCode": 13524,
+    "agName": "채종, 콜자씨박",
+    "faoCode": "0272",
+    "faoName": "Cake of rapeseed",
+    "faoKName": "유채박"
+  },
+  {
+    "agCode": 13525,
+    "agName": "야자, 코프라박",
+    "faoCode": "0253",
+    "faoName": "Cake of copra",
+    "faoKName": "코프라박"
+  },
+  {
+    "agCode": 13526,
+    "agName": "파암넛유박",
+    "faoCode": "0259",
+    "faoName": "Cake of palm kernel",
+    "faoKName": "팜핵유박"
+  },
+  {
+    "agCode": 13527,
+    "agName": "참깨유박",
+    "faoCode": "0291",
+    "faoName": "Cake of sesame seed",
+    "faoKName": "참깨유박"
+  },
+  {
+    "agCode": 13529,
+    "agName": "기타식물성유박",
+    "faoCode": "0037",
+    "faoName": "Cake of rice bran",
+    "faoKName": "쌀겨박"
+  },
+  {
+    "agCode": 13529,
+    "agName": "기타식물성유박",
+    "faoCode": "0282",
+    "faoName": "Cake of safflowerseed",
+    "faoKName": "잇꽃박"
+  },
+  {
+    "agCode": 13529,
+    "agName": "기타식물성유박",
+    "faoCode": "0294",
+    "faoName": "Cake of mustard seed",
+    "faoKName": "겨자박"
+  },
+  {
+    "agCode": 13529,
+    "agName": "기타식물성유박",
+    "faoCode": "0314",
+    "faoName": "Cake of kapok",
+    "faoKName": "케이폭박"
+  },
+  {
+    "agCode": 13529,
+    "agName": "기타식물성유박",
+    "faoCode": "0338",
+    "faoName": "Cake of hempseed",
+    "faoKName": "대마박"
+  },
+  {
+    "agCode": 13539,
+    "agName": "채두류박",
+    "faoCode": "0213",
+    "faoName": "Bran of pulses",
+    "faoKName": "채두류겨"
+  },
+  {
+    "agCode": 13541,
+    "agName": "전분박",
+    "faoCode": "0033",
+    "faoName": "Rice, gluten",
+    "faoKName": "쌀(글루텐)"
+  },
+  {
+    "agCode": 13541,
+    "agName": "전분박",
+    "faoCode": "0063",
+    "faoName": "Maize gluten",
+    "faoKName": "옥수수 글루텐"
+  },
+  {
+    "agCode": 13541,
+    "agName": "전분박",
+    "faoCode": "0846",
+    "faoName": "Gluten feed and meal",
+    "faoKName": "글루텐 사료"
+  },
+  {
+    "agCode": 13542,
+    "agName": "설탕박",
+    "faoCode": "0169",
+    "faoName": "Beet pulp",
+    "faoKName": "비트 펄프"
+  },
+  {
+    "agCode": 13551,
+    "agName": "포도주박",
+    "faoCode": "0653",
+    "faoName": "Food wastes",
+    "faoKName": "음식 폐기물"
+  },
+  {
+    "agCode": 13601,
+    "agName": "알팔파",
+    "faoCode": "0862",
+    "faoName": "Lucerne (alfalfa) meal and pellets",
+    "faoKName": "루우산 (알팔파) 및 펠리트"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0205",
+    "faoName": "Vetches",
+    "faoKName": "베치"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0210",
+    "faoName": "Lupins",
+    "faoKName": "루핀"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0639",
+    "faoName": "Other grasses, for forage",
+    "faoKName": "기타 사료용 풀"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0640",
+    "faoName": "Clover, for forage",
+    "faoKName": "사료용 클로버"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0643",
+    "faoName": "Other legumes, for forage",
+    "faoKName": "기타 사료용 콩과식물"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0646",
+    "faoName": "Turnips, for forage",
+    "faoKName": "사료용 순무"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0651",
+    "faoName": "Other forage products, n.e.c.",
+    "faoKName": "기타 사료제품"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0858",
+    "faoName": "Hay for forage, from legumes",
+    "faoKName": "사료용 건초(콩류식물의)"
+  },
+  {
+    "agCode": 13609,
+    "agName": "사료용근채류",
+    "faoCode": "0859",
+    "faoName": "Hay for forage, from other crops n.e.c.",
+    "faoKName": "사료용 건초(기타곡물의)"
+  },
+  {
+    "agCode": 13611,
+    "agName": "개 사료",
+    "faoCode": "0843",
+    "faoName": "Dog or cat food, put up for retail sale",
+    "faoKName": "개나 고양이용 사료(소매용)"
+  },
+  {
+    "agCode": 13612,
+    "agName": "배합사료",
+    "faoCode": "0653",
+    "faoName": "Food wastes",
+    "faoKName": "음식 폐기물"
+  },
+  {
+    "agCode": 13612,
+    "agName": "배합사료",
+    "faoCode": "0845",
+    "faoName": "Compound feed n.e.c.",
+    "faoKName": "기타 혼합사료"
+  },
+  {
+    "agCode": 13613,
+    "agName": "보조사료",
+    "faoCode": "0850",
+    "faoName": "Feed supplements",
+    "faoKName": "보조사료"
+  },
+  {
+    "agCode": 13613,
+    "agName": "보조사료",
+    "faoCode": "0853",
+    "faoName": "Vitamins",
+    "faoKName": "비타민"
+  },
+  {
+    "agCode": 13613,
+    "agName": "보조사료",
+    "faoCode": "0855",
+    "faoName": "Feed minerals",
+    "faoKName": "미네랄 사료"
+  },
+  {
+    "agCode": 13614,
+    "agName": "사료첨가제",
+    "faoCode": "0850",
+    "faoName": "Feed supplements",
+    "faoKName": "보조사료"
+  },
+  {
+    "agCode": 13614,
+    "agName": "사료첨가제",
+    "faoCode": "0853",
+    "faoName": "Vitamins",
+    "faoKName": "비타민"
+  },
+  {
+    "agCode": 13614,
+    "agName": "사료첨가제",
+    "faoCode": "0855",
+    "faoName": "Feed minerals",
+    "faoKName": "미네랄 사료"
+  },
+  {
+    "agCode": 13619,
+    "agName": "기타사료용조제품",
+    "faoCode": "0845",
+    "faoName": "Compound feed n.e.c.",
+    "faoKName": "기타 혼합사료"
+  },
+  {
+    "agCode": 13621,
+    "agName": "짚",
+    "faoCode": "0635",
+    "faoName": "Cereal straw, husks, unprepared, ground, pressed, or in the form of pellets",
+    "faoKName": "곡물의 짚과 껍질(조제하지 않은 것으로 절단, 압착 또는 펠리트 모양)"
+  },
+  {
+    "agCode": 13629,
+    "agName": "기타사료",
+    "faoCode": "0120",
+    "faoName": "Potato offals",
+    "faoKName": "감자 부산물"
+  },
+  {
+    "agCode": 13629,
+    "agName": "기타사료",
+    "faoCode": "0628",
+    "faoName": "Pulp, waste of fruit for feed",
+    "faoKName": "과실의 펄프, 웨이스트(사료용)"
+  },
+  {
+    "agCode": 13629,
+    "agName": "기타사료",
+    "faoCode": "0630",
+    "faoName": "Cane tops",
+    "faoKName": "사탕수수꼭지"
+  },
+  {
+    "agCode": 13629,
+    "agName": "기타사료",
+    "faoCode": "0652",
+    "faoName": "Vegetable products for feed n.e.c.",
+    "faoKName": "기타 사료용 식물성 물품"
+  },
+  {
+    "agCode": 13901,
+    "agName": "식물잎",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 13902,
+    "agName": "과실껍질",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 13903,
+    "agName": "기타괴경분",
+    "faoCode": "0126",
+    "faoName": "Flour of cassava",
+    "faoKName": "카사바 가루"
+  },
+  {
+    "agCode": 13903,
+    "agName": "기타괴경분",
+    "faoCode": "0150",
+    "faoName": "Flour of roots and tubers n.e.c.",
+    "faoKName": "기타 괴경분"
+  },
+  {
+    "agCode": 14101,
+    "agName": "밀글루우텐",
+    "faoCode": "0024",
+    "faoName": "Wheat gluten",
+    "faoKName": "밀글루우텐"
+  },
+  {
+    "agCode": 14102,
+    "agName": "베이커리반죽",
+    "faoCode": "0114",
+    "faoName": "Mixes and doughs for the preparation of bakers' wares",
+    "faoKName": "베이커리반죽"
+  },
+  {
+    "agCode": 14201,
+    "agName": "활성효모",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14202,
+    "agName": "불활성 효모",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14211,
+    "agName": "누룩",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14212,
+    "agName": "클로렐라",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14213,
+    "agName": "스피루리나",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14219,
+    "agName": "기타단세포미생물",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14221,
+    "agName": "베이킹파우더",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14222,
+    "agName": "소화효모",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14301,
+    "agName": "간장",
+    "faoCode": "0239",
+    "faoName": "Soya sauce",
+    "faoKName": "간장"
+  },
+  {
+    "agCode": 14302,
+    "agName": "된장",
+    "faoCode": "0240",
+    "faoName": "Soya paste",
+    "faoKName": "된장"
+  },
+  {
+    "agCode": 14303,
+    "agName": "춘장",
+    "faoCode": "0240",
+    "faoName": "Soya paste",
+    "faoKName": "된장"
+  },
+  {
+    "agCode": 14304,
+    "agName": "고추장",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14309,
+    "agName": "기타장",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14311,
+    "agName": "겨자",
+    "faoCode": "0295",
+    "faoName": "Flour of mustard seed",
+    "faoKName": "겨자씨가루"
+  },
+  {
+    "agCode": 14312,
+    "agName": "마요네스",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14313,
+    "agName": "카레",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14314,
+    "agName": "혼합조미료",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14315,
+    "agName": "메주",
+    "faoCode": "0240",
+    "faoName": "Soya paste",
+    "faoKName": "된장"
+  },
+  {
+    "agCode": 14399,
+    "agName": "기타소오스제품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 14401,
+    "agName": "샤프란",
+    "faoCode": "0723",
+    "faoName": "Other stimulant, spice and aromatic crops, n.e.c.",
+    "faoKName": "기타 자극제, 향신료 및 향료작물"
+  },
+  {
+    "agCode": 14402,
+    "agName": "심황",
+    "faoCode": "0723",
+    "faoName": "Other stimulant, spice and aromatic crops, n.e.c.",
+    "faoKName": "기타 자극제, 향신료 및 향료작물"
+  },
+  {
+    "agCode": 14403,
+    "agName": "월계수잎",
+    "faoCode": "0723",
+    "faoName": "Other stimulant, spice and aromatic crops, n.e.c.",
+    "faoKName": "기타 자극제, 향신료 및 향료작물"
+  },
+  {
+    "agCode": 14404,
+    "agName": "커레이",
+    "faoCode": "0723",
+    "faoName": "Other stimulant, spice and aromatic crops, n.e.c.",
+    "faoKName": "기타 자극제, 향신료 및 향료작물"
+  },
+  {
+    "agCode": 14411,
+    "agName": "향신료혼합물",
+    "faoCode": "0723",
+    "faoName": "Other stimulant, spice and aromatic crops, n.e.c.",
+    "faoKName": "기타 자극제, 향신료 및 향료작물"
+  },
+  {
+    "agCode": 14499,
+    "agName": "기타향신료",
+    "faoCode": "0723",
+    "faoName": "Other stimulant, spice and aromatic crops, n.e.c.",
+    "faoKName": "기타 자극제, 향신료 및 향료작물"
+  },
+  {
+    "agCode": 14511,
+    "agName": "데그라스",
+    "faoCode": 1222,
+    "faoName": "Degras",
+    "faoKName": "데그라스"
+  },
+  {
+    "agCode": 14599,
+    "agName": "기타지방성물질",
+    "faoCode": 1277,
+    "faoName": "Residues of fatty substances",
+    "faoKName": "지방 물질의 잔류물"
+  },
+  {
+    "agCode": 14901,
+    "agName": "충전용재료",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 14902,
+    "agName": "브러쉬용재료",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 14999,
+    "agName": "기타식물성재료",
+    "faoCode": "0770",
+    "faoName": "Cotton linters",
+    "faoKName": "면리트"
+  },
+  {
+    "agCode": 14999,
+    "agName": "기타식물성재료",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15101,
+    "agName": "커피",
+    "faoCode": "0656",
+    "faoName": "Coffee, green",
+    "faoKName": "커피(신선)"
+  },
+  {
+    "agCode": 15101,
+    "agName": "커피",
+    "faoCode": "0657",
+    "faoName": "Coffee, decaffeinated or roasted",
+    "faoKName": "커피(카페인 제거한 것 또는 볶은 것)"
+  },
+  {
+    "agCode": 15101,
+    "agName": "커피",
+    "faoCode": "0658",
+    "faoName": "Coffee substitutes",
+    "faoKName": "커피 대용물"
+  },
+  {
+    "agCode": 15101,
+    "agName": "커피",
+    "faoCode": "0660",
+    "faoName": "Coffee husks and skins",
+    "faoKName": "커피의 각과 피"
+  },
+  {
+    "agCode": 15111,
+    "agName": "커피조제품",
+    "faoCode": "0659",
+    "faoName": "Coffee extracts",
+    "faoKName": "커피 추출물"
+  },
+  {
+    "agCode": 15111,
+    "agName": "커피조제품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 15201,
+    "agName": "코코아두",
+    "faoCode": "0661",
+    "faoName": "Cocoa beans",
+    "faoKName": "코코아두"
+  },
+  {
+    "agCode": 15202,
+    "agName": "코코아웨이스트",
+    "faoCode": "0662",
+    "faoName": "Cocoa paste not defatted",
+    "faoKName": "코코아 페이스트(탈지하지 않은)"
+  },
+  {
+    "agCode": 15202,
+    "agName": "코코아웨이스트",
+    "faoCode": "0663",
+    "faoName": "Cocoa husks and shells",
+    "faoKName": "코코아 껍데기"
+  },
+  {
+    "agCode": 15202,
+    "agName": "코코아웨이스트",
+    "faoCode": "0665",
+    "faoName": "Cocoa powder and cake",
+    "faoKName": "코코아 가루와 박"
+  },
+  {
+    "agCode": 15211,
+    "agName": "코코아버터",
+    "faoCode": "0664",
+    "faoName": "Cocoa butter, fat and oil",
+    "faoKName": "코코아 버터, 지방과 기름"
+  },
+  {
+    "agCode": 15212,
+    "agName": "코코아분말",
+    "faoCode": "0665",
+    "faoName": "Cocoa powder and cake",
+    "faoKName": "코코아 가루와 박"
+  },
+  {
+    "agCode": 15212,
+    "agName": "코코아분말",
+    "faoCode": "0666",
+    "faoName": "Chocolate products nes",
+    "faoKName": "기타 초코렛 제품"
+  },
+  {
+    "agCode": 15213,
+    "agName": "초코렛",
+    "faoCode": "0666",
+    "faoName": "Chocolate products nes",
+    "faoKName": "기타 초코렛 제품"
+  },
+  {
+    "agCode": 15219,
+    "agName": "기타코코아조제품",
+    "faoCode": "0666",
+    "faoName": "Chocolate products nes",
+    "faoKName": "기타 초코렛 제품"
+  },
+  {
+    "agCode": 15301,
+    "agName": "녹차",
+    "faoCode": "0667",
+    "faoName": "Tea leaves",
+    "faoKName": "찻잎"
+  },
+  {
+    "agCode": 15302,
+    "agName": "홍차",
+    "faoCode": "0667",
+    "faoName": "Tea leaves",
+    "faoKName": "찻잎"
+  },
+  {
+    "agCode": 15401,
+    "agName": "잎담배",
+    "faoCode": "0826",
+    "faoName": "Unmanufactured tobacco",
+    "faoKName": "잎담배"
+  },
+  {
+    "agCode": 15402,
+    "agName": "잎담배부산물",
+    "faoCode": "0826",
+    "faoName": "Unmanufactured tobacco",
+    "faoKName": "잎담배"
+  },
+  {
+    "agCode": 15411,
+    "agName": "엽궐련",
+    "faoCode": "0829",
+    "faoName": "Cigars and cheroots",
+    "faoKName": "시가와 셔루트"
+  },
+  {
+    "agCode": 15412,
+    "agName": "궐련",
+    "faoCode": "0828",
+    "faoName": "Cigarettes",
+    "faoKName": "궐련"
+  },
+  {
+    "agCode": 15419,
+    "agName": "기타궐련",
+    "faoCode": "0828",
+    "faoName": "Cigarettes",
+    "faoKName": "궐련"
+  },
+  {
+    "agCode": 15422,
+    "agName": "균질화담배",
+    "faoCode": "0831",
+    "faoName": "Other manufactured tobacco and manufactured tobacco substitutes; \"homogenized\" or \"reconstituted\" tobacco; tobacco extracts and essences",
+    "faoKName": "그 밖의 제조 담배, 제조한 담배 대용물, 균질화하거나 재구성한 담배ㆍ담배 추출물(extract)과 에센스(essence)"
+  },
+  {
+    "agCode": 15423,
+    "agName": "씹는담배",
+    "faoCode": "0831",
+    "faoName": "Other manufactured tobacco and manufactured tobacco substitutes; \"homogenized\" or \"reconstituted\" tobacco; tobacco extracts and essences",
+    "faoKName": "그 밖의 제조 담배, 제조한 담배 대용물, 균질화하거나 재구성한 담배ㆍ담배 추출물(extract)과 에센스(essence)"
+  },
+  {
+    "agCode": 15424,
+    "agName": "코담배",
+    "faoCode": "0831",
+    "faoName": "Other manufactured tobacco and manufactured tobacco substitutes; \"homogenized\" or \"reconstituted\" tobacco; tobacco extracts and essences",
+    "faoKName": "그 밖의 제조 담배, 제조한 담배 대용물, 균질화하거나 재구성한 담배ㆍ담배 추출물(extract)과 에센스(essence)"
+  },
+  {
+    "agCode": 15425,
+    "agName": "담배엑스",
+    "faoCode": "0831",
+    "faoName": "Other manufactured tobacco and manufactured tobacco substitutes; \"homogenized\" or \"reconstituted\" tobacco; tobacco extracts and essences",
+    "faoKName": "그 밖의 제조 담배, 제조한 담배 대용물, 균질화하거나 재구성한 담배ㆍ담배 추출물(extract)과 에센스(essence)"
+  },
+  {
+    "agCode": 15426,
+    "agName": "비연소식담배",
+    "faoCode": "0831",
+    "faoName": "Other manufactured tobacco and manufactured tobacco substitutes; \"homogenized\" or \"reconstituted\" tobacco; tobacco extracts and essences",
+    "faoKName": "그 밖의 제조 담배, 제조한 담배 대용물, 균질화하거나 재구성한 담배ㆍ담배 추출물(extract)과 에센스(essence)"
+  },
+  {
+    "agCode": 15429,
+    "agName": "기타제조담배",
+    "faoCode": "0831",
+    "faoName": "Other manufactured tobacco and manufactured tobacco substitutes; \"homogenized\" or \"reconstituted\" tobacco; tobacco extracts and essences",
+    "faoKName": "그 밖의 제조 담배, 제조한 담배 대용물, 균질화하거나 재구성한 담배ㆍ담배 추출물(extract)과 에센스(essence)"
+  },
+  {
+    "agCode": 15511,
+    "agName": "수삼",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15521,
+    "agName": "백삼",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15522,
+    "agName": "백삼분",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15523,
+    "agName": "백삼정",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15524,
+    "agName": "백삼조제품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 15531,
+    "agName": "홍삼",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15532,
+    "agName": "홍삼분",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15533,
+    "agName": "홍삼정",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15534,
+    "agName": "홍삼조제품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 15541,
+    "agName": "새싹삼",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15591,
+    "agName": "인삼부산물",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15592,
+    "agName": "인삼액즙",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15593,
+    "agName": "인삼음료",
+    "faoCode": "0633",
+    "faoName": "Other non-alcoholic caloric beverages",
+    "faoKName": "다른 무알코올 칼로리 음료"
+  },
+  {
+    "agCode": 15593,
+    "agName": "인삼음료",
+    "faoCode": "0753",
+    "faoName": "Essential oils n.e.c.",
+    "faoKName": "정유"
+  },
+  {
+    "agCode": 15601,
+    "agName": "감초",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15602,
+    "agName": "부자",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15603,
+    "agName": "황련",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15604,
+    "agName": "원지",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15605,
+    "agName": "패모",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15606,
+    "agName": "두충",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15607,
+    "agName": "사인",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15608,
+    "agName": "산조인",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15609,
+    "agName": "사군자",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15610,
+    "agName": "용안육",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15611,
+    "agName": "산사자",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15612,
+    "agName": "연자육",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15613,
+    "agName": "박하",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15614,
+    "agName": "백수오",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15615,
+    "agName": "하수오",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15619,
+    "agName": "기타한약재",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15621,
+    "agName": "계피",
+    "faoCode": "0693",
+    "faoName": "Cinnamon and cinnamon-tree flowers, raw",
+    "faoKName": "계피와 계피나무꽃(생것)"
+  },
+  {
+    "agCode": 15622,
+    "agName": "정향",
+    "faoCode": "0698",
+    "faoName": "Cloves (whole stems), raw",
+    "faoKName": "정향(전 줄기)(생것)"
+  },
+  {
+    "agCode": 15623,
+    "agName": "육두구",
+    "faoCode": "0702",
+    "faoName": "Nutmeg, mace, cardamoms, raw",
+    "faoKName": "육두구, 메이스, 소두구(생것)"
+  },
+  {
+    "agCode": 15624,
+    "agName": "메이스",
+    "faoCode": "0702",
+    "faoName": "Nutmeg, mace, cardamoms, raw",
+    "faoKName": "육두구, 메이스, 소두구(생것)"
+  },
+  {
+    "agCode": 15625,
+    "agName": "소두구",
+    "faoCode": "0702",
+    "faoName": "Nutmeg, mace, cardamoms, raw",
+    "faoKName": "육두구, 메이스, 소두구(생것)"
+  },
+  {
+    "agCode": 15631,
+    "agName": "아니스",
+    "faoCode": "0711",
+    "faoName": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",
+    "faoKName": "아니스ㆍ대회향ㆍ회향ㆍ코리앤더ㆍ커민ㆍ캐러웨이 주니퍼(생것)"
+  },
+  {
+    "agCode": 15632,
+    "agName": "코리앤더씨",
+    "faoCode": "0711",
+    "faoName": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",
+    "faoKName": "아니스ㆍ대회향ㆍ회향ㆍ코리앤더ㆍ커민ㆍ캐러웨이 주니퍼(생것)"
+  },
+  {
+    "agCode": 15633,
+    "agName": "커민씨",
+    "faoCode": "0711",
+    "faoName": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",
+    "faoKName": "아니스ㆍ대회향ㆍ회향ㆍ코리앤더ㆍ커민ㆍ캐러웨이 주니퍼(생것)"
+  },
+  {
+    "agCode": 15634,
+    "agName": "캐러웨이씨",
+    "faoCode": "0711",
+    "faoName": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",
+    "faoKName": "아니스ㆍ대회향ㆍ회향ㆍ코리앤더ㆍ커민ㆍ캐러웨이 주니퍼(생것)"
+  },
+  {
+    "agCode": 15635,
+    "agName": "회향씨",
+    "faoCode": "0711",
+    "faoName": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",
+    "faoKName": "아니스ㆍ대회향ㆍ회향ㆍ코리앤더ㆍ커민ㆍ캐러웨이 주니퍼(생것)"
+  },
+  {
+    "agCode": 15645,
+    "agName": "구기자",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15655,
+    "agName": "오미자",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15701,
+    "agName": "맥주",
+    "faoCode": "0051",
+    "faoName": "Beer of barley, malted",
+    "faoKName": "보리맥주(맥아)"
+  },
+  {
+    "agCode": 15701,
+    "agName": "맥주",
+    "faoCode": "0066",
+    "faoName": "Beer of maize, malted",
+    "faoKName": "옥수수맥주(맥아)"
+  },
+  {
+    "agCode": 15701,
+    "agName": "맥주",
+    "faoCode": "0082",
+    "faoName": "Beer of millet, malted",
+    "faoKName": "밀리트맥주(맥아)"
+  },
+  {
+    "agCode": 15701,
+    "agName": "맥주",
+    "faoCode": "0086",
+    "faoName": "Beer of sorghum, malted",
+    "faoKName": "수수맥주(맥아)"
+  },
+  {
+    "agCode": 15711,
+    "agName": "포도주",
+    "faoCode": "0563",
+    "faoName": "Must of grape",
+    "faoKName": "포도즙"
+  },
+  {
+    "agCode": 15711,
+    "agName": "포도주",
+    "faoCode": "0564",
+    "faoName": "Wine",
+    "faoKName": "포도주"
+  },
+  {
+    "agCode": 15712,
+    "agName": "베르뭇",
+    "faoCode": "0565",
+    "faoName": "Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances",
+    "faoKName": "베르무트와 기타 이와 유사한 포도주(생포도로 제조한 것으로서 식물이나 방향성 물질로 맛이나 향을 첨가한 것으로 한정)"
+  },
+  {
+    "agCode": 15713,
+    "agName": "사과주",
+    "faoCode": "0517",
+    "faoName": "Cider and other fermented beverages",
+    "faoKName": "사과술 및 기타 발효주"
+  },
+  {
+    "agCode": 15714,
+    "agName": "배술",
+    "faoCode": "0517",
+    "faoName": "Cider and other fermented beverages",
+    "faoKName": "사과술 및 기타 발효주"
+  },
+  {
+    "agCode": 15719,
+    "agName": "기타과실발효주",
+    "faoCode": "0517",
+    "faoName": "Cider and other fermented beverages",
+    "faoKName": "사과술 및 기타 발효주"
+  },
+  {
+    "agCode": 15721,
+    "agName": "청주",
+    "faoCode": "0026",
+    "faoName": "Wheat-fermented beverages",
+    "faoKName": "밀음료"
+  },
+  {
+    "agCode": 15721,
+    "agName": "청주",
+    "faoCode": "0039",
+    "faoName": "Rice-fermented beverages",
+    "faoKName": "쌀음료"
+  },
+  {
+    "agCode": 15722,
+    "agName": "약주",
+    "faoCode": "0026",
+    "faoName": "Wheat-fermented beverages",
+    "faoKName": "밀음료"
+  },
+  {
+    "agCode": 15722,
+    "agName": "약주",
+    "faoCode": "0039",
+    "faoName": "Rice-fermented beverages",
+    "faoKName": "쌀음료"
+  },
+  {
+    "agCode": 15723,
+    "agName": "탁주",
+    "faoCode": "0026",
+    "faoName": "Wheat-fermented beverages",
+    "faoKName": "밀음료"
+  },
+  {
+    "agCode": 15723,
+    "agName": "탁주",
+    "faoCode": "0039",
+    "faoName": "Rice-fermented beverages",
+    "faoKName": "쌀음료"
+  },
+  {
+    "agCode": 15729,
+    "agName": "기타곡물발효주",
+    "faoCode": "0026",
+    "faoName": "Wheat-fermented beverages",
+    "faoKName": "밀음료"
+  },
+  {
+    "agCode": 15729,
+    "agName": "기타곡물발효주",
+    "faoCode": "0039",
+    "faoName": "Rice-fermented beverages",
+    "faoKName": "쌀음료"
+  },
+  {
+    "agCode": 15729,
+    "agName": "기타곡물발효주",
+    "faoCode": "0517",
+    "faoName": "Cider and other fermented beverages",
+    "faoKName": "사과술 및 기타 발효주"
+  },
+  {
+    "agCode": 15731,
+    "agName": "와인쿨러",
+    "faoCode": "0517",
+    "faoName": "Cider and other fermented beverages",
+    "faoKName": "사과술 및 기타 발효주"
+  },
+  {
+    "agCode": 15739,
+    "agName": "기타발효주",
+    "faoCode": "0517",
+    "faoName": "Cider and other fermented beverages",
+    "faoKName": "사과술 및 기타 발효주"
+  },
+  {
+    "agCode": 15741,
+    "agName": "에틸알코올",
+    "faoCode": "0632",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol or higher",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 이상인 것으로 한정한다)"
+  },
+  {
+    "agCode": 15752,
+    "agName": "포도증류주",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15753,
+    "agName": "위스키",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15754,
+    "agName": "브랜디",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15755,
+    "agName": "리큐르",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15756,
+    "agName": "보드카",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15757,
+    "agName": "소주",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15758,
+    "agName": "고량주",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15759,
+    "agName": "데낄라",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15799,
+    "agName": "기타주",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 15801,
+    "agName": "사탕수수당",
+    "faoCode": "0158",
+    "faoName": "Cane sugar, centrifugal",
+    "faoKName": "수수당(분밀당)"
+  },
+  {
+    "agCode": 15801,
+    "agName": "사탕수수당",
+    "faoCode": "0162",
+    "faoName": "Raw cane or beet sugar (centrifugal only)",
+    "faoKName": "생 사탕수수당 또는 사탕무당(분밀당)"
+  },
+  {
+    "agCode": 15802,
+    "agName": "사탕무당",
+    "faoCode": "0159",
+    "faoName": "Beet sugar",
+    "faoKName": "사탕무당"
+  },
+  {
+    "agCode": 15802,
+    "agName": "사탕무당",
+    "faoCode": "0162",
+    "faoName": "Raw cane or beet sugar (centrifugal only)",
+    "faoKName": "생 사탕수수당 또는 사탕무당(분밀당)"
+  },
+  {
+    "agCode": 15802,
+    "agName": "사탕무당",
+    "faoCode": "0163",
+    "faoName": "Cane sugar, non-centrifugal",
+    "faoKName": "수수당(함밀당)"
+  },
+  {
+    "agCode": 15803,
+    "agName": "자당",
+    "faoCode": "0164",
+    "faoName": "Refined sugar",
+    "faoKName": "정제당"
+  },
+  {
+    "agCode": 15811,
+    "agName": "단풍당",
+    "faoCode": "0160",
+    "faoName": "Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",
+    "faoKName": "고체형태의 정제당 또는 사탕무당 (단풍당 또는 단풍시럽 추가)"
+  },
+  {
+    "agCode": 15812,
+    "agName": "포도당",
+    "faoCode": "0172",
+    "faoName": "Glucose and dextrose",
+    "faoKName": "포도당"
+  },
+  {
+    "agCode": 15812,
+    "agName": "포도당",
+    "faoCode": "0175",
+    "faoName": "Isoglucose",
+    "faoKName": "아이소글루코스"
+  },
+  {
+    "agCode": 15813,
+    "agName": "과당",
+    "faoCode": "0154",
+    "faoName": "Fructose, chemically pure",
+    "faoKName": "과당(화학적으로 순수한)"
+  },
+  {
+    "agCode": 15813,
+    "agName": "과당",
+    "faoCode": "0166",
+    "faoName": "Other fructose and syrup",
+    "faoKName": "기타 과당과 시럽"
+  },
+  {
+    "agCode": 15814,
+    "agName": "캐러멜당",
+    "faoCode": "0167",
+    "faoName": "Sugar and syrups n.e.c.",
+    "faoKName": "기타 설탕과 시럽"
+  },
+  {
+    "agCode": 15815,
+    "agName": "맥아당",
+    "faoCode": "0155",
+    "faoName": "Maltose, chemically pure",
+    "faoKName": "맥아당(화학적으로 순수한)"
+  },
+  {
+    "agCode": 15819,
+    "agName": "기타당",
+    "faoCode": "0167",
+    "faoName": "Sugar and syrups n.e.c.",
+    "faoKName": "기타 설탕과 시럽"
+  },
+  {
+    "agCode": 15821,
+    "agName": "당밀",
+    "faoCode": "0165",
+    "faoName": "Molasses",
+    "faoKName": "당밀"
+  },
+  {
+    "agCode": 15901,
+    "agName": "음료베이스",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 15902,
+    "agName": "당시럽",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 15903,
+    "agName": "식혜",
+    "faoCode": "0633",
+    "faoName": "Other non-alcoholic caloric beverages",
+    "faoKName": "다른 무알코올 칼로리 음료"
+  },
+  {
+    "agCode": 15911,
+    "agName": "물",
+    "faoCode": "0631",
+    "faoName": "Ice and snow",
+    "faoKName": "얼음과 눈"
+  },
+  {
+    "agCode": 15911,
+    "agName": "물",
+    "faoCode": "0633",
+    "faoName": "Other non-alcoholic caloric beverages",
+    "faoKName": "다른 무알코올 칼로리 음료"
+  },
+  {
+    "agCode": 15919,
+    "agName": "한약재 기타",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 15999,
+    "agName": "기타음료",
+    "faoCode": "0633",
+    "faoName": "Other non-alcoholic caloric beverages",
+    "faoKName": "다른 무알코올 칼로리 음료"
+  },
+  {
+    "agCode": 16101,
+    "agName": "검",
+    "faoCode": "0839",
+    "faoName": "Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip",
+    "faoKName": "발라타(balata)ㆍ구타페르카(gutta-percha)ㆍ구아율(guayule)ㆍ치클(chicle)과 이와 유사한 천연 검(gum)(일차제품(primary form)ㆍ판ㆍ시트(sheet)ㆍ스트립 모양으로 한정)"
+  },
+  {
+    "agCode": 16102,
+    "agName": "감초엑스",
+    "faoCode": "0168",
+    "faoName": "Sugar confectionery",
+    "faoKName": "설탕 제과"
+  },
+  {
+    "agCode": 16103,
+    "agName": "캔디",
+    "faoCode": "0168",
+    "faoName": "Sugar confectionery",
+    "faoKName": "설탕 제과"
+  },
+  {
+    "agCode": 16109,
+    "agName": "기타설탕과자",
+    "faoCode": "0168",
+    "faoName": "Sugar confectionery",
+    "faoKName": "설탕 제과"
+  },
+  {
+    "agCode": 16111,
+    "agName": "곡류조제품",
+    "faoCode": "0041",
+    "faoName": "Breakfast cereals",
+    "faoKName": "아침식사용 곡물가공식품"
+  },
+  {
+    "agCode": 16121,
+    "agName": "빵",
+    "faoCode": "0020",
+    "faoName": "Bread",
+    "faoKName": "빵"
+  },
+  {
+    "agCode": 16121,
+    "agName": "빵",
+    "faoCode": "0022",
+    "faoName": "Pastry",
+    "faoKName": "파이"
+  },
+  {
+    "agCode": 16122,
+    "agName": "비스킷",
+    "faoCode": "0020",
+    "faoName": "Bread",
+    "faoKName": "빵"
+  },
+  {
+    "agCode": 16129,
+    "agName": "기타베이커리제품",
+    "faoCode": "0020",
+    "faoName": "Bread",
+    "faoKName": "빵"
+  },
+  {
+    "agCode": 16129,
+    "agName": "기타베이커리제품",
+    "faoCode": "0022",
+    "faoName": "Pastry",
+    "faoKName": "파이"
+  },
+  {
+    "agCode": 16129,
+    "agName": "기타베이커리제품",
+    "faoCode": "0110",
+    "faoName": "Communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.",
+    "faoKName": "성찬용 웨이퍼ㆍ제약용에 적합한 빈 캡슐ㆍ실링웨이퍼(sealing wafer)ㆍ라이스페이퍼(rice paper)와 그 밖에 이와 유사한 물품"
+  },
+  {
+    "agCode": 16201,
+    "agName": "스파게티",
+    "faoCode": "0018",
+    "faoName": "Uncooked pasta, not stuffed or otherwise prepared",
+    "faoKName": "조제하지 않은 파스타(속이 채워지지 않은 것 또는 이외 가공되지 않은 것)"
+  },
+  {
+    "agCode": 16202,
+    "agName": "마카로니",
+    "faoCode": "0018",
+    "faoName": "Uncooked pasta, not stuffed or otherwise prepared",
+    "faoKName": "조제하지 않은 파스타(속이 채워지지 않은 것 또는 이외 가공되지 않은 것)"
+  },
+  {
+    "agCode": 16211,
+    "agName": "국수",
+    "faoCode": "0018",
+    "faoName": "Uncooked pasta, not stuffed or otherwise prepared",
+    "faoKName": "조제하지 않은 파스타(속이 채워지지 않은 것 또는 이외 가공되지 않은 것)"
+  },
+  {
+    "agCode": 16212,
+    "agName": "당면",
+    "faoCode": "0018",
+    "faoName": "Uncooked pasta, not stuffed or otherwise prepared",
+    "faoKName": "조제하지 않은 파스타(속이 채워지지 않은 것 또는 이외 가공되지 않은 것)"
+  },
+  {
+    "agCode": 16213,
+    "agName": "냉면",
+    "faoCode": "0018",
+    "faoName": "Uncooked pasta, not stuffed or otherwise prepared",
+    "faoKName": "조제하지 않은 파스타(속이 채워지지 않은 것 또는 이외 가공되지 않은 것)"
+  },
+  {
+    "agCode": 16231,
+    "agName": "라면",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16239,
+    "agName": "인스탄트면",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16240,
+    "agName": "쿠우스쿠우스",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16299,
+    "agName": "기타파스타",
+    "faoCode": "0018",
+    "faoName": "Uncooked pasta, not stuffed or otherwise prepared",
+    "faoKName": "조제하지 않은 파스타(속이 채워지지 않은 것 또는 이외 가공되지 않은 것)"
+  },
+  {
+    "agCode": 16299,
+    "agName": "기타파스타",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16901,
+    "agName": "유아용조제식료품",
+    "faoCode": "0109",
+    "faoName": "Infant food",
+    "faoKName": "유아용조제식료품"
+  },
+  {
+    "agCode": 16901,
+    "agName": "유아용조제식료품",
+    "faoCode": "0115",
+    "faoName": "Food preparations of flour, meal or malt extract",
+    "faoKName": "고운가루, 거친가루나 맥아 추출물의 조제식료품"
+  },
+  {
+    "agCode": 16901,
+    "agName": "유아용조제식료품",
+    "faoCode": "0666",
+    "faoName": "Chocolate products nes",
+    "faoKName": "기타 초코렛 제품"
+  },
+  {
+    "agCode": 16902,
+    "agName": "맥아엑스",
+    "faoCode": "0050",
+    "faoName": "Malt extract",
+    "faoKName": "맥아엑스"
+  },
+  {
+    "agCode": 16903,
+    "agName": "오트밀",
+    "faoCode": "0115",
+    "faoName": "Food preparations of flour, meal or malt extract",
+    "faoKName": "고운가루, 거친가루나 맥아 추출물의 조제식료품"
+  },
+  {
+    "agCode": 16909,
+    "agName": "기타조제식료품",
+    "faoCode": "0115",
+    "faoName": "Food preparations of flour, meal or malt extract",
+    "faoKName": "고운가루, 거친가루나 맥아 추출물의 조제식료품"
+  },
+  {
+    "agCode": 16911,
+    "agName": "혼합쥬스",
+    "faoCode": "0466",
+    "faoName": "Other vegetable juices",
+    "faoKName": "기타 채소 주스"
+  },
+  {
+    "agCode": 16911,
+    "agName": "혼합쥬스",
+    "faoCode": "0622",
+    "faoName": "Juice of fruits n.e.c.",
+    "faoKName": "기타 과실 주스"
+  },
+  {
+    "agCode": 16912,
+    "agName": "차, 마태 조제품",
+    "faoCode": "0672",
+    "faoName": "Extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté",
+    "faoKName": "차, 마태 엑스, 에센스, 농축물 및 조제품"
+  },
+  {
+    "agCode": 16913,
+    "agName": "치커리조제품",
+    "faoCode": "0659",
+    "faoName": "Coffee extracts",
+    "faoKName": "커피 추출물"
+  },
+  {
+    "agCode": 16914,
+    "agName": "음료조제용 조제품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16921,
+    "agName": "수우프브로드",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16922,
+    "agName": "혼합조제식료품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16931,
+    "agName": "아이스크림",
+    "faoCode": "0910",
+    "faoName": "Ice cream and other edible ice",
+    "faoKName": "아이스크림 및 기타 빙과"
+  },
+  {
+    "agCode": 16939,
+    "agName": "기타빙과",
+    "faoCode": "0910",
+    "faoName": "Ice cream and other edible ice",
+    "faoKName": "아이스크림 및 기타 빙과"
+  },
+  {
+    "agCode": 16941,
+    "agName": "두부",
+    "faoCode": "0241",
+    "faoName": "Soya curd",
+    "faoKName": "두부"
+  },
+  {
+    "agCode": 16949,
+    "agName": "기타단백질농축물",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16951,
+    "agName": "향미용조제품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16952,
+    "agName": "알로에조제품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 16961,
+    "agName": "식초",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 17101,
+    "agName": "잠종",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 17102,
+    "agName": "누에번데기",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 17111,
+    "agName": "누에고치",
+    "faoCode": 1185,
+    "faoName": "Silk-worm cocoons suitable for reeling",
+    "faoKName": "누에고치(생사를 뽑는데 적합한 것)"
+  },
+  {
+    "agCode": 17112,
+    "agName": "생사",
+    "faoCode": 1186,
+    "faoName": "Raw silk (not thrown)",
+    "faoKName": "생사(꼰것은 제외)"
+  },
+  {
+    "agCode": 17113,
+    "agName": "견웨이스트",
+    "faoCode": 1187,
+    "faoName": "Silk waste",
+    "faoKName": "견 웨이스트"
+  },
+  {
+    "agCode": 17201,
+    "agName": "면",
+    "faoCode": "0328",
+    "faoName": "Seed cotton, unginned",
+    "faoKName": "실면(조면되지않은)"
+  },
+  {
+    "agCode": 17201,
+    "agName": "면",
+    "faoCode": "0767",
+    "faoName": "Cotton lint, ginned",
+    "faoKName": "생면(조면된)"
+  },
+  {
+    "agCode": 17201,
+    "agName": "면",
+    "faoCode": "0768",
+    "faoName": "Cotton, carded or combed",
+    "faoKName": "면(카드 또는 코움한 것)"
+  },
+  {
+    "agCode": 17201,
+    "agName": "면",
+    "faoCode": "0769",
+    "faoName": "Cotton waste",
+    "faoKName": "면웨이스트"
+  },
+  {
+    "agCode": 17211,
+    "agName": "아마",
+    "faoCode": "0771",
+    "faoName": "Flax, raw or retted",
+    "faoKName": "아마(생아마, 침지아마)"
+  },
+  {
+    "agCode": 17211,
+    "agName": "아마",
+    "faoCode": "0773",
+    "faoName": "Flax, processed but not spun",
+    "faoKName": "아마(가공되었지만 방적하지 않은 것)"
+  },
+  {
+    "agCode": 17211,
+    "agName": "아마",
+    "faoCode": "0774",
+    "faoName": "Flax, tow and waste",
+    "faoKName": "아마의 토우와 웨이스트"
+  },
+  {
+    "agCode": 17221,
+    "agName": "대마",
+    "faoCode": "0777",
+    "faoName": "True hemp, raw or retted",
+    "faoKName": "대마(생대마, 침지대마)"
+  },
+  {
+    "agCode": 17231,
+    "agName": "황마",
+    "faoCode": "0780",
+    "faoName": "Jute, raw or retted",
+    "faoKName": "황마(생황마, 침지황마)"
+  },
+  {
+    "agCode": 17231,
+    "agName": "황마",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 17232,
+    "agName": "방직용인피섬유",
+    "faoCode": "0782",
+    "faoName": "Kenaf, and other textile bast fibres, raw or retted",
+    "faoKName": "케냐프 및 기타 방직용 인피 섬유(생것 또는 침지한 것)"
+  },
+  {
+    "agCode": 17261,
+    "agName": "",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 21101,
+    "agName": "소",
+    "faoCode": "0866",
+    "faoName": "Cattle",
+    "faoKName": "소"
+  },
+  {
+    "agCode": 21101,
+    "agName": "소",
+    "faoCode": "0946",
+    "faoName": "Buffalo",
+    "faoKName": "버팔로"
+  },
+  {
+    "agCode": 21102,
+    "agName": "돼지",
+    "faoCode": 1034,
+    "faoName": "Swine / pigs",
+    "faoKName": "돼지"
+  },
+  {
+    "agCode": 21103,
+    "agName": "말",
+    "faoCode": 1096,
+    "faoName": "Horses",
+    "faoKName": "말"
+  },
+  {
+    "agCode": 21104,
+    "agName": "당나귀",
+    "faoCode": 1107,
+    "faoName": "Asses",
+    "faoKName": "당나귀"
+  },
+  {
+    "agCode": 21104,
+    "agName": "당나귀",
+    "faoCode": 1110,
+    "faoName": "Mules and hinnies",
+    "faoKName": "노새와 힌니"
+  },
+  {
+    "agCode": 21105,
+    "agName": "면양",
+    "faoCode": "0976",
+    "faoName": "Sheep",
+    "faoKName": "양"
+  },
+  {
+    "agCode": 21106,
+    "agName": "산양",
+    "faoCode": 1016,
+    "faoName": "Goats",
+    "faoKName": "염소"
+  },
+  {
+    "agCode": 21111,
+    "agName": "개",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21112,
+    "agName": "토끼",
+    "faoCode": 1140,
+    "faoName": "Rabbits and hares",
+    "faoKName": "토끼"
+  },
+  {
+    "agCode": 21113,
+    "agName": "친칠라",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21114,
+    "agName": "밍크",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21115,
+    "agName": "사슴",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21117,
+    "agName": "영장류",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21118,
+    "agName": "고래, 돌고래류",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 21118,
+    "agName": "고래, 돌고래류",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21118,
+    "agName": "고래, 돌고래류",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21119,
+    "agName": "물개",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 21119,
+    "agName": "물개",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21119,
+    "agName": "물개",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21121,
+    "agName": "낙타",
+    "faoCode": 1126,
+    "faoName": "Camels",
+    "faoKName": "낙타"
+  },
+  {
+    "agCode": 21121,
+    "agName": "낙타",
+    "faoCode": 1127,
+    "faoName": "Meat of camels, fresh or chilled",
+    "faoKName": "낙타고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 21121,
+    "agName": "낙타",
+    "faoCode": 1128,
+    "faoName": "Edible offals of camels and other camelids, fresh, chilled or frozen",
+    "faoKName": "낙타와 낙타과 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 21121,
+    "agName": "낙타",
+    "faoCode": 1157,
+    "faoName": "Other camelids",
+    "faoKName": "기타 낙타과"
+  },
+  {
+    "agCode": 21121,
+    "agName": "낙타",
+    "faoCode": 1158,
+    "faoName": "Meat of other domestic camelids, fresh or chilled",
+    "faoKName": "기타 가축용 낙타과 고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 21201,
+    "agName": "닭",
+    "faoCode": 1057,
+    "faoName": "Chickens",
+    "faoKName": "닭"
+  },
+  {
+    "agCode": 21202,
+    "agName": "오리",
+    "faoCode": 1068,
+    "faoName": "Ducks",
+    "faoKName": "오리"
+  },
+  {
+    "agCode": 21203,
+    "agName": "칠면조",
+    "faoCode": 1079,
+    "faoName": "Turkeys",
+    "faoKName": "칠면조"
+  },
+  {
+    "agCode": 21301,
+    "agName": "곰",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21301,
+    "agName": "곰",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21303,
+    "agName": "맹금",
+    "faoCode": 1083,
+    "faoName": "Other birds",
+    "faoKName": "기타 조류"
+  },
+  {
+    "agCode": 21399,
+    "agName": "기타 포유류",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21399,
+    "agName": "기타 포유류",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21480,
+    "agName": "타조",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21480,
+    "agName": "타조",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21499,
+    "agName": "기타조류",
+    "faoCode": 1083,
+    "faoName": "Other birds",
+    "faoKName": "기타 조류"
+  },
+  {
+    "agCode": 21501,
+    "agName": "뱀",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21501,
+    "agName": "뱀",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21502,
+    "agName": "자라",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21502,
+    "agName": "자라",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21503,
+    "agName": "거북",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21503,
+    "agName": "거북",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21599,
+    "agName": "기타파충류",
+    "faoCode": 1169,
+    "faoName": "Other live animals non food, n.e.c.",
+    "faoKName": "기타 살아있는 동물(식용이 아닌 것)"
+  },
+  {
+    "agCode": 21599,
+    "agName": "기타파충류",
+    "faoCode": 1171,
+    "faoName": "Other live animals nes",
+    "faoKName": "기타 살아있는 동물"
+  },
+  {
+    "agCode": 21701,
+    "agName": "벌",
+    "faoCode": 1181,
+    "faoName": "Bees",
+    "faoKName": "벌"
+  },
+  {
+    "agCode": 21791,
+    "agName": "식용곤충",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 22101,
+    "agName": "쇠고기",
+    "faoCode": "0867",
+    "faoName": "Meat of cattle with the bone, fresh or chilled",
+    "faoKName": "쇠고기(뼈 있는 것으로 신선 또는 냉장)"
+  },
+  {
+    "agCode": 22101,
+    "agName": "쇠고기",
+    "faoCode": "0868",
+    "faoName": "Edible offal of cattle, fresh, chilled or frozen",
+    "faoKName": "소 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22101,
+    "agName": "쇠고기",
+    "faoCode": "0870",
+    "faoName": "Meat of cattle boneless, fresh or chilled",
+    "faoKName": "쇠고기(뼈 없는 것으로 신선 또는 냉장)"
+  },
+  {
+    "agCode": 22101,
+    "agName": "쇠고기",
+    "faoCode": "0872",
+    "faoName": "Bovine meat, salted, dried or smoked",
+    "faoKName": "쇠고기(염장, 건조 또는 훈제한 것)"
+  },
+  {
+    "agCode": 22101,
+    "agName": "쇠고기",
+    "faoCode": "0875",
+    "faoName": "beef and veal preparations nes",
+    "faoKName": "쇠고기 조제품"
+  },
+  {
+    "agCode": 22101,
+    "agName": "쇠고기",
+    "faoCode": "0947",
+    "faoName": "Meat of buffalo, fresh or chilled",
+    "faoKName": "버팔로 고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22101,
+    "agName": "쇠고기",
+    "faoCode": "0948",
+    "faoName": "Edible offal of buffalo, fresh, chilled or frozen",
+    "faoKName": "버팔로 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22101,
+    "agName": "쇠고기",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 22102,
+    "agName": "돼지고기",
+    "faoCode": 1035,
+    "faoName": "Meat of pig with the bone, fresh or chilled",
+    "faoKName": "돼지고기(뼈 있는 것으로 신선 또는 냉장)"
+  },
+  {
+    "agCode": 22102,
+    "agName": "돼지고기",
+    "faoCode": 1036,
+    "faoName": "Edible offal of pigs, fresh, chilled or frozen",
+    "faoKName": "돼지 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22102,
+    "agName": "돼지고기",
+    "faoCode": 1037,
+    "faoName": "Fat of pigs",
+    "faoKName": "돈지"
+  },
+  {
+    "agCode": 22102,
+    "agName": "돼지고기",
+    "faoCode": 1038,
+    "faoName": "Meat of pig boneless, fresh or chilled",
+    "faoKName": "돼지고기(뼈 없는 것으로 신선 또는 냉장)"
+  },
+  {
+    "agCode": 22102,
+    "agName": "돼지고기",
+    "faoCode": 1039,
+    "faoName": "Pig meat, cuts, salted, dried or smoked (bacon and ham)",
+    "faoKName": "돼지고기(절단, 염장, 건조 또는 훈제한 것)(베이컨과 햄)"
+  },
+  {
+    "agCode": 22102,
+    "agName": "돼지고기",
+    "faoCode": 1040,
+    "faoName": "Pig, butcher fat",
+    "faoKName": "돼지 비계"
+  },
+  {
+    "agCode": 22102,
+    "agName": "돼지고기",
+    "faoCode": 1042,
+    "faoName": "Pig meat preparations",
+    "faoKName": "돼지고기 조제품"
+  },
+  {
+    "agCode": 22102,
+    "agName": "돼지고기",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 22103,
+    "agName": "말고기",
+    "faoCode": 1097,
+    "faoName": "Horse meat, fresh or chilled",
+    "faoKName": "말고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22103,
+    "agName": "말고기",
+    "faoCode": 1108,
+    "faoName": "Meat of asses, fresh or chilled",
+    "faoKName": "당나귀고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22103,
+    "agName": "말고기",
+    "faoCode": 1111,
+    "faoName": "Meat of mules, fresh or chilled",
+    "faoKName": "노새고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22105,
+    "agName": "면양고기",
+    "faoCode": "0977",
+    "faoName": "Meat of sheep, fresh or chilled",
+    "faoKName": "양고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22105,
+    "agName": "면양고기",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 22106,
+    "agName": "산양고기",
+    "faoCode": 1017,
+    "faoName": "Meat of goat, fresh or chilled",
+    "faoKName": "염소고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22106,
+    "agName": "면양고기",
+    "faoCode": 1017,
+    "faoName": "Meat of goat, fresh or chilled",
+    "faoKName": "염소고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22112,
+    "agName": "토끼고기",
+    "faoCode": 1141,
+    "faoName": "Meat of rabbits and hares, fresh or chilled",
+    "faoKName": "토끼고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22115,
+    "agName": "사슴고기",
+    "faoCode": 1163,
+    "faoName": "Game meat, fresh, chilled or frozen",
+    "faoKName": "수렵육(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22116,
+    "agName": "영장류",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 22117,
+    "agName": "고래류",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 22199,
+    "agName": "기타포유가축육",
+    "faoCode": "0978",
+    "faoName": "Edible offal of sheep, fresh, chilled or frozen",
+    "faoKName": "양 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22199,
+    "agName": "기타포유가축육",
+    "faoCode": 1018,
+    "faoName": "Edible offal of goat, fresh, chilled or frozen",
+    "faoKName": "염소 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22199,
+    "agName": "기타포유가축육",
+    "faoCode": 1098,
+    "faoName": "Edible offals of horses and other equines,  fresh, chilled or frozen",
+    "faoKName": "말 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22201,
+    "agName": "닭고기",
+    "faoCode": 1058,
+    "faoName": "Meat of chickens, fresh or chilled",
+    "faoKName": "닭고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22201,
+    "agName": "닭고기",
+    "faoCode": 1059,
+    "faoName": "Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen",
+    "faoKName": "닭과 기나아새 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22201,
+    "agName": "닭고기",
+    "faoCode": 1061,
+    "faoName": "Poultry meat preparations",
+    "faoKName": "가금육 조제품"
+  },
+  {
+    "agCode": 22202,
+    "agName": "오리고기",
+    "faoCode": 1068,
+    "faoName": "Ducks",
+    "faoKName": "오리"
+  },
+  {
+    "agCode": 22202,
+    "agName": "오리고기",
+    "faoCode": 1069,
+    "faoName": "Meat of ducks, fresh or chilled",
+    "faoKName": "오리고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22202,
+    "agName": "오리고기",
+    "faoCode": 1075,
+    "faoName": "Edible offals and liver of ducks, fresh, chilled or frozen",
+    "faoKName": "오리 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22203,
+    "agName": "칠면조고기",
+    "faoCode": 1061,
+    "faoName": "Poultry meat preparations",
+    "faoKName": "가금육 조제품"
+  },
+  {
+    "agCode": 22203,
+    "agName": "칠면조고기",
+    "faoCode": 1080,
+    "faoName": "Meat of turkeys, fresh or chilled",
+    "faoKName": "칠면조고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22203,
+    "agName": "칠면조고기",
+    "faoCode": 1081,
+    "faoName": "Edible offals and liver of turkey, fresh, chilled or frozen",
+    "faoKName": "칠면조 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22204,
+    "agName": "거위",
+    "faoCode": 1072,
+    "faoName": "Geese",
+    "faoKName": "거위"
+  },
+  {
+    "agCode": 22204,
+    "agName": "거위",
+    "faoCode": 1073,
+    "faoName": "Meat of geese, fresh or chilled",
+    "faoKName": "거위고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22204,
+    "agName": "거위",
+    "faoCode": 1074,
+    "faoName": "Edible offals and liver of geese, fresh, chilled or frozen",
+    "faoKName": "거위 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22205,
+    "agName": "기니아새",
+    "faoCode": 1059,
+    "faoName": "Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen",
+    "faoKName": "닭과 기나아새 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22299,
+    "agName": "기타 가금육",
+    "faoCode": 1061,
+    "faoName": "Poultry meat preparations",
+    "faoKName": "가금육 조제품"
+  },
+  {
+    "agCode": 22299,
+    "agName": "기타 가금육",
+    "faoCode": 1065,
+    "faoName": "Fat of poultry",
+    "faoKName": "가금지"
+  },
+  {
+    "agCode": 22299,
+    "agName": "기타 가금육",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 22901,
+    "agName": "양장",
+    "faoCode": "0868",
+    "faoName": "Edible offal of cattle, fresh, chilled or frozen",
+    "faoKName": "소 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22901,
+    "agName": "양장",
+    "faoCode": "0948",
+    "faoName": "Edible offal of buffalo, fresh, chilled or frozen",
+    "faoKName": "버팔로 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22901,
+    "agName": "양장",
+    "faoCode": "0978",
+    "faoName": "Edible offal of sheep, fresh, chilled or frozen",
+    "faoKName": "양 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22901,
+    "agName": "양장",
+    "faoCode": 1018,
+    "faoName": "Edible offal of goat, fresh, chilled or frozen",
+    "faoKName": "염소 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22901,
+    "agName": "양장",
+    "faoCode": 1036,
+    "faoName": "Edible offal of pigs, fresh, chilled or frozen",
+    "faoKName": "돼지 설육(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22901,
+    "agName": "양장",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 22902,
+    "agName": "동물의간장",
+    "faoCode": "0878",
+    "faoName": "Liver preparations",
+    "faoKName": "간장제제"
+  },
+  {
+    "agCode": 22902,
+    "agName": "동물의간장",
+    "faoCode": 1060,
+    "faoName": "Fatty liver preparations",
+    "faoKName": "지방 간장제제"
+  },
+  {
+    "agCode": 22903,
+    "agName": "파충류",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 22903,
+    "agName": "파충류",
+    "faoCode": 1166,
+    "faoName": "Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",
+    "faoKName": "기타 육류(포유류 제외, 신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22903,
+    "agName": "파충류",
+    "faoCode": 1167,
+    "faoName": "Offals n.e.c. (excluding mammals), fresh, chilled or frozen",
+    "faoKName": "기타 설육(포유류 제외, 신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22911,
+    "agName": "소시지",
+    "faoCode": "0874",
+    "faoName": "Sausages and similar products of meat, offal or blood of beef and veal",
+    "faoKName": "소시지나 그 밖에 이와 유사한 물품(소의 육ㆍ설육(屑肉)ㆍ피로 조제한 것으로 한정)"
+  },
+  {
+    "agCode": 22911,
+    "agName": "소시지",
+    "faoCode": 1041,
+    "faoName": "Sausages and similar products of meat, offal or blood of pig",
+    "faoKName": "소시지나 그 밖에 이와 유사한 물품(돼지의 육ㆍ설육(屑肉)ㆍ피로 조제한 것으로 한정)"
+  },
+  {
+    "agCode": 22911,
+    "agName": "소시지",
+    "faoCode": 1172,
+    "faoName": "Meat prepared n.e.c.",
+    "faoKName": "기타 육류 조제품"
+  },
+  {
+    "agCode": 22921,
+    "agName": "육즙",
+    "faoCode": "0873",
+    "faoName": "Extracts and juices of meat, fish, crustaceans, molluscs or other aquatic invertebrates",
+    "faoKName": "육ㆍ어류ㆍ갑각류ㆍ연체동물이나 그 밖의 수생(水生) 무척추동물의 추출물(extract)과 즙"
+  },
+  {
+    "agCode": 22922,
+    "agName": "육류수우프",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 22999,
+    "agName": "기타육류",
+    "faoCode": "0877",
+    "faoName": "Homogenized meat preparations",
+    "faoKName": "균질화 육류 조제품"
+  },
+  {
+    "agCode": 22999,
+    "agName": "기타육류",
+    "faoCode": 1089,
+    "faoName": "Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",
+    "faoKName": "비둘기와 기타 조류 고기(신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22999,
+    "agName": "기타육류",
+    "faoCode": 1151,
+    "faoName": "Meat of other domestic rodents, fresh or chilled",
+    "faoKName": "기타 가축용 설치류의 고기(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22999,
+    "agName": "기타육류",
+    "faoCode": 1163,
+    "faoName": "Game meat, fresh, chilled or frozen",
+    "faoKName": "수렵육(신선 또는 냉장)"
+  },
+  {
+    "agCode": 22999,
+    "agName": "기타육류",
+    "faoCode": 1164,
+    "faoName": "Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",
+    "faoKName": "기타 육류와 설육 (염장, 염수장, 건조 또는 훈제; 고기나 설육의 가루)"
+  },
+  {
+    "agCode": 22999,
+    "agName": "기타육류",
+    "faoCode": 1166,
+    "faoName": "Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",
+    "faoKName": "기타 육류(포유류 제외, 신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22999,
+    "agName": "기타육류",
+    "faoCode": 1167,
+    "faoName": "Offals n.e.c. (excluding mammals), fresh, chilled or frozen",
+    "faoKName": "기타 설육(포유류 제외, 신선, 냉장 또는 냉동)"
+  },
+  {
+    "agCode": 22999,
+    "agName": "기타육류",
+    "faoCode": 1172,
+    "faoName": "Meat prepared n.e.c.",
+    "faoKName": "기타 육류 조제품"
+  },
+  {
+    "agCode": 23101,
+    "agName": "돈지",
+    "faoCode": 1043,
+    "faoName": "Pig fat, rendered",
+    "faoKName": "돈지(기름을 뺀 것)"
+  },
+  {
+    "agCode": 23102,
+    "agName": "가금지",
+    "faoCode": 1066,
+    "faoName": "Poultry fat, rendered",
+    "faoKName": "가금지(기름을 뺀 것)"
+  },
+  {
+    "agCode": 23111,
+    "agName": "우지",
+    "faoCode": "0869",
+    "faoName": "Cattle fat, unrendered",
+    "faoKName": "우지(기름을 빼지 않은 것)"
+  },
+  {
+    "agCode": 23111,
+    "agName": "우지",
+    "faoCode": "0871",
+    "faoName": "Cattle, butcher fat",
+    "faoKName": "우지"
+  },
+  {
+    "agCode": 23111,
+    "agName": "우지",
+    "faoCode": "0949",
+    "faoName": "Buffalo fat, unrendered",
+    "faoKName": "버팔로 지방"
+  },
+  {
+    "agCode": 23111,
+    "agName": "우지",
+    "faoCode": 1225,
+    "faoName": "Tallow",
+    "faoKName": "탤로우"
+  },
+  {
+    "agCode": 23111,
+    "agName": "우지",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 23111,
+    "agName": "우지",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 23119,
+    "agName": "면양, 산양의 지방",
+    "faoCode": "0979",
+    "faoName": "Sheep fat, unrendered",
+    "faoKName": "양 지방"
+  },
+  {
+    "agCode": 23119,
+    "agName": "면양, 산양의 지방",
+    "faoCode": 1019,
+    "faoName": "Goat fat, unrendered",
+    "faoKName": "염소 지방"
+  },
+  {
+    "agCode": 23121,
+    "agName": "라이드",
+    "faoCode": 1221,
+    "faoName": "Lard stearine and lard oil",
+    "faoKName": "라드스테아린과 라드유"
+  },
+  {
+    "agCode": 23122,
+    "agName": "라드유",
+    "faoCode": 1221,
+    "faoName": "Lard stearine and lard oil",
+    "faoKName": "라드스테아린과 라드유"
+  },
+  {
+    "agCode": 23123,
+    "agName": "올레오 스테마린",
+    "faoCode": 1221,
+    "faoName": "Lard stearine and lard oil",
+    "faoKName": "라드스테아린과 라드유"
+  },
+  {
+    "agCode": 23124,
+    "agName": "올레오 유",
+    "faoCode": 1221,
+    "faoName": "Lard stearine and lard oil",
+    "faoKName": "라드스테아린과 라드유"
+  },
+  {
+    "agCode": 23129,
+    "agName": "기타동물성유지",
+    "faoCode": 1129,
+    "faoName": "Fat of camels",
+    "faoKName": "낙타 지방"
+  },
+  {
+    "agCode": 23129,
+    "agName": "기타동물성유지",
+    "faoCode": 1160,
+    "faoName": "Fat of other camelids",
+    "faoKName": "기타 낙타과 지방"
+  },
+  {
+    "agCode": 23129,
+    "agName": "기타동물성유지",
+    "faoCode": 1168,
+    "faoName": "Animal oils and fats n.e.c.",
+    "faoKName": "기타 동물성유지"
+  },
+  {
+    "agCode": 23129,
+    "agName": "기타동물성유지",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 23129,
+    "agName": "기타동물성유지",
+    "faoCode": 1273,
+    "faoName": "Castor oil, hydrogenated",
+    "faoKName": "피마자유(수소화된 것)"
+  },
+  {
+    "agCode": 23129,
+    "agName": "기타동물성유지",
+    "faoCode": 1274,
+    "faoName": "Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",
+    "faoKName": "동물성 또는 식물성 지방 및 오일 및 분획물(수소화, 상호 에스테르화 또는 엘라이딘화를 제외한 화학적으로 변형이 된 것; 동물성 또는 식물성 지방의 비식용용 혼합물 또는 조제품)"
+  },
+  {
+    "agCode": 23129,
+    "agName": "기타동물성유지",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 23131,
+    "agName": "우울 그리이스",
+    "faoCode": "0994",
+    "faoName": "Wool grease and lanolin",
+    "faoKName": "울그리스와 라놀린"
+  },
+  {
+    "agCode": 23141,
+    "agName": "우각유",
+    "faoCode": 1168,
+    "faoName": "Animal oils and fats n.e.c.",
+    "faoKName": "기타 동물성유지"
+  },
+  {
+    "agCode": 23199,
+    "agName": "기타 동물성유지분획물",
+    "faoCode": 1243,
+    "faoName": "Fat preparations n.e.c.",
+    "faoKName": "기타 지방 조제품"
+  },
+  {
+    "agCode": 23199,
+    "agName": "기타 동물성유지분획물",
+    "faoCode": 1275,
+    "faoName": "hydrogenated oils and fats",
+    "faoKName": "오일과 지방(수소화된 것)"
+  },
+  {
+    "agCode": 23201,
+    "agName": "밀납",
+    "faoCode": 1183,
+    "faoName": "Beeswax",
+    "faoKName": "밀랍"
+  },
+  {
+    "agCode": 23301,
+    "agName": "동물의 뼈",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23302,
+    "agName": "골분",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23303,
+    "agName": "상아",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23399,
+    "agName": "뼈부산물",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23401,
+    "agName": "녹용",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23402,
+    "agName": "용현향",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23403,
+    "agName": "해리향",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23404,
+    "agName": "사향",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23405,
+    "agName": "우황",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23406,
+    "agName": "오령지",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23901,
+    "agName": "꿀",
+    "faoCode": "0155",
+    "faoName": "Maltose, chemically pure",
+    "faoKName": "맥아당(화학적으로 순수한)"
+  },
+  {
+    "agCode": 23901,
+    "agName": "꿀",
+    "faoCode": "0167",
+    "faoName": "Sugar and syrups n.e.c.",
+    "faoKName": "기타 설탕과 시럽"
+  },
+  {
+    "agCode": 23901,
+    "agName": "꿀",
+    "faoCode": "0175",
+    "faoName": "Isoglucose",
+    "faoKName": "아이소글루코스"
+  },
+  {
+    "agCode": 23901,
+    "agName": "꿀",
+    "faoCode": 1182,
+    "faoName": "Natural honey",
+    "faoKName": "천연꿀"
+  },
+  {
+    "agCode": 23902,
+    "agName": "식용새집",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 23903,
+    "agName": "기타 축산조제품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 23904,
+    "agName": "로얄제리",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 23911,
+    "agName": "동물발굽",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23912,
+    "agName": "동물췌장",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23913,
+    "agName": "동물정액",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23914,
+    "agName": "동물피",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23915,
+    "agName": "동물의 건과 근",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 23921,
+    "agName": "육류분",
+    "faoCode": 1173,
+    "faoName": "Meat meal",
+    "faoKName": "육류분"
+  },
+  {
+    "agCode": 23922,
+    "agName": "수지박",
+    "faoCode": 1173,
+    "faoName": "Meat meal",
+    "faoKName": "육류분"
+  },
+  {
+    "agCode": 23999,
+    "agName": "기타 식용 동물성 생산품",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0882",
+    "faoName": "Raw milk of cattle",
+    "faoKName": "소의 생우유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0883",
+    "faoName": "Standardized milk",
+    "faoKName": "표준화 우유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0885",
+    "faoName": "Cream, fresh",
+    "faoKName": "크림(신선)"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0888",
+    "faoName": "Skim milk of cows",
+    "faoKName": "소의 탈지유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0908",
+    "faoName": "Reconstituted milk",
+    "faoKName": "환원유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0951",
+    "faoName": "Raw milk of buffalo",
+    "faoKName": "버팔로의 생우유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0954",
+    "faoName": "Skim milk of buffalo",
+    "faoKName": "버팔로의 탈지유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0982",
+    "faoName": "Raw milk of sheep",
+    "faoKName": "양의 생우유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": "0985",
+    "faoName": "Skim sheep milk",
+    "faoKName": "양의 탈지유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": 1020,
+    "faoName": "Raw milk of goats",
+    "faoKName": "염소의 생우유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": 1023,
+    "faoName": "Skim milk of goat",
+    "faoKName": "염소의 탈지유"
+  },
+  {
+    "agCode": 24101,
+    "agName": "생우유",
+    "faoCode": 1130,
+    "faoName": "Raw milk of camel",
+    "faoKName": "낙타의 생우유"
+  },
+  {
+    "agCode": 24111,
+    "agName": "탈지분유",
+    "faoCode": "0898",
+    "faoName": "Skim milk and whey powder",
+    "faoKName": "탈지분유와 유장분유"
+  },
+  {
+    "agCode": 24112,
+    "agName": "전지분유",
+    "faoCode": "0897",
+    "faoName": "Whole milk powder",
+    "faoKName": "전지분유"
+  },
+  {
+    "agCode": 24113,
+    "agName": "연유",
+    "faoCode": "0889",
+    "faoName": "Whole milk, condensed",
+    "faoKName": "전유연유"
+  },
+  {
+    "agCode": 24113,
+    "agName": "연유",
+    "faoCode": "0894",
+    "faoName": "Whole milk, evaporated",
+    "faoKName": "무당전유"
+  },
+  {
+    "agCode": 24113,
+    "agName": "연유",
+    "faoCode": "0895",
+    "faoName": "Skim milk, evaporated",
+    "faoKName": "무당탈지유"
+  },
+  {
+    "agCode": 24113,
+    "agName": "연유",
+    "faoCode": "0896",
+    "faoName": "Skim milk, condensed",
+    "faoKName": "탈지연유"
+  },
+  {
+    "agCode": 24114,
+    "agName": "유당",
+    "faoCode": "0173",
+    "faoName": "Lactose",
+    "faoKName": "유당"
+  },
+  {
+    "agCode": 24115,
+    "agName": "버터밀크",
+    "faoCode": "0893",
+    "faoName": "Buttermilk, curdled and acidified milk",
+    "faoKName": "버터밀크(응고밀크와 산성화된 밀크)"
+  },
+  {
+    "agCode": 24115,
+    "agName": "버터밀크",
+    "faoCode": "0899",
+    "faoName": "Buttermilk, dry",
+    "faoKName": "버터밀크(건조)"
+  },
+  {
+    "agCode": 24116,
+    "agName": "버터",
+    "faoCode": "0886",
+    "faoName": "Butter of cow milk",
+    "faoKName": "소 우유의 버터"
+  },
+  {
+    "agCode": 24116,
+    "agName": "버터",
+    "faoCode": "0887",
+    "faoName": "Ghee from cow milk",
+    "faoKName": "소 우유의 버터기름(Ghee)"
+  },
+  {
+    "agCode": 24116,
+    "agName": "버터",
+    "faoCode": "0952",
+    "faoName": "Butter of buffalo milk",
+    "faoKName": "버팔로 우유의 버터"
+  },
+  {
+    "agCode": 24116,
+    "agName": "버터",
+    "faoCode": "0953",
+    "faoName": "Ghee from buffalo milk",
+    "faoKName": "버팔로 우유의 버터기름(Ghee)"
+  },
+  {
+    "agCode": 24116,
+    "agName": "버터",
+    "faoCode": "0983",
+    "faoName": "Butter and ghee of sheep milk",
+    "faoKName": "양 우유의 버터"
+  },
+  {
+    "agCode": 24116,
+    "agName": "버터",
+    "faoCode": 1022,
+    "faoName": "Butter of goat milk",
+    "faoKName": "염소 우유의 버터"
+  },
+  {
+    "agCode": 24121,
+    "agName": "유장",
+    "faoCode": "0890",
+    "faoName": "Whey, condensed",
+    "faoKName": "유장연유"
+  },
+  {
+    "agCode": 24121,
+    "agName": "유장",
+    "faoCode": "0900",
+    "faoName": "Whey, dry",
+    "faoKName": "유장(건조)"
+  },
+  {
+    "agCode": 24121,
+    "agName": "유장",
+    "faoCode": "0903",
+    "faoName": "Whey, fresh",
+    "faoKName": "유장(신선)"
+  },
+  {
+    "agCode": 24121,
+    "agName": "유장",
+    "faoCode": "0909",
+    "faoName": "Dairy products n.e.c.",
+    "faoKName": "기타 유제품"
+  },
+  {
+    "agCode": 24122,
+    "agName": "치즈",
+    "faoCode": "0901",
+    "faoName": "Cheese from whole cow milk",
+    "faoKName": "전유치즈"
+  },
+  {
+    "agCode": 24122,
+    "agName": "치즈",
+    "faoCode": "0904",
+    "faoName": "Cheese from skimmed cow milk",
+    "faoKName": "탈지유치즈"
+  },
+  {
+    "agCode": 24122,
+    "agName": "치즈",
+    "faoCode": "0905",
+    "faoName": "Whey cheese",
+    "faoKName": "유장치즈"
+  },
+  {
+    "agCode": 24122,
+    "agName": "치즈",
+    "faoCode": "0907",
+    "faoName": "Processed cheese",
+    "faoKName": "가공처리된 치즈"
+  },
+  {
+    "agCode": 24122,
+    "agName": "치즈",
+    "faoCode": "0955",
+    "faoName": "Cheese from milk of buffalo, fresh or processed",
+    "faoKName": "버팔로 우유의 치즈(신선 또는 가공)"
+  },
+  {
+    "agCode": 24122,
+    "agName": "치즈",
+    "faoCode": "0984",
+    "faoName": "Cheese from milk of sheep, fresh or processed",
+    "faoKName": "양 우유의 치즈(신선 또는 가공)"
+  },
+  {
+    "agCode": 24122,
+    "agName": "치즈",
+    "faoCode": 1021,
+    "faoName": "Cheese from milk of goats, fresh or processed",
+    "faoKName": "염소 우유의 치즈(신선 또는 가공)"
+  },
+  {
+    "agCode": 24131,
+    "agName": "발효유",
+    "faoCode": "0891",
+    "faoName": "Yoghurt",
+    "faoKName": "요구르트"
+  },
+  {
+    "agCode": 24131,
+    "agName": "발효유",
+    "faoCode": "0892",
+    "faoName": "Yoghurt, with additives",
+    "faoKName": "요구르트(첨가제가 포함된 것)"
+  },
+  {
+    "agCode": 24141,
+    "agName": "조제분유",
+    "faoCode": "0109",
+    "faoName": "Infant food",
+    "faoKName": "유아용조제식료품"
+  },
+  {
+    "agCode": 24149,
+    "agName": "우유조제품",
+    "faoCode": "0050",
+    "faoName": "Malt extract",
+    "faoKName": "맥아엑스"
+  },
+  {
+    "agCode": 24149,
+    "agName": "우유조제품",
+    "faoCode": "0109",
+    "faoName": "Infant food",
+    "faoKName": "유아용조제식료품"
+  },
+  {
+    "agCode": 24149,
+    "agName": "우유조제품",
+    "faoCode": "0115",
+    "faoName": "Food preparations of flour, meal or malt extract",
+    "faoKName": "고운가루, 거친가루나 맥아 추출물의 조제식료품"
+  },
+  {
+    "agCode": 24149,
+    "agName": "우유조제품",
+    "faoCode": "0909",
+    "faoName": "Dairy products n.e.c.",
+    "faoKName": "기타 유제품"
+  },
+  {
+    "agCode": 24201,
+    "agName": "조란",
+    "faoCode": 1062,
+    "faoName": "Hen eggs in shell, fresh",
+    "faoKName": "닭의 란(껍질이 붙은것으로서 신선한 것)"
+  },
+  {
+    "agCode": 24201,
+    "agName": "조란",
+    "faoCode": 1063,
+    "faoName": "Eggs, liquid",
+    "faoKName": "조란(액체)"
+  },
+  {
+    "agCode": 24201,
+    "agName": "조란",
+    "faoCode": 1064,
+    "faoName": "Eggs, dried",
+    "faoKName": "조란(건조)"
+  },
+  {
+    "agCode": 24201,
+    "agName": "조란",
+    "faoCode": 1091,
+    "faoName": "Eggs from other birds in shell, fresh, n.e.c.",
+    "faoKName": "기타 조류의 란(껍질이 붙은것으로서 신선한 것)"
+  },
+  {
+    "agCode": 24202,
+    "agName": "난황",
+    "faoCode": 1063,
+    "faoName": "Eggs, liquid",
+    "faoKName": "조란(액체)"
+  },
+  {
+    "agCode": 24202,
+    "agName": "난황",
+    "faoCode": 1064,
+    "faoName": "Eggs, dried",
+    "faoKName": "조란(건조)"
+  },
+  {
+    "agCode": 24301,
+    "agName": "카세인",
+    "faoCode": "0917",
+    "faoName": "Casein",
+    "faoKName": "카세인"
+  },
+  {
+    "agCode": 24302,
+    "agName": "난백",
+    "faoCode": "0916",
+    "faoName": "Egg albumin",
+    "faoKName": "난백"
+  },
+  {
+    "agCode": 25101,
+    "agName": "인모",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 25111,
+    "agName": "돼지털",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 25112,
+    "agName": "오소리털",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 25113,
+    "agName": "염소털",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 25119,
+    "agName": "기타동물의 털",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 25121,
+    "agName": "마모",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 25131,
+    "agName": "새털",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 25141,
+    "agName": "양모",
+    "faoCode": "0987",
+    "faoName": "Shorn wool, greasy, including fleece-washed shorn wool",
+    "faoKName": "깎은 양모(플리스와시한(fleece-washed) 양모를 포함)(그리지한(greasy))"
+  },
+  {
+    "agCode": 25141,
+    "agName": "양모",
+    "faoCode": "0988",
+    "faoName": "Wool, degreased or carbonized, not carded or combed",
+    "faoKName": "양모(그지지하지 않거나 탄화된 것)(카드하지도 코움하지도 않은 것)"
+  },
+  {
+    "agCode": 25151,
+    "agName": "섬수모",
+    "faoCode": 1218,
+    "faoName": "Fine animal hair, n.e.c.",
+    "faoKName": "동물의 가는 모"
+  },
+  {
+    "agCode": 25161,
+    "agName": "조수모",
+    "faoCode": 1031,
+    "faoName": "Coarse goat hair",
+    "faoKName": "콜스염소의 털"
+  },
+  {
+    "agCode": 25211,
+    "agName": "소원피",
+    "faoCode": "0919",
+    "faoName": "Raw hides and skins of cattle",
+    "faoKName": "소원피(생것)"
+  },
+  {
+    "agCode": 25211,
+    "agName": "소원피",
+    "faoCode": "0920",
+    "faoName": "Hides, wet-salted of cattle",
+    "faoKName": "소원피(습식염장한 것)"
+  },
+  {
+    "agCode": 25211,
+    "agName": "소원피",
+    "faoCode": "0928",
+    "faoName": "Skins, wet-salted of calves",
+    "faoKName": "송아지원피(습식염장한 것)"
+  },
+  {
+    "agCode": 25211,
+    "agName": "소원피",
+    "faoCode": "0957",
+    "faoName": "Raw hides and skins of buffaloes",
+    "faoKName": "버팔로 원피(생것)"
+  },
+  {
+    "agCode": 25211,
+    "agName": "소원피",
+    "faoCode": "0958",
+    "faoName": "Hides, wet-salted of buffalo",
+    "faoKName": "버팔로 원피(습식염장한 것)"
+  },
+  {
+    "agCode": 25211,
+    "agName": "소원피",
+    "faoCode": "0959",
+    "faoName": "Hides, dry-salted of buffalo",
+    "faoKName": "버팔로 원피(건식염장한 것)"
+  },
+  {
+    "agCode": 25211,
+    "agName": "소원피",
+    "faoCode": 1104,
+    "faoName": "Hides, dry-salted of horses",
+    "faoKName": "말 원피(건조염장한 것)"
+  },
+  {
+    "agCode": 25212,
+    "agName": "돼지원피",
+    "faoCode": 1044,
+    "faoName": "Raw skins of swine",
+    "faoKName": "돼지원피(생것)"
+  },
+  {
+    "agCode": 25214,
+    "agName": "면양원피",
+    "faoCode": "0995",
+    "faoName": "Raw hides and skins of sheep or lambs",
+    "faoKName": "면양원피(생것)"
+  },
+  {
+    "agCode": 25214,
+    "agName": "면양원피",
+    "faoCode": "0996",
+    "faoName": "Skins, wet-salted of sheep",
+    "faoKName": "면양원피(습식염장한 것)"
+  },
+  {
+    "agCode": 25214,
+    "agName": "면양원피",
+    "faoCode": "0997",
+    "faoName": "Skins, dry-salted of sheep",
+    "faoKName": "면양원피(건식염장한 것)"
+  },
+  {
+    "agCode": 25214,
+    "agName": "면양원피",
+    "faoCode": "0999",
+    "faoName": "Raw hides and skins of sheep or lambs, with wool",
+    "faoKName": "면양원피(생것)(털을 제거하지 않은것))"
+  },
+  {
+    "agCode": 25220,
+    "agName": "기타의 것",
+    "faoCode": 1134,
+    "faoName": "Hides, wet-salted of camels",
+    "faoKName": "낙타 원피(습식염장한 것)"
+  },
+  {
+    "agCode": 25220,
+    "agName": "기타의 것",
+    "faoCode": 1136,
+    "faoName": "Hides of camels, n.e.c.",
+    "faoKName": "낙타 원피(기타)"
+  },
+  {
+    "agCode": 25221,
+    "agName": "뱀원피",
+    "faoCode": 1213,
+    "faoName": "Other raw skins of other animals, fresh",
+    "faoKName": "기타 동물원피(생것)"
+  },
+  {
+    "agCode": 25221,
+    "agName": "뱀원피",
+    "faoCode": 1216,
+    "faoName": "Other raw skins of other animals, preserved",
+    "faoKName": "기타 동물원피(조제된 것)"
+  },
+  {
+    "agCode": 25223,
+    "agName": "악어원피",
+    "faoCode": 1213,
+    "faoName": "Other raw skins of other animals, fresh",
+    "faoKName": "기타 동물원피(생것)"
+  },
+  {
+    "agCode": 25223,
+    "agName": "악어원피",
+    "faoCode": 1216,
+    "faoName": "Other raw skins of other animals, preserved",
+    "faoKName": "기타 동물원피(조제된 것)"
+  },
+  {
+    "agCode": 25299,
+    "agName": "기타원피",
+    "faoCode": 1213,
+    "faoName": "Other raw skins of other animals, fresh",
+    "faoKName": "기타 동물원피(생것)"
+  },
+  {
+    "agCode": 25299,
+    "agName": "기타원피",
+    "faoCode": 1216,
+    "faoName": "Other raw skins of other animals, preserved",
+    "faoKName": "기타 동물원피(조제된 것)"
+  },
+  {
+    "agCode": 32101,
+    "agName": "삽수·접수",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 32102,
+    "agName": "유실수",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 32103,
+    "agName": "산림수",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 32104,
+    "agName": "분재용",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 32199,
+    "agName": "기타수목류",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 32201,
+    "agName": "산림수종자",
+    "faoCode": "0256",
+    "faoName": "Palm kernels",
+    "faoKName": "팜핵"
+  },
+  {
+    "agCode": 32202,
+    "agName": "잔디종자",
+    "faoCode": "0256",
+    "faoName": "Palm kernels",
+    "faoKName": "팜핵"
+  },
+  {
+    "agCode": 33101,
+    "agName": "고사리",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 33101,
+    "agName": "고사리",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 33101,
+    "agName": "고사리",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 33101,
+    "agName": "고사리",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 33102,
+    "agName": "죽순",
+    "faoCode": "0472",
+    "faoName": "Vegetables preserved nes (o/t vinegar)",
+    "faoKName": "보존처리된 채소(식초처리된 것 제외)"
+  },
+  {
+    "agCode": 33102,
+    "agName": "죽순",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 33102,
+    "agName": "죽순",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 33102,
+    "agName": "죽순",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 33103,
+    "agName": "고비",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 33103,
+    "agName": "고비",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 33103,
+    "agName": "고비",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 33104,
+    "agName": "더덕",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 33104,
+    "agName": "더덕",
+    "faoCode": "0469",
+    "faoName": "Vegetables, dehydrated",
+    "faoKName": "채소(건조)"
+  },
+  {
+    "agCode": 33105,
+    "agName": "도라지",
+    "faoCode": "0463",
+    "faoName": "Other vegetables, fresh n.e.c.",
+    "faoKName": "기타 채소(신선)"
+  },
+  {
+    "agCode": 33105,
+    "agName": "도라지",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 33201,
+    "agName": "송이버섯",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 33201,
+    "agName": "송이버섯",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 33201,
+    "agName": "송이버섯",
+    "faoCode": "0451",
+    "faoName": "Canned mushrooms",
+    "faoKName": "버섯(통조림)"
+  },
+  {
+    "agCode": 33201,
+    "agName": "송이버섯",
+    "faoCode": "0473",
+    "faoName": "Vegetables frozen",
+    "faoKName": "채소(냉동)"
+  },
+  {
+    "agCode": 33202,
+    "agName": "표고버섯",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 33202,
+    "agName": "표고버섯",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 33202,
+    "agName": "표고버섯",
+    "faoCode": "0451",
+    "faoName": "Canned mushrooms",
+    "faoKName": "버섯(통조림)"
+  },
+  {
+    "agCode": 33203,
+    "agName": "송로",
+    "faoCode": "0449",
+    "faoName": "Mushrooms and truffles",
+    "faoKName": "버섯과 송로버섯"
+  },
+  {
+    "agCode": 33203,
+    "agName": "송로",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 33203,
+    "agName": "송로",
+    "faoCode": "0451",
+    "faoName": "Canned mushrooms",
+    "faoKName": "버섯(통조림)"
+  },
+  {
+    "agCode": 33203,
+    "agName": "송로",
+    "faoCode": "0474",
+    "faoName": "Other vegetables provisionally preserved",
+    "faoKName": "기타 채소(일시저장처리)"
+  },
+  {
+    "agCode": 33204,
+    "agName": "건조목이버섯",
+    "faoCode": "0450",
+    "faoName": "Dried mushrooms",
+    "faoKName": "버섯(건조)"
+  },
+  {
+    "agCode": 33301,
+    "agName": "아몬드",
+    "faoCode": "0221",
+    "faoName": "Almonds, in shell",
+    "faoKName": "아몬드(껍데기를 벗기지 않은 것)"
+  },
+  {
+    "agCode": 33301,
+    "agName": "아몬드",
+    "faoCode": "0231",
+    "faoName": "Almonds, shelled",
+    "faoKName": "아몬드(껍데기를 벗긴것)"
+  },
+  {
+    "agCode": 33302,
+    "agName": "헤즐너트",
+    "faoCode": "0225",
+    "faoName": "Hazelnuts, in shell",
+    "faoKName": "헤이즐넛(껍데기를 벗기지 않은 것)"
+  },
+  {
+    "agCode": 33302,
+    "agName": "헤즐너트",
+    "faoCode": "0233",
+    "faoName": "Hazelnuts, shelled",
+    "faoKName": "헤이즐넛(껍데기를 벗긴 것)"
+  },
+  {
+    "agCode": 33303,
+    "agName": "호도",
+    "faoCode": "0222",
+    "faoName": "Walnuts, in shell",
+    "faoKName": "호두(껍데기를 벗기지 않은 것)"
+  },
+  {
+    "agCode": 33303,
+    "agName": "호도",
+    "faoCode": "0232",
+    "faoName": "Walnuts, shelled",
+    "faoKName": "호두(껍데기를 벗긴 것)"
+  },
+  {
+    "agCode": 33304,
+    "agName": "밤",
+    "faoCode": "0220",
+    "faoName": "Chestnuts, in shell",
+    "faoKName": "밤(껍데기를 벗기지 않은 것)"
+  },
+  {
+    "agCode": 33304,
+    "agName": "밤",
+    "faoCode": "0235",
+    "faoName": "Prepared nuts",
+    "faoKName": "견과류(조제된)"
+  },
+  {
+    "agCode": 33304,
+    "agName": "밤",
+    "faoCode": "0625",
+    "faoName": "Fruit, nuts, peel, sugar preserved",
+    "faoKName": "설탕으로 보존처리한 과실ㆍ견과류ㆍ과피"
+  },
+  {
+    "agCode": 33305,
+    "agName": "피스타치오",
+    "faoCode": "0223",
+    "faoName": "Pistachios, in shell",
+    "faoKName": "피스타치오(껍데기를 벗기지 않은 것)"
+  },
+  {
+    "agCode": 33306,
+    "agName": "잣",
+    "faoCode": "0234",
+    "faoName": "Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",
+    "faoKName": "다른 견과류(껍데기를 벗기지 않은 것), 야생 식용 견과류 및 땅콩 제외"
+  },
+  {
+    "agCode": 33306,
+    "agName": "잣",
+    "faoCode": "0235",
+    "faoName": "Prepared nuts",
+    "faoKName": "견과류(조제된)"
+  },
+  {
+    "agCode": 33307,
+    "agName": "은행",
+    "faoCode": "0234",
+    "faoName": "Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",
+    "faoKName": "다른 견과류(껍데기를 벗기지 않은 것), 야생 식용 견과류 및 땅콩 제외"
+  },
+  {
+    "agCode": 33308,
+    "agName": "콜라 너트",
+    "faoCode": "0224",
+    "faoName": "Kola nuts",
+    "faoKName": "콜라 너트"
+  },
+  {
+    "agCode": 33310,
+    "agName": "빈랑자",
+    "faoCode": "0226",
+    "faoName": "Areca nuts",
+    "faoKName": "빈랑자"
+  },
+  {
+    "agCode": 33311,
+    "agName": "감(임산물)",
+    "faoCode": "0619",
+    "faoName": "Other fruits, n.e.c.",
+    "faoKName": "기타 과실"
+  },
+  {
+    "agCode": 33311,
+    "agName": "감(임산물)",
+    "faoCode": "0620",
+    "faoName": "Other fruit n.e.c., dried",
+    "faoKName": "기타 과실(건조)"
+  },
+  {
+    "agCode": 33312,
+    "agName": "대추",
+    "faoCode": "0619",
+    "faoName": "Other fruits, n.e.c.",
+    "faoKName": "기타 과실"
+  },
+  {
+    "agCode": 33312,
+    "agName": "대추",
+    "faoCode": "0620",
+    "faoName": "Other fruit n.e.c., dried",
+    "faoKName": "기타 과실(건조)"
+  },
+  {
+    "agCode": 33312,
+    "agName": "대추",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 33313,
+    "agName": "마카다미아너트",
+    "faoCode": "0234",
+    "faoName": "Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",
+    "faoKName": "다른 견과류(껍데기를 벗기지 않은 것), 야생 식용 견과류 및 땅콩 제외"
+  },
+  {
+    "agCode": 33400,
+    "agName": "수지류",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 33501,
+    "agName": "저피",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 33502,
+    "agName": "삼아피",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 33509,
+    "agName": "기타수피",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 33601,
+    "agName": "은행잎",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 33611,
+    "agName": "떡갈잎",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 33612,
+    "agName": "멍개잎",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 33619,
+    "agName": "기타식품포장용잎",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 34101,
+    "agName": "대나무",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 36102,
+    "agName": "칡뿌리",
+    "faoCode": "0149",
+    "faoName": "Edible roots and tubers with high starch or inulin content, n.e.c., fresh",
+    "faoKName": "식용 뿌리 및 괴경"
+  },
+  {
+    "agCode": 36102,
+    "agName": "칡뿌리",
+    "faoCode": "0150",
+    "faoName": "Flour of roots and tubers n.e.c.",
+    "faoKName": "기타 괴경분"
+  },
+  {
+    "agCode": 36102,
+    "agName": "칡뿌리",
+    "faoCode": "0151",
+    "faoName": "Edible roots and tubers with high starch or inulin content, n.e.c., dry",
+    "faoKName": "식용 뿌리 및 괴경"
+  },
+  {
+    "agCode": 36103,
+    "agName": "도토리",
+    "faoCode": "0628",
+    "faoName": "Pulp, waste of fruit for feed",
+    "faoKName": "과실의 펄프, 웨이스트(사료용)"
+  },
+  {
+    "agCode": 36103,
+    "agName": "도토리",
+    "faoCode": "0652",
+    "faoName": "Vegetable products for feed n.e.c.",
+    "faoKName": "기타 사료용 식물성 물품"
+  },
+  {
+    "agCode": 36103,
+    "agName": "도토리",
+    "faoCode": 1232,
+    "faoName": "Food preparations n.e.c.",
+    "faoKName": "기타 식료품"
+  },
+  {
+    "agCode": 36111,
+    "agName": "초피",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": "0120",
+    "faoName": "Potato offals",
+    "faoKName": "감자 부산물"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": "0150",
+    "faoName": "Flour of roots and tubers n.e.c.",
+    "faoKName": "기타 괴경분"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": "0623",
+    "faoName": "Fruit prepared n.e.c.",
+    "faoKName": "기타 조제 과실"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": "0628",
+    "faoName": "Pulp, waste of fruit for feed",
+    "faoKName": "과실의 펄프, 웨이스트(사료용)"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": "0630",
+    "faoName": "Cane tops",
+    "faoKName": "사탕수수꼭지"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": "0634",
+    "faoName": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",
+    "faoKName": "변성하지 않은 에틸알코올(알코올의 용량이 전 용량의 100분의 80 미만인 것으로 한정한다); 증류주ㆍ리큐르(liqueur)와 그 밖의 주정음료"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": "0652",
+    "faoName": "Vegetable products for feed n.e.c.",
+    "faoKName": "기타 사료용 식물성 물품"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": 1083,
+    "faoName": "Other birds",
+    "faoKName": "기타 조류"
+  },
+  {
+    "agCode": 36199,
+    "agName": "기타임산물",
+    "faoCode": 1293,
+    "faoName": "Crude organic material n.e.c.",
+    "faoKName": "기타 미가공 유기 물질"
+  }
+]

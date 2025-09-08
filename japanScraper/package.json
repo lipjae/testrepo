@@ -1,0 +1,22 @@
+{
+  "name": "customs-scraper",
+  "version": "1.0.0",
+  "description": "일본 세관 관세율 페이지에서 Statistical code와 Description을 추출하는 스크래퍼",
+  "main": "customs_scraper.js",
+  "scripts": {
+    "start": "node customs_scraper.js",
+    "scrape": "node customs_scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "keywords": [
+    "scraping",
+    "puppeteer",
+    "customs",
+    "japan"
+  ],
+  "author": "",
+  "license": "MIT"
+}

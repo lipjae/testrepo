@@ -1,0 +1,11 @@
+{
+  "name": "fao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,1075 @@
+[
+  {
+    "agName": "아몬드",
+    "agCode": 33301,
+    "faoCode": "0221",
+    "faoKName": "아몬드(껍데기를 벗기지 않은 것)",
+    "value": 546332,
+    "unit": "ha",
+    "groupCode": "3"
+  },
+  {
+    "agName": "사과",
+    "agCode": 11601,
+    "faoCode": "0515",
+    "faoKName": "사과",
+    "value": 116753,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "살구",
+    "agCode": 11604,
+    "faoCode": "0526",
+    "faoKName": "살구",
+    "value": 2505,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "아티초크",
+    "agCode": 12189,
+    "faoCode": "0366",
+    "faoKName": "아티초크",
+    "value": 1821,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "아스파라거스",
+    "agCode": 12151,
+    "faoCode": "0367",
+    "faoKName": "아스파라거스",
+    "value": 6070,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "당나귀",
+    "agCode": 21104,
+    "faoCode": "1107",
+    "faoKName": "당나귀",
+    "value": 51973,
+    "unit": "An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "애버카도우",
+    "agCode": 11624,
+    "faoCode": "0572",
+    "faoKName": "애버카도우",
+    "value": 20935,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "바나나",
+    "agCode": 11628,
+    "faoCode": "0486",
+    "faoKName": "바나나",
+    "value": 343,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "보리",
+    "agCode": 11102,
+    "faoCode": "0044",
+    "faoKName": "보리",
+    "value": 984610,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "녹두",
+    "agCode": 11311,
+    "faoCode": "0176",
+    "faoKName": "콩(건조)",
+    "value": 491055,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "벌",
+    "agCode": 21701,
+    "faoCode": "1181",
+    "faoKName": "벌",
+    "value": 2667000,
+    "unit": "No",
+    "groupCode": "2"
+  },
+  {
+    "agName": "크렌베리",
+    "agCode": 11612,
+    "faoCode": "0552",
+    "faoKName": "블루베리",
+    "value": 46539,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "기타콩",
+    "agCode": 11399,
+    "faoCode": "0420",
+    "faoKName": "잠두(신선)",
+    "value": 16186,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "메밀",
+    "agCode": 11108,
+    "faoCode": "0089",
+    "faoKName": "메밀",
+    "value": 82442,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "배추",
+    "agCode": 12101,
+    "faoCode": "0358",
+    "faoKName": "양배추",
+    "value": 22703,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "멜론",
+    "agCode": 12133,
+    "faoCode": "0568",
+    "faoKName": "칸타루페 및 기타 멜론류",
+    "value": 18211,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "순무",
+    "agCode": 12122,
+    "faoCode": "0426",
+    "faoKName": "당근과 순무",
+    "value": 25576,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "피마자",
+    "agCode": 11512,
+    "faoCode": "0265",
+    "faoKName": "피마자",
+    "value": 0,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "소",
+    "agCode": 21101,
+    "faoCode": "0866",
+    "faoKName": "소",
+    "value": 92076600,
+    "unit": "An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "꽃양배추",
+    "agCode": 12103,
+    "faoCode": "0393",
+    "faoKName": "꽃양배추와 브로콜리",
+    "value": 55159,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "기타곡물",
+    "agCode": 11199,
+    "faoCode": "0108",
+    "faoKName": "기타 곡물",
+    "value": 0,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "버찌",
+    "agCode": 11608,
+    "faoCode": "0531",
+    "faoKName": "체리",
+    "value": 34196,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "이집트콩",
+    "agCode": 11322,
+    "faoCode": "0191",
+    "faoKName": "이집트콩(건조)",
+    "value": 138360,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "닭",
+    "agCode": 21201,
+    "faoCode": "1057",
+    "faoKName": "닭",
+    "value": 1528000,
+    "unit": "1000 An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "고추",
+    "agCode": 12161,
+    "faoCode": "0689",
+    "faoKName": "고추와 파프리카(건조, 생것)",
+    "value": 0,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "파프리카",
+    "agCode": 12138,
+    "faoCode": "0401",
+    "faoKName": "고추(신선)",
+    "value": 16511,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "커피",
+    "agCode": 15101,
+    "faoCode": "0656",
+    "faoKName": "커피(신선)",
+    "value": 2833,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "비그나파세러스콩",
+    "agCode": 11319,
+    "faoCode": "0195",
+    "faoKName": "동부콩(건조)",
+    "value": 3885,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "크렌베리",
+    "agCode": 11612,
+    "faoCode": "0554",
+    "faoKName": "크랜베리",
+    "value": 15014,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "오이",
+    "agCode": 12132,
+    "faoCode": "0397",
+    "faoKName": "오이",
+    "value": 33792,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "커런트",
+    "agCode": 11611,
+    "faoCode": "0550",
+    "faoKName": "커런트",
+    "value": 0,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "대추야자",
+    "agCode": 11621,
+    "faoCode": "0577",
+    "faoKName": "대추야자",
+    "value": 6475,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "오리",
+    "agCode": 21202,
+    "faoCode": "1068",
+    "faoKName": "오리",
+    "value": 7900,
+    "unit": "1000 An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "가지",
+    "agCode": 12135,
+    "faoCode": "0399",
+    "faoKName": "가지",
+    "value": 2650,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "무화과",
+    "agCode": 11622,
+    "faoCode": "0569",
+    "faoKName": "무화과",
+    "value": 2664,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "생강",
+    "agCode": 12162,
+    "faoCode": "0720",
+    "faoKName": "생강(생것)",
+    "value": 20,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "산양",
+    "agCode": 21106,
+    "faoCode": "1016",
+    "faoKName": "염소",
+    "value": 2550000,
+    "unit": "An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "포도",
+    "agCode": 11651,
+    "faoCode": "0560",
+    "faoKName": "포도",
+    "value": 364221,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "기타채소",
+    "agCode": 12179,
+    "faoCode": "0446",
+    "faoKName": "풋옥수수",
+    "value": 137756,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "마늘",
+    "agCode": 12144,
+    "faoCode": "0406",
+    "faoKName": "마늘(신선)",
+    "value": 10441,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "땅콩",
+    "agCode": 11501,
+    "faoCode": "0242",
+    "faoKName": "땅콩(껍데기를 벗긴 것 제외)",
+    "value": 560660,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "헤즐너트",
+    "agCode": 33302,
+    "faoCode": "0225",
+    "faoKName": "헤이즐넛(껍데기를 벗기지 않은 것)",
+    "value": 27519,
+    "unit": "ha",
+    "groupCode": "3"
+  },
+  {
+    "agName": "기타채유종실",
+    "agCode": 11599,
+    "faoCode": "0336",
+    "faoKName": "대마",
+    "value": 2177,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "호프",
+    "agCode": 11901,
+    "faoCode": "0677",
+    "faoKName": "호프",
+    "value": 24190,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "말",
+    "agCode": 21103,
+    "faoCode": "1096",
+    "faoKName": "말",
+    "value": 10313890,
+    "unit": "An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "키위",
+    "agCode": 11614,
+    "faoCode": "0592",
+    "faoKName": "키위",
+    "value": 1943,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "레몬",
+    "agCode": 11644,
+    "faoCode": "0497",
+    "faoKName": "레몬과 라임",
+    "value": 23796,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "렌즈콩",
+    "agCode": 11323,
+    "faoCode": "0201",
+    "faoKName": "렌즈콩(건조)",
+    "value": 243620,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "상치",
+    "agCode": 12111,
+    "faoCode": "0372",
+    "faoKName": "양상추와 치커리",
+    "value": 100201,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "아마인",
+    "agCode": 11503,
+    "faoCode": "0333",
+    "faoKName": "아마인",
+    "value": 98740,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "옥수수",
+    "agCode": 11105,
+    "faoCode": "0056",
+    "faoKName": "옥수수",
+    "value": 32054280,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "과아버",
+    "agCode": 11625,
+    "faoCode": "0571",
+    "faoKName": "망고, 구아바 및 망고스틴",
+    "value": 39,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "밀리트",
+    "agCode": 11106,
+    "faoCode": "0079",
+    "faoKName": "밀리트",
+    "value": 205180,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "당나귀",
+    "agCode": 21104,
+    "faoCode": "1110",
+    "faoKName": "노새와 힌니",
+    "value": 0,
+    "unit": "An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "겨자씨",
+    "agCode": 11514,
+    "faoCode": "0292",
+    "faoKName": "겨자씨",
+    "value": 73650,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "귀리",
+    "agCode": 11109,
+    "faoCode": "0075",
+    "faoKName": "귀리",
+    "value": 360170,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "기타채소",
+    "agCode": 12179,
+    "faoCode": "0430",
+    "faoKName": "오크라",
+    "value": 1330,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "올리브",
+    "agCode": 12185,
+    "faoCode": "0260",
+    "faoKName": "올리브",
+    "value": 13759,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "양파",
+    "agCode": 12141,
+    "faoCode": "0403",
+    "faoKName": "양파와 샬롯(건조)",
+    "value": 51477,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "오렌지",
+    "agCode": 11641,
+    "faoCode": "0490",
+    "faoKName": "오렌지",
+    "value": 187614,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "비그나파세러스콩",
+    "agCode": 11319,
+    "faoCode": "0414",
+    "faoKName": "기타콩(신선)",
+    "value": 9230,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "나무딸기",
+    "agCode": 11610,
+    "faoCode": "0558",
+    "faoKName": "기타 박시니엄속의 베리류와 과실",
+    "value": 3560,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "기타감귤류",
+    "agCode": 11649,
+    "faoCode": "0512",
+    "faoKName": "기타 감귤류",
+    "value": 1100,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "기타과실",
+    "agCode": 11699,
+    "faoCode": "0619",
+    "faoKName": "기타 과실",
+    "value": 35,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "잣",
+    "agCode": 33306,
+    "faoCode": "0234",
+    "faoKName": "다른 견과류(껍데기를 벗기지 않은 것), 야생 식용 견과류 및 땅콩 제외",
+    "value": 172074,
+    "unit": "ha",
+    "groupCode": "3"
+  },
+  {
+    "agName": "깻잎",
+    "agCode": 12114,
+    "faoCode": "0463",
+    "faoKName": "기타 채소(신선)",
+    "value": 9308,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "파파야",
+    "agCode": 11652,
+    "faoCode": "0600",
+    "faoKName": "파파야",
+    "value": 202,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "복숭아",
+    "agCode": 11603,
+    "faoCode": "0534",
+    "faoKName": "복숭아와 넥터린",
+    "value": 34601,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "배",
+    "agCode": 11602,
+    "faoCode": "0521",
+    "faoKName": "배",
+    "value": 16430,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "완두",
+    "agCode": 11321,
+    "faoCode": "0187",
+    "faoKName": "완두콩(건조)",
+    "value": 348840,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "완두",
+    "agCode": 11321,
+    "faoCode": "0417",
+    "faoKName": "완두콩(신선)",
+    "value": 48684,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "파인애플",
+    "agCode": 11623,
+    "faoCode": "0574",
+    "faoKName": "파인애플",
+    "value": 5858,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "피스타치오",
+    "agCode": 33305,
+    "faoCode": "0223",
+    "faoKName": "피스타치오(껍데기를 벗기지 않은 것)",
+    "value": 173207,
+    "unit": "ha",
+    "groupCode": "3"
+  },
+  {
+    "agName": "자두",
+    "agCode": 11605,
+    "faoCode": "0536",
+    "faoKName": "자두와 슬로",
+    "value": 19263,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "그레이프푸루트",
+    "agCode": 11645,
+    "faoCode": "0507",
+    "faoKName": "포멜로와 그레이프프루트",
+    "value": 14933,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "감자",
+    "agCode": 11201,
+    "faoCode": "0116",
+    "faoKName": "감자",
+    "value": 362440,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "호박",
+    "agCode": 12134,
+    "faoCode": "0394",
+    "faoKName": "호박",
+    "value": 42492,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "유채",
+    "agCode": 11504,
+    "faoCode": "0270",
+    "faoKName": "유채",
+    "value": 881980,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "나무딸기",
+    "agCode": 11610,
+    "faoCode": "0547",
+    "faoKName": "나무딸기",
+    "value": 6192,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "쌀",
+    "agCode": 11101,
+    "faoCode": "0027",
+    "faoKName": "쌀",
+    "value": 878990,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "호밀",
+    "agCode": 11104,
+    "faoCode": "0071",
+    "faoKName": "호밀",
+    "value": 138000,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "잇꽃씨",
+    "agCode": 11515,
+    "faoCode": "0280",
+    "faoKName": "잇꽃씨",
+    "value": 54750,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "면",
+    "agCode": 17201,
+    "faoCode": "0328",
+    "faoKName": "실면(조면되지않은)",
+    "value": 3011180,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "참깨",
+    "agCode": 11513,
+    "faoCode": "0289",
+    "faoKName": "참깨",
+    "value": 0,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "면양",
+    "agCode": 21105,
+    "faoCode": "0976",
+    "faoKName": "양",
+    "value": 5065000,
+    "unit": "An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "수수",
+    "agCode": 11107,
+    "faoCode": "0083",
+    "faoKName": "수수",
+    "value": 1849430,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "버찌",
+    "agCode": 11608,
+    "faoCode": "0530",
+    "faoKName": "신 체리",
+    "value": 12626,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "대두",
+    "agCode": 11301,
+    "faoCode": "0236",
+    "faoKName": "대두",
+    "value": 34939320,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "시금치",
+    "agCode": 12113,
+    "faoCode": "0373",
+    "faoKName": "시금치",
+    "value": 24403,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "딸기",
+    "agCode": 12136,
+    "faoCode": "0544",
+    "faoKName": "딸기",
+    "value": 21287,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "비그나파세러스콩",
+    "agCode": 11319,
+    "faoCode": "0423",
+    "faoKName": "스트링콩",
+    "value": 64022,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "사탕무",
+    "agCode": 11921,
+    "faoCode": "0157",
+    "faoKName": "사탕무",
+    "value": 460170,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "사탕수수",
+    "agCode": 11922,
+    "faoCode": "0156",
+    "faoKName": "사탕수수",
+    "value": 375800,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "해바라기씨",
+    "agCode": 11505,
+    "faoCode": "0267",
+    "faoKName": "해바라기씨",
+    "value": 650340,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "고구마",
+    "agCode": 11202,
+    "faoCode": "0122",
+    "faoKName": "고구마",
+    "value": 53500,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "돼지",
+    "agCode": 21102,
+    "faoCode": "1034",
+    "faoKName": "돼지",
+    "value": 74399300,
+    "unit": "An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "감귤",
+    "agCode": 11642,
+    "faoCode": "0495",
+    "faoKName": "귤, 만다린, 클레멘타인",
+    "value": 30837,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "토란",
+    "agCode": 11260,
+    "faoCode": "0136",
+    "faoKName": "토란",
+    "value": 114,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "토마토",
+    "agCode": 12131,
+    "faoCode": "0388",
+    "faoKName": "토마토",
+    "value": 106757,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "대마",
+    "agCode": 17221,
+    "faoCode": "0777",
+    "faoKName": "대마(생대마, 침지대마)",
+    "value": 2772,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "기타채유종실",
+    "agCode": 11599,
+    "faoCode": "0275",
+    "faoKName": "유동",
+    "value": 0,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "칠면조",
+    "agCode": 21203,
+    "faoCode": "1079",
+    "faoKName": "칠면조",
+    "value": 70000,
+    "unit": "1000 An",
+    "groupCode": "2"
+  },
+  {
+    "agName": "잎담배",
+    "agCode": 15401,
+    "faoCode": "0826",
+    "faoKName": "잎담배",
+    "value": 81650,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "호도",
+    "agCode": 33303,
+    "faoCode": "0222",
+    "faoKName": "호두(껍데기를 벗기지 않은 것)",
+    "value": 161876,
+    "unit": "ha",
+    "groupCode": "3"
+  },
+  {
+    "agName": "수박",
+    "agCode": 12137,
+    "faoCode": "0567",
+    "faoKName": "수박",
+    "value": 37717,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "밀",
+    "agCode": 11103,
+    "faoCode": "0015",
+    "faoKName": "밀",
+    "value": 14358400,
+    "unit": "ha",
+    "groupCode": "1"
+  },
+  {
+    "agName": "팥",
+    "agCode": 11312,
+    "faoCode": "0176",
+    "faoKName": "콩(건조)",
+    "groupCode": "1"
+  },
+  {
+    "agName": "양배추",
+    "agCode": 12102,
+    "faoCode": "0358",
+    "faoKName": "양배추",
+    "groupCode": "1"
+  },
+  {
+    "agName": "참외",
+    "agCode": 12139,
+    "faoCode": "0568",
+    "faoKName": "칸타루페 및 기타 멜론류",
+    "groupCode": "1"
+  },
+  {
+    "agName": "당근",
+    "agCode": 12123,
+    "faoCode": "0426",
+    "faoKName": "당근과 순무",
+    "groupCode": "1"
+  },
+  {
+    "agName": "고추",
+    "agCode": 12161,
+    "faoCode": "0401",
+    "faoKName": "고추(신선)",
+    "groupCode": "1"
+  },
+  {
+    "agName": "오리고기",
+    "agCode": 22202,
+    "faoCode": 1068,
+    "faoKName": "오리",
+    "groupCode": "2"
+  },
+  {
+    "agName": "루플린",
+    "agCode": 11902,
+    "faoCode": "0677",
+    "faoKName": "호프",
+    "groupCode": "1"
+  },
+  {
+    "agName": "결구상치",
+    "agCode": 12112,
+    "faoCode": "0372",
+    "faoKName": "양상추와 치커리",
+    "groupCode": "1"
+  },
+  {
+    "agName": "맹고",
+    "agCode": 11626,
+    "faoCode": "0571",
+    "faoKName": "망고, 구아바 및 망고스틴",
+    "groupCode": "1"
+  },
+  {
+    "agName": "쪽파",
+    "agCode": 12143,
+    "faoCode": "0403",
+    "faoKName": "양파와 샬롯(건조)",
+    "groupCode": "1"
+  },
+  {
+    "agName": "크렌베리",
+    "agCode": 11612,
+    "faoCode": "0558",
+    "faoKName": "기타 박시니엄속의 베리류와 과실",
+    "groupCode": "1"
+  },
+  {
+    "agName": "감(임산물)",
+    "agCode": 33311,
+    "faoCode": "0619",
+    "faoKName": "기타 과실",
+    "groupCode": "3"
+  },
+  {
+    "agName": "은행",
+    "agCode": 33307,
+    "faoCode": "0234",
+    "faoKName": "다른 견과류(껍데기를 벗기지 않은 것), 야생 식용 견과류 및 땅콩 제외",
+    "groupCode": "3"
+  },
+  {
+    "agName": "무",
+    "agCode": 12121,
+    "faoCode": "0463",
+    "faoKName": "기타 채소(신선)",
+    "groupCode": "1"
+  },
+  {
+    "agName": "슬로우",
+    "agCode": 11606,
+    "faoCode": "0536",
+    "faoKName": "자두와 슬로",
+    "groupCode": "1"
+  },
+  {
+    "agName": "맨더린류",
+    "agCode": 11643,
+    "faoCode": "0495",
+    "faoKName": "귤, 만다린, 클레멘타인",
+    "groupCode": "1"
+  },
+  {
+    "agName": "잎담배부산물",
+    "agCode": 15402,
+    "faoCode": "0826",
+    "faoKName": "잎담배",
+    "groupCode": "1"
+  }
+]
