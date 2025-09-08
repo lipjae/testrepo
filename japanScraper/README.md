@@ -82,3 +82,9 @@ node customs_export_scraper.js
 1. 네트워크 연결을 확인하세요
 2. 페이지 구조가 변경되었을 수 있으니 코드를 수정해야 할 수 있습니다
 3. 일본어 인코딩 문제가 있을 수 있습니다
+
+
+
+
+일본 수출입 코드: https://www.customs.go.jp/toukei/sankou/code/code_e.htm
+일본 수출입 데이터: https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00350300&tstat=000001013141&cycle=1&tclass1=000001013180&tclass2=000001013181&cycle_facet=cycle&tclass3val=0&metadata=1&data=1
