@@ -28,11 +28,16 @@ class CustomsExportScraper {
             const response = await axios.get(targetUrl, {
                 headers: this.headers,
                 timeout: 30000,
-                maxRedirects: 5
+                maxRedirects: 5,
+                responseType: 'arraybuffer' // 바이너리로 받아서 인코딩 처리
             });
             
             console.log(`페이지 로드 완료. 상태 코드: ${response.status}`);
-            return response.data;
+            
+            // Shift_JIS 인코딩으로 디코딩
+            const iconv = require('iconv-lite');
+            const htmlContent = iconv.decode(response.data, 'shift_jis');
+            return htmlContent;
         } catch (error) {
             console.error(`페이지 가져오기 실패 (Chapter ${chapterCode}):`, error.message);
             if (error.response) {
