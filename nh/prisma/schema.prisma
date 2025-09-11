@@ -1,0 +1,91 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// 시장 정보
+model Market {
+  id          String @id @default(cuid())
+  naBzplcCode String @unique
+  naBzplcName String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // 관계
+  productLists ProductList[]
+  productData  ProductData[]
+
+  @@map("markets")
+}
+
+// 상품 목록 데이터
+model ProductList {
+  id          String @id @default(cuid())
+  marketId    String
+  date        String // YYYYMMDD 형식
+  totalDays   Int
+  successDays Int
+  failedDays  Int
+  dateRange   String // JSON string: { start: string, end: string }
+  generatedAt DateTime
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // 관계
+  market Market @relation(fields: [marketId], references: [id], onDelete: Cascade)
+
+  @@unique([marketId, date])
+  @@map("product_lists")
+}
+
+// 상품 상세 데이터
+model ProductData {
+  id          String @id @default(cuid())
+  marketId    String
+  date        String // YYYYMMDD 형식
+  itemCode    String
+  itemName    String
+  extractedAt DateTime
+  totalDays   Int
+  totalItems  Int
+  totalRecords Int
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // 관계
+  market Market @relation(fields: [marketId], references: [id], onDelete: Cascade)
+  records ProductRecord[]
+
+  @@unique([marketId, date, itemCode])
+  @@map("product_data")
+}
+
+// 개별 판매 기록
+model ProductRecord {
+  id           String @id @default(cuid())
+  productDataId String
+  saleDate     String // 판매일자
+  variety      String // 품종
+  grade        String? // 등급
+  specification String? // 규격
+  unit         String? // 단위
+  quantity     String? // 수량
+  avgPrice     String? // 평균가격
+  maxPrice     String? // 최고가격
+  minPrice     String? // 최저가격
+  volume       String? // 거래량
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  // 관계
+  productData ProductData @relation(fields: [productDataId], references: [id], onDelete: Cascade)
+
+  @@map("product_records")
+}
