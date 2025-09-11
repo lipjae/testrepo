@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<!--[if IE 8]>  <html lang="ko" class="oie ie8">  <![endif]-->
+<!--[if IE 9]>  <html lang="ko" class="oie ie9">  <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="ko"><!--<![endif]-->
+<head>
+
+    <!-- ###################### -->
+    <!--     html head start    -->
+    <!-- ###################### -->
+    
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="title" content="농협" />
+<meta name="author" content="농협" />
+<meta name="keywords" content="농협, 농협 공판장 인터넷 통합거래시스템" />
+<meta name="description" content="농협 공판장 인터넷 통합거래시스템" />
+<meta name="autocomplete" content="off" />
+<title>농협 공판장 인터넷 통합거래시스템 </title>
+<link rel="stylesheet" type="text/css" href="/resources_file/css/basic.css" />
+<link rel="stylesheet" type="text/css" href="/resources_file/css/layout.css" />
+<link rel="stylesheet" type="text/css" href="/resources_file/css/lib.css" />
+<link rel="stylesheet" type="text/css" href="/resources_file/css/ui-lightness/jquery-ui-1.8.16.custom.css" />
+
+<script type="text/javascript" src="/resources_file/js/jquery-1.7.1.min.js"></script>
+
+<script type="text/javascript" src="/resources_file/js/menu.js"></script>
+<script type="text/javascript" src="/resources_file/js/select.js"></script>
+<script type="text/javascript" src="/resources_file/js/jquery-ui-1.8.21.custom.min.js"></script>
+<script type="text/javascript" src="/resources_file/js/common.js"></script>
+<script type="text/javascript" src="/resources_file/js/util.js"></script>
+<!--(TO-BE) 달력깨짐현상으로 아래 온라인거래소 리소스 추가함 -->
+<script type="text/javascript" src="/resources_sp/js/jquery-2.2.4.min.js"></script>
+<script type="text/javascript" src="/resources_sp/js/slick.js"></script>
+<script type="text/javascript" src="/resources_sp/js/full_down.js"></script>
+<script type="text/javascript" src="/resources_sp/js/menu.js"></script>
+<script type="text/javascript" src="/resources_sp/js/util.js"></script>
+<script type="text/javascript" src="/resources_sp/js/img_view.js"></script>
+<script type="text/javascript" src="/resources_sp/js/jquery-ui.1.13.0.min.js"></script><!-- 달력 모듈 적용할 새것-->
+<script type="text/javascript" src="/resources_sp/js/common.js"></script>
+    <!-- ###################### -->
+    <!--     html head end      -->
+    <!-- ###################### -->
+
+
+    <style type="text/css">
+    .pageing0 {margin-top:10px; text-align:center; letter-spacing:1px;}
+    .active0 {display:inline-block; padding:0 2px; color:#666; font-size:20px;}
+    </style>
+    
+    <script type="text/javascript">
+        function $action(mode, value, name) {
+            var frm = document.actionFrm;
+            frm.target = "_self";
+
+            switch(mode) {
+            case "move": //페이지 이동
+                frm.action = "IENB9010L.jsp";
+                frm.nowPage.value = value;
+                frm.pageNum.value = value;
+                frm.submit();
+                break;
+            }
+        }    	
+    </script>
+
+</head>
+<body>
+  
+    <div class="iWrap1" style="height:470px; overflow:hidden;">
+        <table class="table_t1 scroll" style="width:100%">
+            <colgroup>
+                <col width="110px"/>  <!-- <th>판매일자</th>                      -->
+                <col width="210px"/>  <!-- <th>품목(품종)</th>                    -->
+                <col width="*"/>      <!-- <th>산지      </th>                    -->
+                <col width="95px"/>   <!-- <th>중량      </th>                    -->
+                <col width="115px"/>  <!-- <th>등급      </th>                    -->
+                <col width="95px"/>   <!-- <th>수량      </th>                    -->
+                <col width="130px"/>  <!-- <th>경매단가  </th>                    -->
+                <col width="15px"/>   <!-- <th style="padding:0; margin:0;"></th> -->
+            </colgroup>
+            <thead> <!-- TO 개발 : 클래스 추가-->
+                <tr>
+                    <th>판매일자   </th>
+                    <th>품종      </th>
+                    <th>산지      </th>
+                    <th>중량      </th>
+                    <th>등급      </th>
+                    <th>수량      </th>
+                    <th>경락가    </th>
+                    <th style="padding:0; margin:0;"></th>
+                </tr>
+            </thead>
+        </table>
+
+        <div style="height:425px; overflow:hidden;">
+            <table class="table_t1 scroll" style="width:100%; border:0;">
+            <colgroup>
+                <col width="110px"/>  <!-- <th>판매일자</th>                      -->
+                <col width="210px"/>  <!-- <th>품목(품종)</th>                    -->
+                <col width="*"/>      <!-- <th>산지      </th>                    -->
+                <col width="95px"/>   <!-- <th>중량      </th>                    -->
+                <col width="115px"/>  <!-- <th>등급      </th>                    -->
+                <col width="95px"/>   <!-- <th>수량      </th>                    -->
+                <col width="130px"/>  <!-- <th>경매단가  </th>                    -->
+                <col width="15px"/>   <!-- <th style="padding:0; margin:0;"></th> -->
+            </colgroup>
+            <tbody>
+                
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 당진시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">특</td>
+                        <td class="ri">24</td>
+                        <td class="ri">6,000</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 당진시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">특</td>
+                        <td class="ri">27</td>
+                        <td class="ri">14,600</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 당진시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">특</td>
+                        <td class="ri">11</td>
+                        <td class="ri">11,000</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 서산시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">특</td>
+                        <td class="ri">92</td>
+                        <td class="ri">15,000</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 당진시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">상</td>
+                        <td class="ri">10</td>
+                        <td class="ri">9,600</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 당진시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">상</td>
+                        <td class="ri">11</td>
+                        <td class="ri">7,000</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 당진시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">중</td>
+                        <td class="ri">5</td>
+                        <td class="ri">8,600</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 서산시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">중</td>
+                        <td class="ri">78</td>
+                        <td class="ri">11,000</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 당진시</td>
+                        <td class="ri">7</td>
+                        <td class="ce">하</td>
+                        <td class="ri">2</td>
+                        <td class="ri">6,000</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="ce">2025/09/10</td>
+                        <td class="le">햇마늘한지</td>
+                        <td class="le">충청남도 서산시</td>
+                        <td class="ri">5</td>
+                        <td class="ce">소</td>
+                        <td class="ri">29</td>
+                        <td class="ri">7,800</td>
+                        <td class="le"></td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- pageing -->
+        <div class="wrap3 footerBack">
+            <div class="pageing0">
+                <!--<a href="#" class="active0" onclick='$action("move", 1); return false;' style="font-size: 25px;">&laquo;</a>-->
+                <a href="#" class="active0" onclick='$action("move", 1); return false;'>
+                    <img alt="처음 페이지" src="/resources_file/images/contents/prevEnd.gif">
+                </a>                
+                
+                
+                <!--<a href="#" class="active0" onclick='$action("move", 1); return false;'>&lt;</a>-->
+                <a href="#" class="active0" onclick='$action("move", 1); return false;'>
+                    <img alt="이전 페이지" src="/resources_file/images/contents/prev.gif">
+                </a>                
+            
+                <a href="#" class='active0'><b>1</b></a> <span></span><a href="#" class='active0' onclick='$action("move", 2); return false;'>2</a>
+                
+                
+                <!--<a href="#" class="active0" onclick='$action("move", 2); return false;'>&gt;</a>-->
+                <a href="#" class="active0" onclick='$action("move", 2); return false;'>
+                    <img alt="다음 페이지" src="/resources_file/images/contents/next.gif">
+                </a>
+                
+                <!--<a href="#" class="active0" onclick='$action("move", 2); return false;' style="font-size: 25px;">&raquo;</a>-->
+                <a href="#" class="active0" onclick='$action("move", 2); return false;'>
+                    <img alt="끝 페이지" src="/resources_file/images/contents/nextEnd.gif">
+                </a>
+            </div>
+        </div>
+        <!-- //pageing -->
+        
+        <form name="actionFrm" method="post" action="IENB9010L.jsp">
+            <input type="hidden" name="nowPage"  value="1"/>
+            <input type="hidden" name="na_bzplc" value="8808990000855"/>
+            <input type="hidden" name="selDate"   value="20250910"/>
+            <input type="hidden" name="dt_from"  value="20250910"/>
+            <input type="hidden" name="dt_to"    value="20250910"/>
+            <input type="hidden" name="p_item"   value="003005009"/>
+            <input type="hidden" name="i_item"   value="003005009003"/>
+            <input type="hidden" name="pageNum"  value="1"/>
+        </form>        
+        
+    </div>
+
+</body>
+</html>
