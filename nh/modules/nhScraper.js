@@ -9,7 +9,7 @@ const { extractSetIItemData } = require('./htmlProcessor');
  * @param {string} date - 날짜 (YYYYMMDD 형식)
  * @returns {Promise<string>} HTML 응답
  */
-const loadHTML = async (date = '20250911') => {
+const loadHTML = async (date = '20250911', naBzplcCode, productItem) => {
   var myHeaders = new Headers();
   myHeaders.append("Content-Type", "application/x-www-form-urlencoded");
   myHeaders.append("Cookie", "NAIE_SSID=SalXc6d7rDgQr0lv1akakZ5hIatev1NaDbr45E0K97e6DgMclQtE8LCysCEaZ1rq.TkFQUC9uaG5hYnNsb3dzMDNfbmFpZTAx");
@@ -27,8 +27,8 @@ const loadHTML = async (date = '20250911') => {
   urlencoded.append("toDate", "");
   urlencoded.append("varItemNum", "");
   urlencoded.append("varItemNm", "");
-  urlencoded.append("na_bzplc", "8808990000855");
-  urlencoded.append("p_item", "003005009");
+  urlencoded.append("na_bzplc", naBzplcCode);
+  urlencoded.append("p_item", productItem);
   urlencoded.append("xlsfnm", "");
   urlencoded.append("serviceName", "");
   urlencoded.append("bsn_dsc", "");
@@ -55,12 +55,14 @@ const loadHTML = async (date = '20250911') => {
 /**
  * 병렬로 HTML 로드하고 JSON 추출
  * @param {string[]} dateChunk - 날짜 배열
+ * @param {string} naBzplcCode - 공판장 코드
+ * @param {string} productItem - 상품 코드
  * @returns {Promise<Array>} 처리 결과 배열
  */
-const processDateChunk = async (dateChunk) => {
+const processDateChunk = async (dateChunk, naBzplcCode, productItem) => {
   const promises = dateChunk.map(async (date) => {
     try {
-      const html = await loadHTML(date);
+      const html = await loadHTML(date, naBzplcCode, productItem);
       const jsonData = extractSetIItemData(html);
       return { date, data: jsonData };
     } catch (error) {

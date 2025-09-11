@@ -8,10 +8,11 @@ const path = require('path');
 /**
  * 데이터를 파일로 저장
  * @param {Object} data - 저장할 데이터
- * @param {string} filename - 파일명
+ * @param {string} naBzplcCode - 공판장 코드
  */
-const saveToFile = (data, filename) => {
-  const filePath = path.join(__dirname, '..', filename);
+const saveToFile = (data, naBzplcCode) => {
+  const filename = `nh_data_${naBzplcCode}.json`;
+  const filePath = path.join(__dirname, '..', 'json', 'garlic', 'productList', filename);
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
   console.log(`데이터가 ${filePath}에 저장되었습니다.`);
 };

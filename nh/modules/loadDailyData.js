@@ -57,14 +57,14 @@ const extractTableData = (html) => {
 };
 
 // 특정 페이지 데이터 로드
-const loadPageData = async (pageNum, date = '20250910', iItem = '003005009003') => {
+const loadPageData = async (pageNum, date = '20250910', iItem = '003005009003', naBzplcCode = '8808990000855') => {
   var myHeaders = new Headers();
   myHeaders.append("Content-Type", "application/x-www-form-urlencoded");
   myHeaders.append("Cookie", "NAIE_SSID=SalXc6d7rDgQr0lv1akakZ5hIatev1NaDbr45E0K97e6DgMclQtE8LCysCEaZ1rq.TkFQUC9uaG5hYnNsb3dzMDNfbmFpZTAx");
 
   var urlencoded = new URLSearchParams();
   urlencoded.append("nowPage", pageNum.toString());
-  urlencoded.append("na_bzplc", "8808990000855");
+  urlencoded.append("na_bzplc", naBzplcCode);
   urlencoded.append("selDate", date);
   urlencoded.append("dt_from", date);
   urlencoded.append("dt_to", date);
@@ -86,12 +86,12 @@ const loadPageData = async (pageNum, date = '20250910', iItem = '003005009003') 
 };
 
 // 모든 페이지의 데이터를 가져오기
-const loadDailyData = async (date = '20250910', iItem = '003005009003') => {
+const loadDailyData = async (date = '20250910', iItem = '003005009003', naBzplcCode = '8808990000855') => {
   try {
-    console.log(`날짜 ${date}, 품목 ${iItem}의 모든 페이지 데이터 수집 시작...`);
+    console.log(`날짜 ${date}, 품목 ${iItem}, 공판장 ${naBzplcCode}의 모든 페이지 데이터 수집 시작...`);
     
     // 첫 번째 페이지 로드
-    const firstPageHTML = await loadPageData(1, date, iItem);
+    const firstPageHTML = await loadPageData(1, date, iItem, naBzplcCode);
     const maxPage = extractPagingInfo(firstPageHTML);
     
     console.log(`총 ${maxPage}페이지 발견`);
@@ -102,7 +102,7 @@ const loadDailyData = async (date = '20250910', iItem = '003005009003') => {
     for (let pageNum = 1; pageNum <= maxPage; pageNum++) {
       console.log(`페이지 ${pageNum}/${maxPage} 처리 중...`);
       
-      const pageHTML = await loadPageData(pageNum, date, iItem);
+      const pageHTML = await loadPageData(pageNum, date, iItem, naBzplcCode);
       const tableData = extractTableData(pageHTML);
       
       allData.push(...tableData);
