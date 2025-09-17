@@ -12,7 +12,7 @@ const path = require('path');
  */
 const saveToFile = (data, naBzplcCode) => {
   const filename = `nh_data_${naBzplcCode}.json`;
-  const filePath = path.join(__dirname, '..', 'json', 'garlic', 'productList', filename);
+  const filePath = path.join(__dirname, '..', 'json', 'onion', 'productList', filename);
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
   console.log(`데이터가 ${filePath}에 저장되었습니다.`);
 };

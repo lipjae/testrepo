@@ -12,12 +12,15 @@
     "db:studio": "prisma studio"
   },
   "dependencies": {
-    "prisma": "^5.7.1",
     "@prisma/client": "^5.7.1",
-    "sqlite3": "^5.1.6"
+    "mysql2": "^3.14.5",
+    "prisma": "^5.7.1"
   },
-  "devDependencies": {},
-  "keywords": ["scraper", "sqlite", "prisma"],
+  "keywords": [
+    "scraper",
+    "sqlite",
+    "prisma"
+  ],
   "author": "",
   "license": "ISC"
 }

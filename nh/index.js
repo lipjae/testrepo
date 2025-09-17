@@ -9,7 +9,7 @@ const { processDateChunk } = require('./modules/nhScraper');
 const { saveToFile, aggregateData, printSummary } = require('./modules/dataAggregator');
 
 const marketList = require('./market_list.json');
-const productItem = "003005009"
+const productItem = "003005001"
 
 /**
  * 단일 공판장 데이터 수집 함수

@@ -6,13 +6,46 @@ const fs = require('fs');
 const path = require('path');
 const { loadDailyData } = require('./modules/loadDailyData');
 
-const marketList = require('./market_list.json');
+// const marketList = require('./market_list.json');
+const marketList = require('./json/market_list.json');
+
+// 에러 로그 저장 함수
+const saveErrorLog = (error, context) => {
+  try {
+    const errorDir = path.join(__dirname, 'error');
+    
+    // error 디렉토리가 없으면 생성
+    if (!fs.existsSync(errorDir)) {
+      fs.mkdirSync(errorDir, { recursive: true });
+    }
+    
+    const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+    const errorLog = {
+      timestamp: new Date().toISOString(),
+      error: {
+        message: error.message,
+        stack: error.stack,
+        name: error.name
+      },
+      context: context
+    };
+    
+    const filename = `error_${timestamp}.json`;
+    const filePath = path.join(errorDir, filename);
+    
+    fs.writeFileSync(filePath, JSON.stringify(errorLog, null, 2), 'utf8');
+    console.error(`에러 로그가 저장되었습니다: ${filePath}`);
+    
+  } catch (logError) {
+    console.error('에러 로그 저장 중 오류 발생:', logError);
+  }
+};
 
 // JSON 파일 읽기
 const readAggregatedData = (naBzplcCode) => {
   try {
     const filename = `nh_data_${naBzplcCode}.json`;
-    const filePath = path.join(__dirname, 'json', 'garlic', 'productList', filename);
+    const filePath = path.join(__dirname, 'json', 'onion', 'productList', filename);
     const data = fs.readFileSync(filePath, 'utf8');
     return JSON.parse(data);
   } catch (error) {
@@ -64,6 +97,17 @@ const extractDailyPagingData = async (date, items, naBzplcCode) => {
       
     } catch (error) {
       console.error(`    품목 ${item.text} 처리 중 오류:`, error);
+      
+      // 에러 로그 저장
+      saveErrorLog(error, {
+        function: 'extractDailyPagingData',
+        naBzplcCode: naBzplcCode,
+        date: date,
+        item: {
+          text: item.text,
+          value: item.value
+        }
+      });
     }
   }
   
@@ -117,8 +161,8 @@ const processMarket = async (market) => {
       data: allDailyData
     };
     
-    const filename = `all_daily_data_${market.naBzplcCode}.json`;
-    const filePath = path.join(__dirname, 'json', 'garlic', 'productData', filename);
+    const filename = `all_daily_data_onion_${market.naBzplcCode}.json`;
+    const filePath = path.join(__dirname, 'json', 'onion', 'productData', filename);
     fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf8');
     
     console.log(`\n=== ${market.naBzplcName} 추출 완료 ===`);
@@ -129,6 +173,14 @@ const processMarket = async (market) => {
     
   } catch (error) {
     console.error(`${market.naBzplcName} 처리 중 오류:`, error);
+    
+    // 에러 로그 저장
+    saveErrorLog(error, {
+      function: 'processMarket',
+      naBzplcCode: market.naBzplcCode,
+      naBzplcName: market.naBzplcName,
+      market: market
+    });
   }
 };
 
@@ -155,6 +207,13 @@ const main = async () => {
     
   } catch (error) {
     console.error('메인 함수 실행 중 오류:', error);
+    
+    // 에러 로그 저장
+    saveErrorLog(error, {
+      function: 'main',
+      marketListLength: marketList.length,
+      marketList: marketList
+    });
   }
 };
 

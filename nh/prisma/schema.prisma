@@ -7,85 +7,44 @@ generator client {
 
 datasource db {
   provider = "sqlite"
-  url      = env("DATABASE_URL")
+  url      = "file:./dev.db"
 }
 
-// 시장 정보
-model Market {
+// 도매시장 정보
+model WholesaleMarket {
+  marketCode String @id // 공판장코드 13자리 (기본키)
+  marketName String // 공판장명
+
+  @@map("wholesale_markets")
+}
+
+// 품종 정보
+model Variety {
+  varietyCode String @id // 품종코드 12자리 (기본키)
+  varietyName String // 품종명
+
+  @@map("varieties")
+}
+
+// 산지 정보
+model Origin {
+  originCode String @id @default(cuid()) // 산지코드 (기본키)
+  originName String // 산지명
+
+  @@map("origins")
+}
+
+// 품종 상세 정보 (거래 데이터)
+model VarietiesInfo {
   id          String @id @default(cuid())
-  naBzplcCode String @unique
-  naBzplcName String
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
+  marketCode  String // 공판장코드 13자리
+  varietyCode String // 품종코드 12자리
+  originCode  String? // 산지코드 (선택적)
+  grade       String? // 등급
+  weight      Float? // 중량 (소숫점 포함 가능)
+  quantity    Int? // 수량
+  price       Int? // 경락가
+  saleDate    DateTime // 판매일자 (날짜만, 시간 없음)
 
-  // 관계
-  productLists ProductList[]
-  productData  ProductData[]
-
-  @@map("markets")
-}
-
-// 상품 목록 데이터
-model ProductList {
-  id          String @id @default(cuid())
-  marketId    String
-  date        String // YYYYMMDD 형식
-  totalDays   Int
-  successDays Int
-  failedDays  Int
-  dateRange   String // JSON string: { start: string, end: string }
-  generatedAt DateTime
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
-
-  // 관계
-  market Market @relation(fields: [marketId], references: [id], onDelete: Cascade)
-
-  @@unique([marketId, date])
-  @@map("product_lists")
-}
-
-// 상품 상세 데이터
-model ProductData {
-  id          String @id @default(cuid())
-  marketId    String
-  date        String // YYYYMMDD 형식
-  itemCode    String
-  itemName    String
-  extractedAt DateTime
-  totalDays   Int
-  totalItems  Int
-  totalRecords Int
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
-
-  // 관계
-  market Market @relation(fields: [marketId], references: [id], onDelete: Cascade)
-  records ProductRecord[]
-
-  @@unique([marketId, date, itemCode])
-  @@map("product_data")
-}
-
-// 개별 판매 기록
-model ProductRecord {
-  id           String @id @default(cuid())
-  productDataId String
-  saleDate     String // 판매일자
-  variety      String // 품종
-  grade        String? // 등급
-  specification String? // 규격
-  unit         String? // 단위
-  quantity     String? // 수량
-  avgPrice     String? // 평균가격
-  maxPrice     String? // 최고가격
-  minPrice     String? // 최저가격
-  volume       String? // 거래량
-  createdAt    DateTime @default(now())
-  updatedAt    DateTime @updatedAt
-
-  // 관계
-  productData ProductData @relation(fields: [productDataId], references: [id], onDelete: Cascade)
-
-  @@map("product_records")
+  @@map("varieties_infos")
 }
