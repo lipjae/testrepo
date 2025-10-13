@@ -4,8 +4,11 @@ const path = require('path');
 
 const prisma = new PrismaClient();
 
+// 년도
+const year = '2024'
+
 // 품목별 저장 명칭
-const productName = 'onion'
+const productName = 'garlic'
 
 // 데이터 삽입 함수들
 async function insertMarketData() {
@@ -43,7 +46,7 @@ async function insertMarketData() {
 
 async function insertVarietyData() {
   try {
-    const varietyData = JSON.parse(fs.readFileSync(`./json/${productName}/productList_${productName}.json`, 'utf8'));
+    const varietyData = JSON.parse(fs.readFileSync(`./json/${year}/${productName}/productList_${productName}.json`, 'utf8'));
     console.log(`총 ${varietyData.length}개의 품종 데이터를 삽입합니다...`);
     
     let insertedCount = 0;
@@ -51,6 +54,7 @@ async function insertVarietyData() {
       try {
         await prisma.variety.create({
           data: {
+            level: 2,
             varietyCode: variety.value,
             varietyName: variety.text
           }
@@ -76,7 +80,7 @@ async function insertVarietyData() {
 
 async function insertOriginData() {
   try {
-    const originData = JSON.parse(fs.readFileSync(`./json/${productName}/originList.json`, 'utf8'));
+    const originData = JSON.parse(fs.readFileSync(`./json/${year}/${productName}/originList.json`, 'utf8'));
     console.log(`총 ${originData.length}개의 산지 데이터를 삽입합니다...`);
     
     // 기존 산지명들을 미리 조회하여 중복 체크용 Set 생성
@@ -140,7 +144,7 @@ async function insertProductData(filePath = null) {
       filesToProcess = [filePath];
     } else {
       // 모든 productData 파일 처리
-      const productDataDir = `./json/${productName}/productData`;
+      const productDataDir = `./json/${year}/${productName}/productData`;
       const files = fs.readdirSync(productDataDir).filter(file => file.endsWith('.json'));
       filesToProcess = files.map(file => path.join(productDataDir, file));
     }
@@ -182,7 +186,7 @@ async function insertProductData(filePath = null) {
               batch.push({
                 marketCode: marketCode,
                 varietyCode: varietyCode,
-                originCode: originCode || 'cmff4tckk000014ov09uhn0aq',
+                originCode: originCode || 'cmfnm57t500003si1qnrhk162',
                 grade: record.등급 || null,
                 weight: record.중량 ? parseFloat(record.중량.replace(/,/g, '')) : null,
                 quantity: record.수량 ? parseInt(record.수량.replace(/,/g, '')) : null,

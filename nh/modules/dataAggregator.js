@@ -11,8 +11,8 @@ const path = require('path');
  * @param {string} naBzplcCode - 공판장 코드
  */
 const saveToFile = (data, naBzplcCode) => {
-  const filename = `nh_data_${naBzplcCode}.json`;
-  const filePath = path.join(__dirname, '..', 'json', 'onion', 'productList', filename);
+  const filename = `nh_data_garlic_${naBzplcCode}.json`;
+  const filePath = path.join(__dirname, '..', 'json', '2024', 'garlic', 'productList', filename);
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
   console.log(`데이터가 ${filePath}에 저장되었습니다.`);
 };

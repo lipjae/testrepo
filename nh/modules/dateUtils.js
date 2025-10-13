@@ -22,8 +22,13 @@ const generateDateRange = (testMode = false) => {
     return dates;
   }
   
-  const startDate = new Date(new Date().getFullYear(), 0, 1); // 올해 1월 1일
-  const endDate = new Date(); // 오늘
+  // 기존 코드 주석 처리
+  // const startDate = new Date(new Date().getFullYear(), 0, 1); // 올해 1월 1일
+  // const endDate = new Date(); // 오늘
+  
+  // 2024년 1월 1일 ~ 2024년 12월 31일
+  const startDate = new Date(2024, 0, 1); // 2024년 1월 1일
+  const endDate = new Date(2024, 11, 31); // 2024년 12월 31일
   const dates = [];
   
   for (let date = new Date(startDate); date <= endDate; date.setDate(date.getDate() + 1)) {

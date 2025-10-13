@@ -86,7 +86,7 @@ const loadPageData = async (pageNum, date = '20250910', iItem = '003005009003', 
 };
 
 // 모든 페이지의 데이터를 가져오기
-const loadDailyData = async (date = '20250910', iItem = '003005009003', naBzplcCode = '8808990000855') => {
+const loadDailyData = async (date, iItem, naBzplcCode) => {
   try {
     console.log(`날짜 ${date}, 품목 ${iItem}, 공판장 ${naBzplcCode}의 모든 페이지 데이터 수집 시작...`);
     

@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "sqlite"
-  url      = "file:./dev.db"
+  url      = "file:./wholesaleMakret.db"
 }
 
 // 도매시장 정보
@@ -20,6 +20,7 @@ model WholesaleMarket {
 
 // 품종 정보
 model Variety {
+  level       Int // 레벨 (1, 2)
   varietyCode String @id // 품종코드 12자리 (기본키)
   varietyName String // 품종명
 

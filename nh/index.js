@@ -8,8 +8,10 @@ const { generateDateRange, chunkArray } = require('./modules/dateUtils');
 const { processDateChunk } = require('./modules/nhScraper');
 const { saveToFile, aggregateData, printSummary } = require('./modules/dataAggregator');
 
-const marketList = require('./market_list.json');
-const productItem = "003005001"
+const marketList = require('./json/market_list.json');
+// 양파 003005001
+// 마늘 003005009
+const productItem = "003005009"
 
 /**
  * 단일 공판장 데이터 수집 함수

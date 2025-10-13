@@ -8,6 +8,8 @@ const { loadDailyData } = require('./modules/loadDailyData');
 
 // const marketList = require('./market_list.json');
 const marketList = require('./json/market_list.json');
+const year = '2024'
+const productItem = 'garlic'
 
 // 에러 로그 저장 함수
 const saveErrorLog = (error, context) => {
@@ -44,8 +46,8 @@ const saveErrorLog = (error, context) => {
 // JSON 파일 읽기
 const readAggregatedData = (naBzplcCode) => {
   try {
-    const filename = `nh_data_${naBzplcCode}.json`;
-    const filePath = path.join(__dirname, 'json', 'onion', 'productList', filename);
+    const filename = `nh_data_${productItem}_${naBzplcCode}.json`;
+    const filePath = path.join(__dirname, 'json', year, productItem, 'productList', filename);
     const data = fs.readFileSync(filePath, 'utf8');
     return JSON.parse(data);
   } catch (error) {
@@ -161,8 +163,8 @@ const processMarket = async (market) => {
       data: allDailyData
     };
     
-    const filename = `all_daily_data_onion_${market.naBzplcCode}.json`;
-    const filePath = path.join(__dirname, 'json', 'onion', 'productData', filename);
+    const filename = `all_daily_data_${productItem}_${market.naBzplcCode}.json`;
+    const filePath = path.join(__dirname, 'json', year,  productItem, 'productData', filename);
     fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf8');
     
     console.log(`\n=== ${market.naBzplcName} 추출 완료 ===`);

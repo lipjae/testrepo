@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-
-const productName = 'onion'
+const year = '2024'
+const productName = 'garlic'
 
 // 에러 로그 저장 함수
 const saveErrorLog = (error, context) => {
@@ -53,7 +53,7 @@ const readJsonFile = (filePath) => {
 
 // 모든 품목 데이터 수집
 const collectAllVarieties = () => {
-  const productListDir = path.join(__dirname, 'json', productName, 'productList');
+  const productListDir = path.join(__dirname, 'json', year, productName, 'productList');
   const varietiesSet = new Set();
   
   try {
@@ -110,7 +110,7 @@ const collectAllVarieties = () => {
 // 결과 저장
 const saveProductList = (varieties) => {
   try {
-    const outputPath = path.join(__dirname, 'json', productName, `productList_${productName}.json`);
+    const outputPath = path.join(__dirname, 'json', year, productName, `productList_${productName}.json`);
     
     fs.writeFileSync(outputPath, JSON.stringify(varieties, null, 2), 'utf8');
     

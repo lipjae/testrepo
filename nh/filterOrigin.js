@@ -1,9 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
+const year = '2024'
+const productName = 'onion'
+
 async function extractOriginList() {
   try {
-    const productDataDir = './json/onion/productData';
+    const productDataDir = `./json/${year}/${productName}/productData`;
     const originSet = new Set(); // 중복 제거를 위한 Set 사용
     
     console.log('productData 폴더의 JSON 파일들을 스캔 중...');
@@ -26,7 +29,10 @@ async function extractOriginList() {
                 if (item.data && Array.isArray(item.data)) {
                   for (const record of item.data) {
                     if (record.산지 && record.산지.trim()) {
-                      originSet.add(record.산지.trim());
+                      const originValue = record.산지.trim();
+                      // 산지 값이 "1"인 경우 "정의되지 않은 값"으로 저장
+                      const finalOrigin = originValue === "1" ? "정의되지 않은 값" : originValue;
+                      originSet.add(finalOrigin);
                     }
                   }
                 }
@@ -47,7 +53,7 @@ async function extractOriginList() {
     console.log(`총 ${originList.length}개의 고유한 산지를 발견했습니다.`);
     
     // originList.json 파일로 저장
-    const outputPath = './json/onion/originList.json';
+    const outputPath = `./json/${year}/${productName}/originList.json`;
     const outputDir = path.dirname(outputPath);
     
     // 디렉토리가 없으면 생성
